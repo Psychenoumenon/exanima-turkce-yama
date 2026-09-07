@@ -1,0 +1,5612 @@
+[
+ {
+  "en": "\rFighters gain a [tcol=FFE399]rank[/tcol] every two skill techniques learnt.\r\rEach rank has a corresponding loadout. Which loadout is used depends on the tier of the match. Use the slider to select a ranked loadout.\r\r[tcol=FFE399]Point[/tcol] limits are also applied to each rank. Every item carries a point cost.",
+  "prev": "Manage",
+  "next": "WARNING",
+  "tr": "\rDövüşçüler öğrendikleri her iki teknikte bir [tcol=FFE399]rütbe[/tcol] kazanır.\r\rHer rütbenin bir teçhizatı vardır. Hangisinin kullanılacağı maçın kademesine bağlıdır. Rütbeli teçhizatı sürgüyle seçin.\r\rHer rütbeye ayrıca [tcol=FFE399]puan[/tcol] sınırı uygulanır. Her eşyanın bir puan bedeli vardır."
+ },
+ {
+  "en": "\rMatches are split into three main categories.\r\r[tcol=FFE399]Standard[/tcol] matches can be run at any time and configured to your preference.\r\r[tcol=FFEF99]Specials[/tcol] change daily and can only be run when and as available.\r\r[tcol=FFE399]Tournaments[/tcol] are weekly multiple match events where fighting companies compete for important prizes.\r\rSelect a match and then enter your fighters by dragging them to the right. Some matches require multiple participants.\r\r[tcol=FFE399]Rank[/tcol] is a requirement, your fighter must attain this rank before they can participate.\r\r[tcol=FFE399]Tier[/tcol] indicates the level of equipment used in the match. This corresponds to your loadouts in the manage screen.",
+  "prev": "Matches",
+  "next": "Trading",
+  "tr": "\rMaçlar üç ana türe ayrılır.\r\r[tcol=FFE399]Standart[/tcol] maçlar her an düzenlenebilir ve dilediğiniz gibi ayarlanabilir.\r\r[tcol=FFEF99]Özel[/tcol] maçlar her gün değişir; yalnızca açık oldukları zaman oynanabilir.\r\r[tcol=FFE399]Turnuvalar[/tcol] haftalıktır; dövüş bölüklerinin önemli ödüller için yarıştığı çok maçlı etkinliklerdir.\r\rBir maç seçin, sonra dövüşçülerinizi sağa sürükleyerek kaydedin. Bazı maçlar birden çok katılımcı ister.\r\r[tcol=FFE399]Rütbe[/tcol] bir koşuldur; dövüşçünüz katılabilmek için o rütbeye ulaşmalıdır.\r\r[tcol=FFE399]Kademe[/tcol] maçta kullanılan teçhizatın düzeyini gösterir. Bu, yönetim ekranındaki teçhizatlarınıza karşılık gelir."
+ },
+ {
+  "en": "\rThe inventory shows items you are currently wearing and carrying.\r\rItems you wear while outside of a match are not carried into matches. To equip items for combat you must use the management screen.",
+  "prev": "Inventory",
+  "next": "Matches",
+  "tr": "\rEnvanter, üzerinizdeki ve taşıdığınız eşyaları gösterir.\r\rMaç dışında giydikleriniz maça taşınmaz. Dövüş için teçhizat kuşanmak isterseniz yönetim ekranını kullanmalısınız."
+ },
+ {
+  "en": "\rThe items you have purchased can be found in your Arsenal, accessible through the Roster.",
+  "prev": "Purchased Items",
+  "next": "Tournaments",
+  "tr": "\rSatın aldığınız eşyalar, Kadro üzerinden açılan Cephane bölümündedir."
+ },
+ {
+  "en": "\rThis is where you can buy and sell items.\r\rDrag items you want to buy from the shop's stock to the right pane, items you want to sell go in the left pane.\r\rYou can try items on before you buy them by dragging them on to the paperdoll.\r\rNote that rank restrictions are applied to some items. You must achieve that rank and participate in appropriate matches to use these.\r\rInvest early and invest wisely, even a few basic layers of clothing can offer great protection from injury.",
+  "prev": "Trading",
+  "next": "Manage Company",
+  "tr": "\rBurada eşya alıp satabilirsiniz.\r\rAlmak istediklerinizi dükkânın stokundan sağ bölmeye, satmak istediklerinizi sol bölmeye sürükleyin.\r\rAlmadan önce eşyaları mankene sürükleyerek deneyebilirsiniz.\r\rBazı eşyalarda rütbe koşulu vardır. Bunları kullanmak için o rütbeye ulaşmalı ve uygun maçlara katılmalısınız.\r\rErken ve akıllıca yatırım yapın; birkaç kat basit giysi bile yaralanmaya karşı iyi koruma sağlar."
+ },
+ {
+  "en": "\rThis is your base of operations and living space.\r\r[tcol=FFE399]Manage[/tcol] your company by clicking on the board on our left.\r\rDirectly ahead is a [tcol=FFE399]Shop[/tcol] where you can buy and sell equipment.\r\r[tcol=FFE399]Matches[/tcol] that you can participate in are accessed from the board on your right.",
+  "prev": "Getting Started",
+  "next": "Inventory",
+  "tr": "\rBurası hem üssünüz hem de yaşam alanınız.\r\rSolunuzdaki panoya tıklayarak bölüğünüzü [tcol=FFE399]yönetin[/tcol].\r\rTam karşınızda teçhizat alıp satabileceğiniz bir [tcol=FFE399]Dükkân[/tcol] var.\r\rKatılabileceğiniz [tcol=FFE399]Maçlar[/tcol] sağınızdaki panodan açılır."
+ },
+ {
+  "en": "\rTournaments are held weekly. Fighting companies compete in each tournament for a prize. If a company wins all four tournaments in a season they are awarded an exclusive suit of armour.\r\rYou must enter fighters in advance of the tournament day; once the tournament is in progress you will not be able to enter or remove fighters. Only master rank fighters are eligible to participate in tournaments.\r\rTo win a tournament you must win at least three of the six events. It is advisable to enter different fighters in as many events as you can to improve your chances of winning.",
+  "prev": "Tournaments",
+  "next": "MANUAL",
+  "tr": "\rTurnuvalar haftalık düzenlenir. Dövüş bölükleri her turnuvada bir ödül için yarışır. Bir bölük sezondaki dört turnuvanın dördünü de kazanırsa özel bir zırh takımı kazanır.\r\rDövüşçüleri turnuva gününden önce kaydetmelisiniz; turnuva başladıktan sonra dövüşçü ekleyip çıkaramazsınız. Turnuvalara yalnızca usta rütbeli dövüşçüler katılabilir.\r\rBir turnuvayı kazanmak için altı etkinliğin en az üçünü kazanmalısınız. Kazanma şansınızı artırmak için olabildiğince çok etkinliğe farklı dövüşçüler sokmanız yerinde olur."
+ },
+ {
+  "en": "\r[tcol=FF0000C0]You are about to enter your manager into a match. If your manager is killed you will lose all progress![/tcol]\r\rConsider recruiting fighters to avoid unnecessary risks.",
+  "prev": "WARNING",
+  "next": "Purchased Items",
+  "tr": "\r[tcol=FF0000C0]Yöneticinizi bir maça sokmak üzeresiniz. Yöneticiniz ölürse tüm ilerlemenizi yitirirsiniz![/tcol]\r\rGereksiz riske girmemek için dövüşçü kiralamayı düşünün."
+ },
+ {
+  "en": "\r[tcol=FFE399]Manage[/tcol] equipment and training for your roster.\r\rThe [tcol=FFE399]Arsenal[/tcol] allows you to organise your equipment.\r\r[tcol=FFE399]Recruit[/tcol] new fighters to control in battle.\r\r[tcol=FFE399]Hire[/tcol] combatants for team matches and other staff.\r\rDaily [tcol=FFE399]report[/tcol] items can be double clicked to take action.",
+  "prev": "Manage Company",
+  "next": "Manage",
+  "tr": "\rKadronuzun teçhizatını ve eğitimini [tcol=FFE399]yönetin[/tcol].\r\r[tcol=FFE399]Cephane[/tcol] teçhizatınızı düzenlemenizi sağlar.\r\rDövüşte yöneteceğiniz yeni dövüşçüleri [tcol=FFE399]kiralayın[/tcol].\r\rTakım maçları için savaşçıları ve diğer görevlileri [tcol=FFE399]tutun[/tcol].\r\rGünlük [tcol=FFE399]rapor[/tcol] satırlarına çift tıklayıp işlem yapın."
+ },
+ {
+  "en": " Coarse",
+  "prev": " Ultra",
+  "next": " 2x",
+  "tr": " Kaba"
+ },
+ {
+  "en": " Day ",
+  "prev": "Week ",
+  "next": "Day ",
+  "tr": " Gün "
+ },
+ {
+  "en": " High",
+  "prev": " Medium",
+  "next": " Very high",
+  "tr": " Yüksek"
+ },
+ {
+  "en": " Low",
+  "prev": " Off",
+  "next": " Medium",
+  "tr": " Düşük"
+ },
+ {
+  "en": " Medium",
+  "prev": " Low",
+  "next": " High",
+  "tr": " Orta"
+ },
+ {
+  "en": " Off",
+  "prev": "Hold [tcol=FFE399]Powers[/tcol] to access the power tree.\r\rPress [tcol=FFE399]Use Power[/tcol] with the power bar open to use a power directly without changing which is active.\r\rYou can toggle in and out of dialogue mode without ending the conversation by pressing [tcol=FFE399]Talk[/tcol].",
+  "next": " Low",
+  "tr": " Kapalı"
+ },
+ {
+  "en": " Ultra",
+  "prev": " Very high",
+  "next": " Coarse",
+  "tr": " Ultra"
+ },
+ {
+  "en": " Very high",
+  "prev": " High",
+  "next": " Ultra",
+  "tr": " Çok yüksek"
+ },
+ {
+  "en": " and",
+  "prev": "It is ",
+  "next": ", but",
+  "tr": " ve"
+ },
+ {
+  "en": " days.",
+  "prev": "Tournament begins in ",
+  "next": "Entered ",
+  "tr": " gün."
+ },
+ {
+  "en": " has been dismissed.",
+  "prev": " was saved from lethal injury.",
+  "next": " has joined the company.",
+  "tr": " kovuldu."
+ },
+ {
+  "en": " has died.",
+  "prev": "You forfeited ",
+  "next": " was saved from lethal injury.",
+  "tr": " öldü."
+ },
+ {
+  "en": " has joined the company.",
+  "prev": " has been dismissed.",
+  "next": " has left the company.",
+  "tr": " bölüğe katıldı."
+ },
+ {
+  "en": " has left the company.",
+  "prev": " has joined the company.",
+  "next": "A merchant is available for hire.",
+  "tr": " bölükten ayrıldı."
+ },
+ {
+  "en": " has reached ",
+  "prev": " has trained a new technique.",
+  "next": " rank.",
+  "tr": " ulaştı: "
+ },
+ {
+  "en": " has trained a new technique.",
+  "prev": "The tournament begins in ",
+  "next": " has reached ",
+  "tr": " yeni teknik öğrendi."
+ },
+ {
+  "en": " match.",
+  "prev": "You have won ",
+  "next": "You have lost ",
+  "tr": " maç."
+ },
+ {
+  "en": " merchants are available for hire.",
+  "prev": "A merchant is available for hire.",
+  "next": "A trainer is available for hire.",
+  "tr": " tüccar tutulabilir."
+ },
+ {
+  "en": " physicians are available for hire.",
+  "prev": "A physician is available for hire.",
+  "next": "The tournament takes place today.",
+  "tr": " hekim tutulabilir."
+ },
+ {
+  "en": " rank.",
+  "prev": " has reached ",
+  "next": "an ",
+  "tr": " rütbe."
+ },
+ {
+  "en": " trainers are available for hire.",
+  "prev": "A trainer is available for hire.",
+  "next": "A physician is available for hire.",
+  "tr": " eğitmen tutulabilir."
+ },
+ {
+  "en": " was saved from lethal injury.",
+  "prev": " has died.",
+  "next": " has been dismissed.",
+  "tr": " ölümcül yaradan kurtuldu."
+ },
+ {
+  "en": ", but",
+  "prev": " and",
+  "next": "well made ",
+  "tr": ", ama"
+ },
+ {
+  "en": "<Random>",
+  "prev": "ThmMnd_C03",
+  "next": "Cloth Rough",
+  "tr": "<Rastgele>"
+ },
+ {
+  "en": "<Random>",
+  "prev": "Exceptional",
+  "next": "Normal",
+  "tr": "<Rastgele>"
+ },
+ {
+  "en": "A ",
+  "prev": "An ",
+  "next": "It is",
+  "tr": ""
+ },
+ {
+  "en": "A merchant is available for hire.",
+  "prev": " has left the company.",
+  "next": " merchants are available for hire.",
+  "tr": "Tutulabilecek bir tüccar var."
+ },
+ {
+  "en": "A physician is available for hire.",
+  "prev": " trainers are available for hire.",
+  "next": " physicians are available for hire.",
+  "tr": "Tutulabilecek bir hekim var."
+ },
+ {
+  "en": "A trainer is available for hire.",
+  "prev": " merchants are available for hire.",
+  "next": " trainers are available for hire.",
+  "tr": "Tutulabilecek bir eğitmen var."
+ },
+ {
+  "en": "AI Error",
+  "prev": "Error processing potential opponent: ",
+  "next": "Player view object not found.",
+  "tr": "YZ hatası"
+ },
+ {
+  "en": "ALREADY IN USE",
+  "prev": ">",
+  "next": "PRESS A KEY",
+  "tr": "KULLANIMDA"
+ },
+ {
+  "en": "APPAREL",
+  "prev": "V",
+  "next": "WEAPONS",
+  "tr": "KIYAFET"
+ },
+ {
+  "en": "ARENA",
+  "prev": "CONTINUE",
+  "next": "MANUAL",
+  "tr": "ARENA"
+ },
+ {
+  "en": "ARSENAL",
+  "prev": "No",
+  "next": "Previous",
+  "tr": "CEPHANE"
+ },
+ {
+  "en": "Abandon your attack to quickly parry.",
+  "prev": "Fend",
+  "next": "Riposte",
+  "tr": "Saldırıyı bırakıp hızla savuşturun."
+ },
+ {
+  "en": "Abandon your attack to quickly parry.",
+  "prev": "Impel",
+  "next": "Brace",
+  "tr": "Saldırıyı bırakıp hızla savuşturun."
+ },
+ {
+  "en": "Abandon your attack to quickly parry.",
+  "prev": "Fend",
+  "next": "Riposte",
+  "tr": "Saldırıyı bırakıp hızla savuşturun."
+ },
+ {
+  "en": "Absorption",
+  "prev": "Confidence in your armour allows you to continue attacks while receiving blows.",
+  "next": "Exploit the mobility of lighter armour to absorb more impact from blows.",
+  "tr": "Soğurma"
+ },
+ {
+  "en": "Abstraction",
+  "prev": "Maintain three bindings while performing other tasks.",
+  "next": "Continuous bindings require less of your focus.",
+  "tr": "Soyutlama"
+ },
+ {
+  "en": "Abstraction",
+  "prev": "Maintain three bindings while performing other tasks.",
+  "next": "Continuous bindings require less of your focus.",
+  "tr": "Soyutlama"
+ },
+ {
+  "en": "Actively protect gaps and weak areas in your armour.",
+  "prev": "Deflection",
+  "next": "Security",
+  "tr": "Zırhınızdaki boşluk ve zayıf noktaları etkin koruyun."
+ },
+ {
+  "en": "Actively protect gaps and weak areas in your armour.",
+  "prev": "Deflection",
+  "next": "Security",
+  "tr": "Zırhınızdaki boşluk ve zayıf noktaları etkin koruyun."
+ },
+ {
+  "en": "Adept",
+  "prev": "Novice",
+  "next": "Expert",
+  "tr": "Yetkin"
+ },
+ {
+  "en": "Adept",
+  "prev": "Novice",
+  "next": "Expert",
+  "tr": "Yetkin"
+ },
+ {
+  "en": "After a parry, rapidly follow with an attack.",
+  "prev": "Riposte",
+  "next": "Draw",
+  "tr": "Savuşturmanın ardından hızla saldırın."
+ },
+ {
+  "en": "After a parry, rapidly follow with an attack.",
+  "prev": "Riposte",
+  "next": "Draw",
+  "tr": "Savuşturmanın ardından hızla saldırın."
+ },
+ {
+  "en": "Age  ",
+  "prev": "Height",
+  "next": "SKIN TONE",
+  "tr": "Yaş  "
+ },
+ {
+  "en": "Age   ",
+  "prev": "Height",
+  "next": "Skin Tone",
+  "tr": "Yaş   "
+ },
+ {
+  "en": "Aim Speed: ",
+  "prev": "Configure Controller",
+  "next": "25",
+  "tr": "Nişan hızı: "
+ },
+ {
+  "en": "Aim your swings at precise locations.",
+  "prev": "Cut or hook with your weapon after landing a blow.",
+  "next": "Use stronger bracing parries to stop more powerful blows.",
+  "tr": "Vuruşlarınızı hedefli yerlere yöneltin."
+ },
+ {
+  "en": "Already chosen.",
+  "prev": "Unavailable.",
+  "next": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform vec4 Colour;\r\nvoid main() {\r\nvec2 s = abs(0.5 - vrTex);\r\nfloat a = max(1.0 - dot(s, s) * 4.0, 0.0);\r\na = min(a * 4.0, 1.0);\r\na = a * a;\r\nFragColor.rgb = Colour.rgb;FragColor.a = Colour.a * a;}",
+  "tr": "Zaten seçili."
+ },
+ {
+  "en": "Also found [a].",
+  "prev": "Found [a] too.",
+  "next": "There's [a] too.",
+  "tr": "Ayrıca [a]."
+ },
+ {
+  "en": "Also found some [i].",
+  "prev": "Found some [i] too.",
+  "next": "There's some [i] too.",
+  "tr": "Ayrıca biraz [i]."
+ },
+ {
+  "en": "Alternate Attack",
+  "prev": "TAB",
+  "next": "Alt",
+  "tr": "Alternatif saldırı"
+ },
+ {
+  "en": "Amalgamation",
+  "prev": "Learn from observation and external sources of knowledge.",
+  "next": "Combine effects from different domains.",
+  "tr": "Kaynaşma"
+ },
+ {
+  "en": "Amalgamation",
+  "prev": "Learn from observation and external sources of knowledge.",
+  "next": "Combine effects from different domains.",
+  "tr": "Kaynaşma"
+ },
+ {
+  "en": "An ",
+  "prev": ".",
+  "next": "A ",
+  "tr": ""
+ },
+ {
+  "en": "Analysing system",
+  "prev": " MB",
+  "next": "Configuration",
+  "tr": "Sistem inceleniyor…"
+ },
+ {
+  "en": "And [a].",
+  "prev": "These [i] could be useful.",
+  "next": "Found [a] too.",
+  "tr": "Ve [a]."
+ },
+ {
+  "en": "And some [i].",
+  "prev": "There's [a] too.",
+  "next": "Found some [i] too.",
+  "tr": "Ve biraz [i]."
+ },
+ {
+  "en": "Antialiasing: ",
+  "prev": "Medium",
+  "next": "Full screen ",
+  "tr": "Yumuşatma: "
+ },
+ {
+  "en": "Any",
+  "prev": "Weapons",
+  "next": "Inept",
+  "tr": "Hepsi"
+ },
+ {
+  "en": "Anything",
+  "prev": "Manage Company",
+  "next": "Clothing & Armour",
+  "tr": "Her şey"
+ },
+ {
+  "en": "Apply",
+  "prev": "Detect",
+  "next": "Close",
+  "tr": "Uygula"
+ },
+ {
+  "en": "Apply",
+  "prev": "Defaults",
+  "next": "Cancel",
+  "tr": "Uygula"
+ },
+ {
+  "en": "Apply",
+  "prev": "Production Mode",
+  "next": "Cancel",
+  "tr": "Uygula"
+ },
+ {
+  "en": "Apply an effect in a broader area or target.",
+  "prev": "Expansion",
+  "next": "Convergence",
+  "tr": "Etkiyi daha geniş alan ya da hedefe uygulayın."
+ },
+ {
+  "en": "Apply an effect in a broader area or target.",
+  "prev": "Expansion",
+  "next": "Convergence",
+  "tr": "Etkiyi daha geniş alan ya da hedefe uygulayın."
+ },
+ {
+  "en": "Applying new settings...",
+  "prev": "\r\n",
+  "next": "3",
+  "tr": "Yeni ayarlar uygulanıyor..."
+ },
+ {
+  "en": "Are you sure you want to delete ",
+  "prev": "No",
+  "next": "Delete",
+  "tr": "Silmek istediğinize emin misiniz: "
+ },
+ {
+  "en": "Are you sure you want to dismiss ",
+  "prev": "[algn=2]Teams of two face each other in three rounds. \r\nDefeated fighters do not continue to the next round.",
+  "next": "Dismiss",
+  "tr": "Kovmak istediğinize emin misiniz: "
+ },
+ {
+  "en": "Are you sure you want to forget this technique?",
+  "prev": "No",
+  "next": "Error Creating Character View.",
+  "tr": "Bu tekniği unutmak istediğinize emin misiniz?"
+ },
+ {
+  "en": "Armour",
+  "prev": "Ranged Combat",
+  "next": "Shields",
+  "tr": "Zırh"
+ },
+ {
+  "en": "Armour",
+  "prev": "Ranged Combat",
+  "next": "Shields",
+  "tr": "Zırh"
+ },
+ {
+  "en": "Armour can be worn in layers for even better protection.",
+  "prev": "Impact mainly deals stamina damage but also affects all other damage types.",
+  "next": "Higher coverage armour has fewer exposed parts and weaknesses.",
+  "tr": "Zırh katmanlar halinde giyilerek daha iyi koruma sağlar."
+ },
+ {
+  "en": "Arsenal",
+  "prev": "Manage",
+  "next": "Recruit",
+  "tr": "Cephane"
+ },
+ {
+  "en": "Aspirant",
+  "prev": "Inept",
+  "next": "Novice",
+  "tr": "Çırak"
+ },
+ {
+  "en": "Aspirant",
+  "prev": "Inept",
+  "next": "Novice",
+  "tr": "Çırak"
+ },
+ {
+  "en": "Audio",
+  "prev": "Error processing sound sources.",
+  "next": "Error processing audio environment.",
+  "tr": "Ses"
+ },
+ {
+  "en": "Audio Device",
+  "prev": "Generic Software",
+  "next": "Error opening audio device,",
+  "tr": "Ses aygıtı"
+ },
+ {
+  "en": "Audio engine",
+  "prev": "Failed to initialise sound environment.",
+  "next": "Error processing sound sources.",
+  "tr": "Ses motoru"
+ },
+ {
+  "en": "Audio initialisation",
+  "prev": "Error opening audio device,",
+  "next": "Failed to open audio device.",
+  "tr": "Ses başlatma"
+ },
+ {
+  "en": "Audio volume: ",
+  "prev": "Video Memory: ",
+  "next": "Music",
+  "tr": "Ses seviyesi: "
+ },
+ {
+  "en": "Augmenting strikes by swinging and moving your body can greatly increase damage.",
+  "prev": "CONTINUE",
+  "next": "Your character is subject to physics, your inputs must work in harmony with them.",
+  "tr": "Bedeninizi savurarak ve hareket ettirerek vuruşlarınızı güçlendirmek hasarı artırır."
+ },
+ {
+  "en": "Available",
+  "prev": "Prize:",
+  "next": "Entered 1/1",
+  "tr": "Uygun"
+ },
+ {
+  "en": "Axe",
+  "prev": "Shortsword",
+  "next": "War Hammer",
+  "tr": "Balta"
+ },
+ {
+  "en": "BACK",
+  "prev": "PRACTICE",
+  "next": "NEW GAME",
+  "tr": "GERİ"
+ },
+ {
+  "en": "BACK",
+  "prev": "HAIR",
+  "next": "NEXT",
+  "tr": "GERİ"
+ },
+ {
+  "en": "BACK",
+  "prev": "Journal",
+  "next": "Continue from checkpoint",
+  "tr": "GERİ"
+ },
+ {
+  "en": "BACK",
+  "prev": "Choose which new power you wish to learn first.",
+  "next": "BEGIN",
+  "tr": "GERİ"
+ },
+ {
+  "en": "BACK",
+  "prev": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform vec3 Colour1;\r\nuniform vec3 Colour2;\r\nuniform vec3 Colour3;\r\nuniform vec3 Colour4;\r\nuniform vec2 Mirror;\r\nuniform float Alpha;\r\nuniform sampler2D Tex0;\r\nuniform sampler2D Tex1;\r\nuniform sampler2D Tex2;\r\nuniform sampler2D Tex3;\r\nvoid main() {\r\nfloat a, b, c;\r\nvec3 f;\r\nvec2 t;\r\nt = vrTex;\r\nt.x = (t.x - 0.5) * Mirror.x + 0.5;\r\na = texture(Tex0, t).r;\r\nvec3 v = mix(Colour1, Colour2, a);\r\nt = vrTex * 2.0 - 0.5;\r\nt.x = (t.x - 0.5) * Mirror.y + 0.5;\r\nvec4 dt = texture(Tex1, t);\r\nc = texture(Tex2, vrTex).r;\r\nv = v * (c+2.5) * 0.333;\r\nv = mix(v, Colour3 * (c+0.5), max(dt.a * 3.0 - 2.0, 0.0));\r\na = dt.a * (1.0 - dt.r);\r\na = a*a*a*(a*(6.0*a-15.0)+10.0);\r\nv = mix(v, Colour4 * (c+0.5), a);\r\nt = abs(0.5 - vrTex.xy) * 2.0;\r\nfloat g = min(dot(t,t), 1.0);\r\na = min((1.0 - g) * 25.0, 1.0);\r\nb = clamp((0.955 - g) * 25.0, 0.0, 1.0);\r\nfloat d = c * 0.75 + 0.25;\r\nb = min((max(a,0.0)-b) * d * 2.5, 1.0);\r\nvec3 col4 = vec3(0.5, 0.48, 0.44) * 2.0;\r\nv = mix(v, col4, b);\r\nf = v * 0.8 + 0.1;\r\nvec3 bt = texture(Tex3, vrTex).rgb;\r\nbt = bt * 0.6 + 0.2;\r\nif (f.r > 0.5) {\r\n  v.r = 1.0 - (1.0-bt.r) * (1.0-f.r) * 2.0;\r\n} else {v.r = 2.0 * f.r * bt.r;}\r\nif (f.g > 0.5) {\r\n  v.g = 1.0 - (1.0-bt.g) * (1.0-f.g) * 2.0;\r\n} else {\r\n  v.g = 2.0 * f.g * bt.g;\r\n}\r\nif (f.b > 0.5) {\r\n  v.b = 1.0 - (1.0-bt.b) * (1.0-f.b) * 2.0;\r\n} else {\r\n  v.b = 2.0 * f.b * bt.b;\r\n}\r\nb = min(b + max((0.95-g) * 10, 0.0), 1.0);\r\nb = b * 0.5 + 0.5;\r\nv = v * b;\r\nv = v * a;\r\nb = (1.0 - sqrt(g)) * 0.6 + 0.4;\r\nv = v * b;\r\nFragColor.rgb = v;\r\nFragColor.a = min(a * c * 5.0, 1.0) * Alpha;\r\n}",
+  "next": "NEXT",
+  "tr": "GERİ"
+ },
+ {
+  "en": "BEGIN",
+  "prev": "Continue",
+  "next": "CONTINUE",
+  "tr": "BAŞLA"
+ },
+ {
+  "en": "BEGIN",
+  "prev": "RECRUIT",
+  "next": "CREATE",
+  "tr": "BAŞLA"
+ },
+ {
+  "en": "BEGIN",
+  "prev": "BACK",
+  "next": "ThaumShow02",
+  "tr": "BAŞLA"
+ },
+ {
+  "en": "Back",
+  "prev": "W",
+  "next": "S",
+  "tr": "Geri"
+ },
+ {
+  "en": "Background",
+  "prev": "COMPANY EMBLEM",
+  "next": "1",
+  "tr": "Arka plan"
+ },
+ {
+  "en": "Balance",
+  "prev": "Impact",
+  "next": "Coverage",
+  "tr": "Denge"
+ },
+ {
+  "en": "Bantree Outfit",
+  "prev": "Evelique Company",
+  "next": "Forriel Company",
+  "tr": "Bantree Takımı"
+ },
+ {
+  "en": "Bar Mace",
+  "prev": "War Hammer",
+  "next": "Short Spear",
+  "tr": "Çubuk Gürz"
+ },
+ {
+  "en": "Bardiche",
+  "prev": "Maul",
+  "next": "Great Axe",
+  "tr": "Bardiş"
+ },
+ {
+  "en": "Beasts defeated",
+  "prev": "3",
+  "next": "1",
+  "tr": "Yenilen canavar"
+ },
+ {
+  "en": "Beasts fought",
+  "prev": "0",
+  "next": "3",
+  "tr": "Canavar dövüşü"
+ },
+ {
+  "en": "Become more efficient when repeating the same binding",
+  "prev": "Iteration",
+  "next": "Revelation",
+  "tr": "Aynı bağı yinelerken daha verimli olursunuz."
+ },
+ {
+  "en": "Become more efficient when repeating the same binding",
+  "prev": "Iteration",
+  "next": "Revelation",
+  "tr": "Aynı bağı yinelerken daha verimli olursunuz."
+ },
+ {
+  "en": "Begin",
+  "prev": "Enter",
+  "next": "Continue",
+  "tr": "Başla"
+ },
+ {
+  "en": "Billhook",
+  "prev": "Cudgel",
+  "next": "Metal Bar",
+  "tr": "Budama Bıçağı"
+ },
+ {
+  "en": "Billhook (long)",
+  "prev": "Iron-Shod Quarterstaff",
+  "next": "Sickle (long)",
+  "tr": "Budama (Uzun)"
+ },
+ {
+  "en": "Billhook (short)",
+  "prev": "Long Knife",
+  "next": "Sickle (short)",
+  "tr": "Budama Bıçağı (Kısa)"
+ },
+ {
+  "en": "Blade",
+  "prev": "Gilded",
+  "next": "Wood Fine",
+  "tr": "Ağız"
+ },
+ {
+  "en": "Body",
+  "prev": "Inventory",
+  "next": "Error populating character inventory",
+  "tr": "Beden"
+ },
+ {
+  "en": "Bonten Company",
+  "prev": "Halberd",
+  "next": "Fitten Gang",
+  "tr": "Bonten Bölüğü"
+ },
+ {
+  "en": "Brace",
+  "prev": "Abandon your attack to quickly parry.",
+  "next": "Use stronger bracing parries to stop more powerful blows.",
+  "tr": "Destek"
+ },
+ {
+  "en": "Bronze Plsh",
+  "prev": "Iron",
+  "next": "Bronze Satn",
+  "tr": "Bronz Parlak"
+ },
+ {
+  "en": "Bronze Satn",
+  "prev": "Bronze Plsh",
+  "next": "Grip Wired",
+  "tr": "Bronz Mat"
+ },
+ {
+  "en": "CLOSE",
+  "prev": "1",
+  "next": "HIRE",
+  "tr": "KAPAT"
+ },
+ {
+  "en": "CLOSE",
+  "prev": "1",
+  "next": "The Jolly Ranchers",
+  "tr": "KAPAT"
+ },
+ {
+  "en": "CLOSE",
+  "prev": "None",
+  "next": "Roster",
+  "tr": "KAPAT"
+ },
+ {
+  "en": "COMPANY EMBLEM",
+  "prev": "COMPANY NAME",
+  "next": "Background",
+  "tr": "BÖLÜK ARMASI"
+ },
+ {
+  "en": "COMPANY NAME",
+  "prev": "IO Error",
+  "next": "COMPANY EMBLEM",
+  "tr": "BÖLÜK ADI"
+ },
+ {
+  "en": "CONTINUE",
+  "prev": "BEGIN",
+  "next": "ARENA",
+  "tr": "DEVAM ET"
+ },
+ {
+  "en": "CONTINUE",
+  "prev": "Cancel",
+  "next": "Previous",
+  "tr": "DEVAM ET"
+ },
+ {
+  "en": "CONTINUE",
+  "prev": "Continue from checkpoint",
+  "next": "Straight",
+  "tr": "DEVAM ET"
+ },
+ {
+  "en": "CONTINUE",
+  "prev": "VHM",
+  "next": "Augmenting strikes by swinging and moving your body can greatly increase damage.",
+  "tr": "DEVAM ET"
+ },
+ {
+  "en": "CONTROLS",
+  "prev": "SETTINGS",
+  "next": "Keyboard",
+  "tr": "KONTROLLER"
+ },
+ {
+  "en": "CREATE",
+  "prev": "BEGIN",
+  "next": "Error loading equipment.",
+  "tr": "OLUŞTUR"
+ },
+ {
+  "en": "CREATE CHARACTER",
+  "prev": "Pitch ",
+  "next": "NAME",
+  "tr": "KARAKTER OLUŞTUR"
+ },
+ {
+  "en": "Cancel",
+  "prev": "Apply",
+  "next": "Video Device: ",
+  "tr": "İptal"
+ },
+ {
+  "en": "Cancel",
+  "prev": "Delete",
+  "next": "CONTINUE",
+  "tr": "İptal"
+ },
+ {
+  "en": "Cancel",
+  "prev": "Dismiss",
+  "next": "Yes",
+  "tr": "İptal"
+ },
+ {
+  "en": "Cancel",
+  "prev": "Apply",
+  "next": "Supersample: 0x",
+  "tr": "İptal"
+ },
+ {
+  "en": "Cease a feined attack to quickly renew it.",
+  "prev": "Feint",
+  "next": "Fend",
+  "tr": "Aldatma saldırısını kesip hızla yenileyin."
+ },
+ {
+  "en": "Cease a feined attack to quickly renew it.",
+  "prev": "Feint",
+  "next": "Fend",
+  "tr": "Aldatma saldırısını kesip hızla yenileyin."
+ },
+ {
+  "en": "Character Factory",
+  "prev": "Error generating character: ",
+  "next": "FireL01",
+  "tr": "Karakter fabrikası"
+ },
+ {
+  "en": "Character Name",
+  "prev": "Please name your character",
+  "next": "RECRUIT",
+  "tr": "Karakter adı"
+ },
+ {
+  "en": "Character Screen",
+  "prev": "Save manager not found.",
+  "next": "Msc_ArenaNov_DnB",
+  "tr": "Karakter ekranı"
+ },
+ {
+  "en": "Character Screen",
+  "prev": "Save manager not found.",
+  "next": "_GruntS",
+  "tr": "Karakter ekranı"
+ },
+ {
+  "en": "Character assembly",
+  "prev": "Body part stack overflow",
+  "next": "Unable to load body model: ",
+  "tr": "Karakter montajı"
+ },
+ {
+  "en": "Character creation",
+  "prev": "Error loading equipment.",
+  "next": "NAME",
+  "tr": "Karakter oluşturma"
+ },
+ {
+  "en": "Character factory",
+  "prev": "Unable to load body model: ",
+  "next": "Error generating character: ",
+  "tr": "Karakter fabrikası"
+ },
+ {
+  "en": "Choose",
+  "prev": "Weapon Restriction",
+  "next": "[algn=2]There are no more matches running this day.\r\nEnd the day to participate in more matches.",
+  "tr": "Seç"
+ },
+ {
+  "en": "Choose which new power you wish to learn first.",
+  "prev": "in vec2 vrTex;\r\nin vec4 vrCol;\r\nout vec4 FragColor;\r\nuniform float par0;\r\nuniform vec3 par1;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nfloat a, b, d, e;\r\nvec2 tc = vrTex;\r\nfloat l = tc.y;\r\ntc.y = tc.y * (2.0-tc.y);\r\ntc = tc * 0.4;\r\ntc.x = tc.x - par1.x;\r\ntc.y = tc.y * 0.5;\r\ntc.y = tc.y - par0 * 2.0;\r\ntc.x = tc.x + par0;\r\nd = texture(Tex, tc * 0.5).r * 0.5;\r\ntc.y = tc.y - par0 * 2.0;\r\ntc.x = tc.x - par0 * 2.0;\r\ntc.y = tc.y * 0.6;\r\ne = texture(Tex, tc).r;\r\nd = d * e;\r\ntc.y = tc.y - par0;\r\ne = texture(Tex, tc * 2.0).r;\r\nd = d * (e * 0.5 + 0.5);\r\na = abs(0.5-vrTex.x) * 2.0;\r\nl = l - (1.0 - a*a) * 0.11;\r\nfloat p1 = par1.y;\r\nl = l - par1.z * 0.02;\r\ne = max(1.0 - l * (p1+1.0) * 1.2, 0.0);\r\ne = e * min((1.0 - e) * (12.0-p1*2.0), 1.0);\r\ne = max(e * (1.0 - pow(a, 8.0)), 0.0);\r\na = d * e * 2.0;\r\nb = 1.0 - 2.0 * (1.0-d) * (1.0-e);\r\nfloat c = clamp((0.5-e) * 10.0 + 0.5, 0.0, 1.0);\r\na = mix(b, a, c);\r\na = a * 1.25;\r\nvec3 col = vrCol.rgb * a;\r\nFragColor.rgb = col * col * vrCol.a;\r\nFragColor.a = a * vrCol.a;\r\n}",
+  "next": "BACK",
+  "tr": "Önce hangi yeni gücü öğrenmek istersiniz?"
+ },
+ {
+  "en": "Clarity",
+  "prev": "Continuous bindings require less of your focus.",
+  "next": "You are able to regain mental focus more quickly.",
+  "tr": "Duruluk"
+ },
+ {
+  "en": "Clarity",
+  "prev": "Continuous bindings require less of your focus.",
+  "next": "You are able to regain mental focus more quickly.",
+  "tr": "Duruluk"
+ },
+ {
+  "en": "Clivard's Lot",
+  "prev": "Queedell's Knot",
+  "next": "Westryn Company",
+  "tr": "Clivard Grubu"
+ },
+ {
+  "en": "Close",
+  "prev": "Reset",
+  "next": "Colour",
+  "tr": "Kapat"
+ },
+ {
+  "en": "Close",
+  "prev": "Apply",
+  "next": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform sampler2D Tex0;\r\nvoid main() {\r\nvec2 t = vrTex;\r\nvec3 a = texture(Tex0, vrTex).rgb;\r\na.r = sqrt(a.r);\r\na.g = sqrt(a.g);\r\na.b = sqrt(a.b);\r\nt.x = t.x + 0.2341;\r\nvec3 b = texture(Tex0, t).rgb;\r\nb.r = dot(a, b);\r\nb.g = dot(a, a);\r\nb.b = dot(b, b);\r\na = a + b;\r\nt.y = t.y - 0.1476;\r\nvec3 c = texture(Tex0, t).rgb;\r\na.r = a.r - length(a);\r\na.g = a.g - length(b);\r\na.b = a.b - length(c);\r\na.r = pow(a.r, 1.2134);\r\na.g = pow(a.g, 2.2134);\r\na.b = pow(a.b, 3.734);\r\nt.x = t.x - 0.3768;\r\nt.y = t.y + 0.4276;\r\nb = texture(Tex0, t).rgb;\r\nb.r = sin(b.r) + cos(b.g);\r\nb.g = sin(b.g) + cos(b.r);\r\nb.b = sin(b.b) + cos(b.g);\r\nFragColor.rgb = a + b;\r\nFragColor.a = 1.0;\r\n}",
+  "tr": "Kapat"
+ },
+ {
+  "en": "Close",
+  "prev": "End Day",
+  "next": "Enter",
+  "tr": "Kapat"
+ },
+ {
+  "en": "Close",
+  "prev": "End Day",
+  "next": "Records",
+  "tr": "Kapat"
+ },
+ {
+  "en": "Close",
+  "prev": "Trade",
+  "next": "Duplicate Item found",
+  "tr": "Kapat"
+ },
+ {
+  "en": "Close Combat",
+  "prev": "New Entry",
+  "next": "Ranged Combat",
+  "tr": "Yakın Dövüş"
+ },
+ {
+  "en": "Close Combat",
+  "prev": "Error",
+  "next": "Ranged Combat",
+  "tr": "Yakın Dövüş"
+ },
+ {
+  "en": "Cloth Fine",
+  "prev": "Cloth Rough",
+  "next": "Silk",
+  "tr": "İnce Kumaş"
+ },
+ {
+  "en": "Cloth Rough",
+  "prev": "<Random>",
+  "next": "Cloth Fine",
+  "tr": "Kaba Kumaş"
+ },
+ {
+  "en": "Clothing & Armour",
+  "prev": "Anything",
+  "next": "Weapons",
+  "tr": "Kıyafet ve zırh"
+ },
+ {
+  "en": "Coherence",
+  "prev": "Combine elements of different effects to produce a new one.",
+  "next": "Manipulate an effect into a more coherent form.",
+  "tr": "Tutarlılık"
+ },
+ {
+  "en": "Coherence",
+  "prev": "Combine elements of different effects to produce a new one.",
+  "next": "Manipulate an effect into a more coherent form.",
+  "tr": "Tutarlılık"
+ },
+ {
+  "en": "Colour",
+  "prev": "Close",
+  "next": "Volume",
+  "tr": "Renk"
+ },
+ {
+  "en": "Colour 1",
+  "prev": "Mirror",
+  "next": "Colour 2",
+  "tr": "Renk 1"
+ },
+ {
+  "en": "Colour 1",
+  "prev": "Mirror",
+  "next": "Colour 2",
+  "tr": "Renk 1"
+ },
+ {
+  "en": "Colour 2",
+  "prev": "Colour 1",
+  "next": "Design",
+  "tr": "Renk 2"
+ },
+ {
+  "en": "Colour 2",
+  "prev": "Colour 1",
+  "next": "Randomise",
+  "tr": "Renk 2"
+ },
+ {
+  "en": "Combatants can fight in your stead, or by your side in team matches.",
+  "prev": "Profession: Combatant",
+  "next": "Merchants provide an inventory of items for you to buy. They can help you find more specific items by providing stock of a particular type and rank.",
+  "tr": "Dövüşçüler sizin yerinize ya da takım maçlarında yanınızda dövüşür."
+ },
+ {
+  "en": "Combine effects from different domains.",
+  "prev": "Amalgamation",
+  "next": "Sustain",
+  "tr": "Farklı alanlardan etkileri birleştirin."
+ },
+ {
+  "en": "Combine effects from different domains.",
+  "prev": "Amalgamation",
+  "next": "Sustain",
+  "tr": "Farklı alanlardan etkileri birleştirin."
+ },
+ {
+  "en": "Combine elements of different effects to produce a new one.",
+  "prev": "Union",
+  "next": "Coherence",
+  "tr": "Farklı etkilerin ögelerini birleştirip yenisini üretin."
+ },
+ {
+  "en": "Combine elements of different effects to produce a new one.",
+  "prev": "Union",
+  "next": "Coherence",
+  "tr": "Farklı etkilerin ögelerini birleştirip yenisini üretin."
+ },
+ {
+  "en": "Company Name",
+  "prev": "Please name your company",
+  "next": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform vec4 Colour;\r\nuniform vec4 TexPos;\r\nuniform vec2 TexOfs;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nvec2 a = vrTex - vec2(0.5);\r\nfloat b = min(dot(a,a) * 4.0, 1.0);\r\nb = b * b;b = 1.0 - b * b;b = b * b;float c = dot(a,a);c = abs(c*128-25);c = c * c;c = max(1.0 - c, 0.0);float d = min(dot(a,a) * 4.0, 1.0);\r\nd = clamp((0.6-d) * 16, 0.0, 1.0);a = vrTex * TexPos.xy * 1.3 + TexPos.zw - TexPos.xy * 0.15;a = a + TexOfs * 0.1;d = d * (1.0 - dot(TexOfs, TexOfs) * 30);c = c + texture(Tex, a).a * 0.6 * d;FragColor.rgb = Colour.rgb * c;\r\nFragColor.a = b * Colour.a;\r\n}",
+  "tr": "Bölük adı"
+ },
+ {
+  "en": "Company Records",
+  "prev": "/",
+  "next": "Company Status",
+  "tr": "Bölük kaydı"
+ },
+ {
+  "en": "Company Status",
+  "prev": "Company Records",
+  "next": "Week ",
+  "tr": "Bölük durumu"
+ },
+ {
+  "en": "Concentration",
+  "prev": "Insight",
+  "next": "Meditation",
+  "tr": "Konsantrasyon"
+ },
+ {
+  "en": "Concentration",
+  "prev": "Insight",
+  "next": "Remise",
+  "tr": "Konsantrasyon"
+ },
+ {
+  "en": "Confidence in your armour allows you to continue attacks while receiving blows.",
+  "prev": "Security",
+  "next": "Absorption",
+  "tr": "Zırhınıza güvenmek, darbe alırken saldırıya devam etmenizi sağlar."
+ },
+ {
+  "en": "Confidence in your armour allows you to continue attacks while receiving blows.",
+  "prev": "Security",
+  "next": "Counter",
+  "tr": "Zırhınıza güvenmek, darbe alırken saldırıya devam etmenizi sağlar."
+ },
+ {
+  "en": "Configure Controller",
+  "prev": "Controller mode enabled",
+  "next": "Aim Speed: ",
+  "tr": "Kumanda ayarları"
+ },
+ {
+  "en": "Congratulations! You have defeated all opponents in the expert arena!",
+  "prev": "Congratulations! You have defeated all opponents in the novice arena!",
+  "next": "Encumbrance:",
+  "tr": "Tebrikler! Uzman arenasındaki tüm rakipleri yendiniz!"
+ },
+ {
+  "en": "Congratulations! You have defeated all opponents in the novice arena!",
+  "prev": "Congratulations! You have defeated all ten opponents.",
+  "next": "Congratulations! You have defeated all opponents in the expert arena!",
+  "tr": "Tebrikler! Acemi arenasındaki tüm rakipleri yendiniz!"
+ },
+ {
+  "en": "Congratulations! You have defeated all ten opponents.",
+  "prev": "You have died.",
+  "next": "Congratulations! You have defeated all opponents in the novice arena!",
+  "tr": "Tebrikler! On rakibin hepsini yendiniz."
+ },
+ {
+  "en": "Container Error",
+  "prev": "Error saving container data.",
+  "next": "Failed to dereference items.",
+  "tr": "Kap hatası"
+ },
+ {
+  "en": "Content Error",
+  "prev": "Game object has no physics: ",
+  "next": "\\Actors",
+  "tr": "İçerik hatası"
+ },
+ {
+  "en": "Continue",
+  "prev": "This message will only appear once.",
+  "next": "BEGIN",
+  "tr": "Devam"
+ },
+ {
+  "en": "Continue",
+  "prev": "Begin",
+  "next": "The tournament has ended.",
+  "tr": "Devam"
+ },
+ {
+  "en": "Continue attacks while receiving blows to the shield.",
+  "prev": "Persist",
+  "next": "Endure",
+  "tr": "Kalkana darbe alırken saldırılara devam edin."
+ },
+ {
+  "en": "Continue attacks while receiving blows to the shield.",
+  "prev": "Persist",
+  "next": "Endure",
+  "tr": "Kalkana darbe alırken saldırılara devam edin."
+ },
+ {
+  "en": "Continue from checkpoint",
+  "prev": "BACK",
+  "next": "CONTINUE",
+  "tr": "Kayıt noktasından devam"
+ },
+ {
+  "en": "Continue from checkpoint",
+  "prev": "Continue from save",
+  "next": "Delete Character",
+  "tr": "Kayıt noktasından devam"
+ },
+ {
+  "en": "Continue from save",
+  "prev": "Reset to portal",
+  "next": "Continue from checkpoint",
+  "tr": "Kayıttan devam et"
+ },
+ {
+  "en": "Continue to block even as you initiate an attack.",
+  "prev": "Synchrony",
+  "next": "Ward",
+  "tr": "Saldırı başlatırken bile bloklamaya devam edin."
+ },
+ {
+  "en": "Continue to block even as you initiate an attack.",
+  "prev": "Synchrony",
+  "next": "Ward",
+  "tr": "Saldırı başlatırken bile bloklamaya devam edin."
+ },
+ {
+  "en": "Continuity",
+  "prev": "Sustained bindings require much less of your focus.",
+  "next": "Maintain a binding while performing other tasks.",
+  "tr": "Süreklilik"
+ },
+ {
+  "en": "Continuity",
+  "prev": "Sustained bindings require much less of your focus.",
+  "next": "Maintain a binding while performing other tasks.",
+  "tr": "Süreklilik"
+ },
+ {
+  "en": "Continuity II",
+  "prev": "Maintain a binding while performing other tasks.",
+  "next": "Maintain two bindings while performing other tasks.",
+  "tr": "Süreklilik II"
+ },
+ {
+  "en": "Continuity II",
+  "prev": "Maintain a binding while performing other tasks.",
+  "next": "Maintain two bindings while performing other tasks.",
+  "tr": "Süreklilik II"
+ },
+ {
+  "en": "Continuity III",
+  "prev": "Maintain two bindings while performing other tasks.",
+  "next": "Maintain three bindings while performing other tasks.",
+  "tr": "Süreklilik III"
+ },
+ {
+  "en": "Continuity III",
+  "prev": "Maintain two bindings while performing other tasks.",
+  "next": "Maintain three bindings while performing other tasks.",
+  "tr": "Süreklilik III"
+ },
+ {
+  "en": "Continuous bindings require less of your focus.",
+  "prev": "Abstraction",
+  "next": "Clarity",
+  "tr": "Sürekli bağlar daha az odak gerektirir."
+ },
+ {
+  "en": "Continuous bindings require less of your focus.",
+  "prev": "Abstraction",
+  "next": "Clarity",
+  "tr": "Sürekli bağlar daha az odak gerektirir."
+ },
+ {
+  "en": "Controller",
+  "prev": "Keyboard",
+  "next": "Defaults",
+  "tr": "Kumanda"
+ },
+ {
+  "en": "Controller mode enabled",
+  "prev": "P",
+  "next": "Configure Controller",
+  "tr": "Kumanda modu açık"
+ },
+ {
+  "en": "Convergence",
+  "prev": "Apply an effect in a broader area or target.",
+  "next": "Focus an effect to a more specific or narrow target.",
+  "tr": "Odaklanma"
+ },
+ {
+  "en": "Convergence",
+  "prev": "Apply an effect in a broader area or target.",
+  "next": "Focus an effect to a more specific or narrow target.",
+  "tr": "Odaklanma"
+ },
+ {
+  "en": "Counter",
+  "prev": "Exploit the mobility of lighter armour to absorb more impact from blows.",
+  "next": "Rapidly counter with an attack after a block.",
+  "tr": "Kontra"
+ },
+ {
+  "en": "Counter",
+  "prev": "Confidence in your armour allows you to continue attacks while receiving blows.",
+  "next": "Rapidly counter with an attack after a block.",
+  "tr": "Kontra"
+ },
+ {
+  "en": "Coverage",
+  "prev": "Balance",
+  "next": "Flip weapon",
+  "tr": "Kapsama"
+ },
+ {
+  "en": "Critical Failure",
+  "prev": "Unable to locate data files.",
+  "next": "in vec2 vrTex;\r\nin vec4 vrCol;\r\nout vec4 FragColor;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nFragColor.rgb = texture(Tex, vrTex).rgb;FragColor.a = 1.0;}",
+  "tr": "Kritik hata"
+ },
+ {
+  "en": "Crouch",
+  "prev": "Shift",
+  "next": "X",
+  "tr": "Çömel"
+ },
+ {
+  "en": "Crude",
+  "prev": "Worn",
+  "next": "Light",
+  "tr": "İlkel"
+ },
+ {
+  "en": "Crude",
+  "prev": "Worn",
+  "next": "Fine",
+  "tr": "İlkel"
+ },
+ {
+  "en": "Crude",
+  "prev": "Worn",
+  "next": "Fine",
+  "tr": "İlkel"
+ },
+ {
+  "en": "Crude",
+  "prev": "Damaged",
+  "next": "Light",
+  "tr": "İlkel"
+ },
+ {
+  "en": "Crude",
+  "prev": "Damaged",
+  "next": "Light",
+  "tr": "İlkel"
+ },
+ {
+  "en": "Crush",
+  "prev": "Slash",
+  "next": "Pierce",
+  "tr": "Ezme"
+ },
+ {
+  "en": "Crushing damage is reliant on strong blows but typically most effective against armour.",
+  "prev": "Piercing damage is better at finding potential gaps and weak spots in armour.",
+  "next": "Weapons with a higher balance are quicker and more responsive.",
+  "tr": "Ezme hasarı güçlü darbelere dayanır ama zırha karşı genelde en etkilisidir."
+ },
+ {
+  "en": "Cudgel",
+  "prev": "Hammer",
+  "next": "Billhook",
+  "tr": "Sopa"
+ },
+ {
+  "en": "Current skill progress",
+  "prev": "SKILLS",
+  "next": "New global experience",
+  "tr": "Yetenek ilerlemesi"
+ },
+ {
+  "en": "Cursor Look",
+  "prev": "Orbit Camera",
+  "next": "SPACE",
+  "tr": "İmleçle bak"
+ },
+ {
+  "en": "Cut or hook with your weapon after landing a blow.",
+  "prev": "Draw",
+  "next": "Impel",
+  "tr": "Darbenizi indirdikten sonra kesin ya da kancalayın."
+ },
+ {
+  "en": "Cut or hook with your weapon after landing a blow.",
+  "prev": "Draw",
+  "next": "Aim your swings at precise locations.",
+  "tr": "Darbenizi indirdikten sonra kesin ya da kancalayın."
+ },
+ {
+  "en": "Dagger",
+  "prev": "Spiked Club",
+  "next": "Long Knife",
+  "tr": "Hançer"
+ },
+ {
+  "en": "Damaged",
+  "prev": "Rusted",
+  "next": "Crude",
+  "tr": "Hasarlı"
+ },
+ {
+  "en": "Damaged",
+  "prev": "Rusted",
+  "next": "Crude",
+  "tr": "Hasarlı"
+ },
+ {
+  "en": "Data error",
+  "prev": "Invalid project data",
+  "next": "Userdata",
+  "tr": "Veri hatası"
+ },
+ {
+  "en": "Day ",
+  "prev": " Day ",
+  "next": "You have won ",
+  "tr": "Gün "
+ },
+ {
+  "en": "Dayker's Crew",
+  "prev": "Dullos Company",
+  "next": "Lofton Company",
+  "tr": "Dayker Ekibi"
+ },
+ {
+  "en": "Deaths",
+  "prev": "1",
+  "next": "1",
+  "tr": "Ölüm"
+ },
+ {
+  "en": "Defaults",
+  "prev": "Controller",
+  "next": "Apply",
+  "tr": "Varsayılan"
+ },
+ {
+  "en": "Deflection",
+  "prev": "Move more swiftly under the weight of your armour.",
+  "next": "Actively protect gaps and weak areas in your armour.",
+  "tr": "Saptırma"
+ },
+ {
+  "en": "Deflection",
+  "prev": "Move more swiftly under the weight of your armour.",
+  "next": "Actively protect gaps and weak areas in your armour.",
+  "tr": "Saptırma"
+ },
+ {
+  "en": "Delete",
+  "prev": "Are you sure you want to delete ",
+  "next": "Cancel",
+  "tr": "Sil"
+ },
+ {
+  "en": "Delete",
+  "prev": "Next",
+  "next": "Inventory",
+  "tr": "Sil"
+ },
+ {
+  "en": "Delete Character",
+  "prev": "Continue from checkpoint",
+  "next": "?",
+  "tr": "Karakteri sil"
+ },
+ {
+  "en": "Design",
+  "prev": "Colour 2",
+  "next": "1",
+  "tr": "Desen"
+ },
+ {
+  "en": "Detect",
+  "prev": "Vertical sync ",
+  "next": "Apply",
+  "tr": "Algıla"
+ },
+ {
+  "en": "Device: ",
+  "prev": "ShowFPS",
+  "next": "Unknown",
+  "tr": "Aygıt: "
+ },
+ {
+  "en": "Dismiss",
+  "prev": "Are you sure you want to dismiss ",
+  "next": "Cancel",
+  "tr": "Kov"
+ },
+ {
+  "en": "Dismiss",
+  "prev": "Next",
+  "next": "Rank",
+  "tr": "Kov"
+ },
+ {
+  "en": "Dismiss",
+  "prev": "You already have a trainer in your employ.",
+  "next": "?",
+  "tr": "Kov"
+ },
+ {
+  "en": "Do you wish to forfeit the entire tourney?",
+  "prev": ")",
+  "next": "Matches",
+  "tr": "Tüm turnuvadan çekilmek istiyor musunuz?"
+ },
+ {
+  "en": "Do you wish to reset all progress after the portal?",
+  "prev": "Recruitment:",
+  "next": "Yes",
+  "tr": "Portal sonrası tüm ilerleme sıfırlansın mı?"
+ },
+ {
+  "en": "Draw",
+  "prev": "After a parry, rapidly follow with an attack.",
+  "next": "Cut or hook with your weapon after landing a blow.",
+  "tr": "Çekiş"
+ },
+ {
+  "en": "Draw",
+  "prev": "After a parry, rapidly follow with an attack.",
+  "next": "Cut or hook with your weapon after landing a blow.",
+  "tr": "Çekiş"
+ },
+ {
+  "en": "Dual Wield",
+  "prev": "Use stronger bracing parries to stop more powerful blows.",
+  "next": "Use two weapons to attack and defend simultaneously.",
+  "tr": "Çift Silah"
+ },
+ {
+  "en": "Dual Wield",
+  "prev": "Use stronger bracing parries to stop more powerful blows.",
+  "next": "Use two weapons to attack and defend simultaneously.",
+  "tr": "Çift Silah"
+ },
+ {
+  "en": "Dullos Company",
+  "prev": "Mowbrots Bunch",
+  "next": "Dayker's Crew",
+  "tr": "Dullos Bölüğü"
+ },
+ {
+  "en": "Duplicate Item found",
+  "prev": "Close",
+  "next": "Stock Update",
+  "tr": "Yinelenen eşya"
+ },
+ {
+  "en": "EXIT",
+  "prev": "SETTINGS",
+  "next": "NEW CAREER",
+  "tr": "ÇIKIŞ"
+ },
+ {
+  "en": "EXIT;",
+  "prev": "RESTART",
+  "next": "NEXT FIGHT",
+  "tr": "ÇIKIŞ;"
+ },
+ {
+  "en": "EXPERT",
+  "prev": "NOVICE",
+  "next": "Msc_ArenaBsE_DnB",
+  "tr": "UZMAN"
+ },
+ {
+  "en": "Early Checkpoints",
+  "prev": "Show gameplay tips",
+  "next": "Hold [tcol=FFE399]Powers[/tcol] to access the power tree.\r\rPress [tcol=FFE399]Use Power[/tcol] with the power bar open to use a power directly without changing which is active.\r\rYou can toggle in and out of dialogue mode without ending the conversation by pressing [tcol=FFE399]Talk[/tcol].",
+  "tr": "Erken kayıt noktası"
+ },
+ {
+  "en": "Earned today",
+  "prev": "Upkeep",
+  "next": "Spent today",
+  "tr": "Bugün kazanç"
+ },
+ {
+  "en": "Enable Rumble",
+  "prev": "25",
+  "next": "SETTINGS",
+  "tr": "Titreşim"
+ },
+ {
+  "en": "Encumbrance",
+  "prev": "Impact",
+  "next": "he",
+  "tr": "Yük"
+ },
+ {
+  "en": "Encumbrance",
+  "prev": "Impact",
+  "next": "vi",
+  "tr": "Yük"
+ },
+ {
+  "en": "Encumbrance:",
+  "prev": "Congratulations! You have defeated all opponents in the expert arena!",
+  "next": "Primary",
+  "tr": "Yük:"
+ },
+ {
+  "en": "Encumbrance:",
+  "prev": "Points: 0 / 5",
+  "next": "5",
+  "tr": "Yük:"
+ },
+ {
+  "en": "End Day",
+  "prev": "Prize",
+  "next": "Close",
+  "tr": "Bitir"
+ },
+ {
+  "en": "End Day",
+  "prev": "Spent today",
+  "next": "Close",
+  "tr": "Bitir"
+ },
+ {
+  "en": "Endure",
+  "prev": "Continue attacks while receiving blows to the shield.",
+  "next": "Withstand more blows before your shield arm tires.",
+  "tr": "Dayanma"
+ },
+ {
+  "en": "Endure",
+  "prev": "Continue attacks while receiving blows to the shield.",
+  "next": "Withstand more blows before your shield arm tires.",
+  "tr": "Dayanma"
+ },
+ {
+  "en": "Enter",
+  "prev": "Close",
+  "next": "Forfeit",
+  "tr": "Gir"
+ },
+ {
+  "en": "Enter",
+  "prev": "Tournament winners",
+  "next": "Begin",
+  "tr": "Gir"
+ },
+ {
+  "en": "Entered ",
+  "prev": " days.",
+  "next": "/",
+  "tr": "Girildi "
+ },
+ {
+  "en": "Entered 1/1",
+  "prev": "Available",
+  "next": "Prize",
+  "tr": "Girildi 1/1"
+ },
+ {
+  "en": "Entry",
+  "prev": "Tier",
+  "next": "Prize",
+  "tr": "Giriş"
+ },
+ {
+  "en": "Entry:",
+  "prev": "Season",
+  "next": "Prize:",
+  "tr": "Giriş:"
+ },
+ {
+  "en": "Erase",
+  "prev": "New",
+  "next": "New Entry",
+  "tr": "Sil"
+ },
+ {
+  "en": "Error",
+  "prev": "Error on object library master transfer.",
+  "next": "Error loading library object: ",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Attempt to remove absent scene nodes.",
+  "next": "Error removing node.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error freeing sound source.",
+  "next": "Failed to initialise sound environment.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Skinning group stack overflow.",
+  "next": "Failed to allocate base skin weights.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error rendering weapon blood stains.",
+  "next": "Local databse not present.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error initialising player.",
+  "next": "MenuTheme",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error saving game progress.",
+  "next": "Error reviving player.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error Creating Character View.",
+  "next": "Error removing item.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Mismatched database object instance reference: ",
+  "next": "Error on object database master transfer.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Failed to load tileset: ",
+  "next": "Error assigning structural sectors.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Operative data not found: ",
+  "next": "Stn",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Local character DB error on outfit generation.",
+  "next": "Error on outfit generation.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Invalid apparel item, cannot be equipped.",
+  "next": "Invalid item pool selection.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Store domain: invalid persistant power data.",
+  "next": "Invalid power tree file.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Invalid Procedural Material ID.",
+  "next": "light",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error rendering form: ",
+  "next": "Error drawing form: ",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error drawing form: ",
+  "next": "Close Combat",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Sweep blast-environment collisions: ",
+  "next": "Static blast-environment collisions: ",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error processing looting activity.",
+  "next": "an ",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error",
+  "prev": "Error retrieving relation ID.",
+  "next": "Invalid or obsolete database format.",
+  "tr": "Hata"
+ },
+ {
+  "en": "Error loading equipment.",
+  "prev": "CREATE",
+  "next": "Character creation",
+  "tr": "Ekipman yüklenemedi."
+ },
+ {
+  "en": "Error loading new map data.",
+  "prev": "Error loading saved map data.",
+  "next": "Error migrating actors.",
+  "tr": "Yeni harita yüklenemedi."
+ },
+ {
+  "en": "Error loading saved map data.",
+  "prev": ".rfc",
+  "next": "Error loading new map data.",
+  "tr": "Kayıtlı harita yüklenemedi."
+ },
+ {
+  "en": "Error migrating actors.",
+  "prev": "Error loading new map data.",
+  "next": "Error moving to new map.",
+  "tr": "Aktarlar taşınamadı."
+ },
+ {
+  "en": "Error moving to new map.",
+  "prev": "Error migrating actors.",
+  "next": "New Entry",
+  "tr": "Yeni haritaya geçilemedi."
+ },
+ {
+  "en": "Error reviving player.",
+  "prev": "Error",
+  "next": "Save manager not found.",
+  "tr": "Oyuncu dirilmedi."
+ },
+ {
+  "en": "Error saving game progress.",
+  "prev": "NEXT FIGHT",
+  "next": "Error",
+  "tr": "Oyun kaydedilemedi."
+ },
+ {
+  "en": "Evelique Company",
+  "prev": "Frerren Section",
+  "next": "Bantree Outfit",
+  "tr": "Evelique Bölüğü"
+ },
+ {
+  "en": "Even when a parry is not successful, attempting to defend will reduce damage taken.",
+  "prev": "Your character is subject to physics, your inputs must work in harmony with them.",
+  "next": "Let go of LMB at any time to perform a feint or abandon your attack to defend instead.",
+  "tr": "Savuşturma başarısız olsa bile, savunmaya çalışmak alınan hasarı azaltır."
+ },
+ {
+  "en": "Event",
+  "prev": "Prize",
+  "next": "Winner",
+  "tr": "Olay"
+ },
+ {
+  "en": "Exceptional",
+  "prev": "Superior",
+  "next": "      ",
+  "tr": "Olağanüstü"
+ },
+ {
+  "en": "Exceptional",
+  "prev": "Superior",
+  "next": "      ",
+  "tr": "Olağanüstü"
+ },
+ {
+  "en": "Exceptional",
+  "prev": "Superior",
+  "next": "      ",
+  "tr": "Olağanüstü"
+ },
+ {
+  "en": "Exceptional",
+  "prev": "Superior",
+  "next": "<Random>",
+  "tr": "Olağanüstü"
+ },
+ {
+  "en": "Expansion",
+  "prev": "Produce an opposite or contrary effect.",
+  "next": "Apply an effect in a broader area or target.",
+  "tr": "Genişleme"
+ },
+ {
+  "en": "Expansion",
+  "prev": "Produce an opposite or contrary effect.",
+  "next": "Apply an effect in a broader area or target.",
+  "tr": "Genişleme"
+ },
+ {
+  "en": "Expert",
+  "prev": "Adept",
+  "next": "Master",
+  "tr": "Uzman"
+ },
+ {
+  "en": "Expert",
+  "prev": "Adept",
+  "next": "Master",
+  "tr": "Uzman"
+ },
+ {
+  "en": "Exploit the mobility of lighter armour to absorb more impact from blows.",
+  "prev": "Absorption",
+  "next": "Counter",
+  "tr": "Hafif zırhın çevikliğiyle darbelerin etkisini daha çok soğurun."
+ },
+ {
+  "en": "Exposure",
+  "prev": "Texture Quality",
+  "next": "Supersample",
+  "tr": "Pozlama"
+ },
+ {
+  "en": "FORFEIT",
+  "prev": "NEW GAME",
+  "next": "NOVICE",
+  "tr": "PES ET"
+ },
+ {
+  "en": "Facial hair",
+  "prev": "Wavy",
+  "next": "-",
+  "tr": "Sakal"
+ },
+ {
+  "en": "Falchion",
+  "prev": "Sword",
+  "next": "Spiked Mace",
+  "tr": "Pala"
+ },
+ {
+  "en": "Feint",
+  "prev": "Immediately follow a swing with another in the opposite direction.",
+  "next": "Cease a feined attack to quickly renew it.",
+  "tr": "Aldatma"
+ },
+ {
+  "en": "Feint",
+  "prev": "Immediately follow a swing with another in the opposite direction.",
+  "next": "Cease a feined attack to quickly renew it.",
+  "tr": "Aldatma"
+ },
+ {
+  "en": "Female",
+  "prev": "Male",
+  "next": "PHYSIQUE",
+  "tr": "Kadın"
+ },
+ {
+  "en": "Female",
+  "prev": "Male",
+  "next": "Physique",
+  "tr": "Kadın"
+ },
+ {
+  "en": "Fend",
+  "prev": "Cease a feined attack to quickly renew it.",
+  "next": "Abandon your attack to quickly parry.",
+  "tr": "Savuşma"
+ },
+ {
+  "en": "Fend",
+  "prev": "Cease a feined attack to quickly renew it.",
+  "next": "Abandon your attack to quickly parry.",
+  "tr": "Savuşma"
+ },
+ {
+  "en": "Fine",
+  "prev": "Worn",
+  "next": "Tough",
+  "tr": "İnce"
+ },
+ {
+  "en": "Fine",
+  "prev": "Crude",
+  "next": "Tough",
+  "tr": "İnce"
+ },
+ {
+  "en": "Fine",
+  "prev": "Crude",
+  "next": "Heavy",
+  "tr": "İnce"
+ },
+ {
+  "en": "Fired",
+  "prev": "1",
+  "next": "1",
+  "tr": "Kovulan"
+ },
+ {
+  "en": "Fitten Gang",
+  "prev": "Bonten Company",
+  "next": "Vanrel's Band",
+  "tr": "Fitten Çetesi"
+ },
+ {
+  "en": "Flanged Mace",
+  "prev": "Spiked Mace",
+  "next": "Longsword",
+  "tr": "Yivli Gürz"
+ },
+ {
+  "en": "Flip weapon",
+  "prev": "R",
+  "next": "F",
+  "tr": "Silahı çevir"
+ },
+ {
+  "en": "Flip weapon",
+  "prev": "Coverage",
+  "next": "Rank",
+  "tr": "Silahı Çevir"
+ },
+ {
+  "en": "Focus an effect to a more specific or narrow target.",
+  "prev": "Convergence",
+  "next": "Union",
+  "tr": "Etkiyi daha dar ve belirli bir hedefe odaklayın."
+ },
+ {
+  "en": "Focus an effect to a more specific or narrow target.",
+  "prev": "Convergence",
+  "next": "Union",
+  "tr": "Etkiyi daha dar ve belirli bir hedefe odaklayın."
+ },
+ {
+  "en": "Forfeit",
+  "prev": "Enter",
+  "next": "Prize for this season",
+  "tr": "Pes et"
+ },
+ {
+  "en": "Forget Technique",
+  "prev": "You are more resistant to mental intrusions and effects.",
+  "next": "Yes",
+  "tr": "Tekniği Unut"
+ },
+ {
+  "en": "Forget Technique",
+  "prev": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform vec4 Colour;\r\nuniform float Prog;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nfloat a = abs(vrTex.x * 2.0 - 0.5);\r\na = a * 16.0;\r\na = min(Prog * 8.3 - a, 1.0);\r\na = a * texture(Tex, vrTex).a;\r\nFragColor.rgb = Colour.rgb;FragColor.a = Colour.a * a;}",
+  "next": "YES",
+  "tr": "Tekniği unut"
+ },
+ {
+  "en": "Forget all knowledge of this technique?",
+  "prev": "You are more resistant to mental intrusions and effects.",
+  "next": "Requirements not met.",
+  "tr": "Bu tekniğe dair tüm bilgi unutulsun mu?"
+ },
+ {
+  "en": "Forriel Company",
+  "prev": "Bantree Outfit",
+  "next": "Rallop Company",
+  "tr": "Forriel Bölüğü"
+ },
+ {
+  "en": "Forward",
+  "prev": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform sampler2D Tex0;\r\nvoid main() {\r\nvec2 t = vrTex;\r\nvec3 a = texture(Tex0, vrTex).rgb;\r\na.r = sqrt(a.r);\r\na.g = sqrt(a.g);\r\na.b = sqrt(a.b);\r\nt.x = t.x + 0.2341;\r\nvec3 b = texture(Tex0, t).rgb;\r\nb.r = dot(a, b);\r\nb.g = dot(a, a);\r\nb.b = dot(b, b);\r\na = a + b;\r\nt.y = t.y - 0.1476;\r\nvec3 c = texture(Tex0, t).rgb;\r\na.r = a.r - length(a);\r\na.g = a.g - length(b);\r\na.b = a.b - length(c);\r\na.r = pow(a.r, 1.2134);\r\na.g = pow(a.g, 2.2134);\r\na.b = pow(a.b, 3.734);\r\nt.x = t.x - 0.3768;\r\nt.y = t.y + 0.4276;\r\nb = texture(Tex0, t).rgb;\r\nb.r = sin(b.r) + cos(b.g);\r\nb.g = sin(b.g) + cos(b.r);\r\nb.b = sin(b.b) + cos(b.g);\r\nFragColor.rgb = a + b;\r\nFragColor.a = 1.0;\r\n}",
+  "next": "W",
+  "tr": "İleri"
+ },
+ {
+  "en": "Found [a] here.",
+  "prev": "There's [a] here.",
+  "next": "Got [a] here.",
+  "tr": "[a] bulundu."
+ },
+ {
+  "en": "Found [a] too.",
+  "prev": "And [a].",
+  "next": "Also found [a].",
+  "tr": "[a] da buldum."
+ },
+ {
+  "en": "Found some [i] here.",
+  "prev": "There's some [i] here.",
+  "next": "Got some [i] here.",
+  "tr": "Biraz [i] bulundu."
+ },
+ {
+  "en": "Found some [i] too.",
+  "prev": "And some [i].",
+  "next": "Also found some [i].",
+  "tr": "Biraz [i] da buldum."
+ },
+ {
+  "en": "Frerren Section",
+  "prev": "Lofton Company",
+  "next": "Evelique Company",
+  "tr": "Frerren Kolu"
+ },
+ {
+  "en": "Full screen ",
+  "prev": "Antialiasing: ",
+  "next": "Vertical sync ",
+  "tr": "Tam ekran "
+ },
+ {
+  "en": "Gemstone",
+  "prev": "Grip Wired",
+  "next": "Resin",
+  "tr": "Değerli Taş"
+ },
+ {
+  "en": "Gilded",
+  "prev": "Painted",
+  "next": "Blade",
+  "tr": "Yaldız"
+ },
+ {
+  "en": "Glaive",
+  "prev": "Spetum",
+  "next": "Greatsword",
+  "tr": "Glavye"
+ },
+ {
+  "en": "Global experience",
+  "prev": "New global experience",
+  "next": "Please name your character",
+  "tr": "Genel deneyim"
+ },
+ {
+  "en": "Good",
+  "prev": "Morale",
+  "next": "Total Staff",
+  "tr": "İyi"
+ },
+ {
+  "en": "Got [a] here.",
+  "prev": "Found [a] here.",
+  "next": "[a] here, if you want it.",
+  "tr": "[a] alındı."
+ },
+ {
+  "en": "Got some [i] here.",
+  "prev": "Found some [i] here.",
+  "next": "Some [i] here, if you want them.",
+  "tr": "Biraz [i] alındı."
+ },
+ {
+  "en": "Grand Falchion",
+  "prev": "Two Handed Sword",
+  "next": "Two Handed Battle Axe",
+  "tr": "Büyük Pala"
+ },
+ {
+  "en": "Great Axe",
+  "prev": "Bardiche",
+  "next": "Two Handed War Hammer",
+  "tr": "Büyük Balta"
+ },
+ {
+  "en": "Greatsword",
+  "prev": "Glaive",
+  "next": "Pole Axe",
+  "tr": "Büyük Kılıç"
+ },
+ {
+  "en": "Greatsword",
+  "prev": "Halberd",
+  "next": "Pole Axe",
+  "tr": "Büyük Kılıç"
+ },
+ {
+  "en": "Greenque Pact",
+  "prev": "Hisselmore Guard",
+  "next": "Solden Corpora",
+  "tr": "Greenque Paktı"
+ },
+ {
+  "en": "Grip Wired",
+  "prev": "Bronze Satn",
+  "next": "Gemstone",
+  "tr": "Telli Kabza"
+ },
+ {
+  "en": "Guisarme",
+  "prev": "Voulge",
+  "next": "Spetum",
+  "tr": "Gizarm"
+ },
+ {
+  "en": "HAIR",
+  "prev": "NAME",
+  "next": "BACK",
+  "tr": "SAÇ"
+ },
+ {
+  "en": "HAIR",
+  "prev": "NAME",
+  "next": "NEXT",
+  "tr": "SAÇ"
+ },
+ {
+  "en": "HIRE",
+  "prev": "CLOSE",
+  "next": "Hire Fee:",
+  "tr": "TUT"
+ },
+ {
+  "en": "HW antialiasing: ",
+  "prev": "Shadow quality: ",
+  "next": "Vertical sync ",
+  "tr": "Donanım yumuşatma: "
+ },
+ {
+  "en": "Halberd",
+  "prev": "Pole Hammer",
+  "next": "Greatsword",
+  "tr": "Teber"
+ },
+ {
+  "en": "Halberd",
+  "prev": "Pole Hammer",
+  "next": "Bonten Company",
+  "tr": "Teber"
+ },
+ {
+  "en": "Hammer",
+  "prev": "Handsaw",
+  "next": "Cudgel",
+  "tr": "Çekiç"
+ },
+ {
+  "en": "Handsaw",
+  "prev": "Hatchet",
+  "next": "Hammer",
+  "tr": "Testere"
+ },
+ {
+  "en": "Hatchet",
+  "prev": "CheckpointSave",
+  "next": "Handsaw",
+  "tr": "Nacak"
+ },
+ {
+  "en": "Health",
+  "prev": "Name",
+  "next": "Tournament winners",
+  "tr": "Sağlık"
+ },
+ {
+  "en": "Heavy",
+  "prev": "Light",
+  "next": "Thick",
+  "tr": "Ağır"
+ },
+ {
+  "en": "Heavy",
+  "prev": "Thick",
+  "next": "      ",
+  "tr": "Ağır"
+ },
+ {
+  "en": "Heavy",
+  "prev": "Light",
+  "next": "Superior",
+  "tr": "Ağır"
+ },
+ {
+  "en": "Heavy",
+  "prev": "Fine",
+  "next": "Reinforced",
+  "tr": "Ağır"
+ },
+ {
+  "en": "Heavy",
+  "prev": "Light",
+  "next": "Superior",
+  "tr": "Ağır"
+ },
+ {
+  "en": "Heavy",
+  "prev": "Light",
+  "next": "Superior",
+  "tr": "Ağır"
+ },
+ {
+  "en": "Height",
+  "prev": "PHYSIQUE",
+  "next": "Age  ",
+  "tr": "Boy"
+ },
+ {
+  "en": "Height",
+  "prev": "Physique",
+  "next": "Age   ",
+  "tr": "Boy"
+ },
+ {
+  "en": "Higher coverage armour has fewer exposed parts and weaknesses.",
+  "prev": "Armour can be worn in layers for even better protection.",
+  "next": "Press TAB to toggle combat mode or I to toggle the inventory. Double click bodies to loot them.",
+  "tr": "Kapsaması yüksek zırhın açık ve zayıf noktası daha azdır."
+ },
+ {
+  "en": "Hire",
+  "prev": "Recruit",
+  "next": "Owned",
+  "tr": "Tut"
+ },
+ {
+  "en": "Hire",
+  "prev": " / ",
+  "next": "You do not have room for any more fighters.",
+  "tr": "Tut"
+ },
+ {
+  "en": "Hire Fee:",
+  "prev": "HIRE",
+  "next": "Upkeep:",
+  "tr": "Tutma ücreti:"
+ },
+ {
+  "en": "Hisselmore Guard",
+  "prev": "Westryn Company",
+  "next": "Greenque Pact",
+  "tr": "Hisselmore Muhafızı"
+ },
+ {
+  "en": "Hold [tcol=FFE399]Powers[/tcol] to access the power tree.\r\rPress [tcol=FFE399]Use Power[/tcol] with the power bar open to use a power directly without changing which is active.\r\rYou can toggle in and out of dialogue mode without ending the conversation by pressing [tcol=FFE399]Talk[/tcol].",
+  "prev": "Early Checkpoints",
+  "next": " Off",
+  "tr": "Güç ağacını açmak için [tcol=FFE399]Güçler[/tcol] tuşunu basılı tutun.\r\rGüç çubuğu açıkken [tcol=FFE399]Güç kullan[/tcol] tuşuna basarsanız etkin gücü değiştirmeden doğrudan bir güç kullanırsınız.\r\r[tcol=FFE399]Konuş[/tcol] tuşuyla konuşmayı bitirmeden diyalog kipine girip çıkabilirsiniz."
+ },
+ {
+  "en": "I found [a].",
+  "prev": "ThmFrc_Swing",
+  "next": "There's [a] here.",
+  "tr": "[a] buldum."
+ },
+ {
+  "en": "I found some [i].",
+  "prev": "This [i] could be useful.",
+  "next": "There's some [i] here.",
+  "tr": "Biraz [i] buldum."
+ },
+ {
+  "en": "IMPORTANT PLEASE READ",
+  "prev": "You are a cobbler of notable skill from the village of Pirn. From time to time you travel to nearby villages in an effort to expand your market. On the latest such occasion you were ambushed during your trip. Your assailants appear to have no interest in your goods, they abducted you without giving reason.",
+  "next": "This message will only appear once.",
+  "tr": "ÖNEMLİ LÜTFEN OKUYUN"
+ },
+ {
+  "en": "IO Error",
+  "prev": "Failed to create package file.",
+  "next": "COMPANY NAME",
+  "tr": "Dosya hatası"
+ },
+ {
+  "en": "Icon Error",
+  "prev": "Failed to render item icons: ",
+  "next": "Item reference underflow.",
+  "tr": "Simge hatası"
+ },
+ {
+  "en": "Immediately follow a swing with another in the opposite direction.",
+  "prev": "Remise",
+  "next": "Feint",
+  "tr": "Bir savuruşun hemen ardından ters yönde bir savuruş daha yapın."
+ },
+ {
+  "en": "Immediately follow a swing with another in the opposite direction.",
+  "prev": "Remise",
+  "next": "Feint",
+  "tr": "Bir savuruşun hemen ardından ters yönde bir savuruş daha yapın."
+ },
+ {
+  "en": "Impact",
+  "prev": "Weight",
+  "next": "Balance",
+  "tr": "Darbe"
+ },
+ {
+  "en": "Impact",
+  "prev": "Weight",
+  "next": "Encumbrance",
+  "tr": "Darbe"
+ },
+ {
+  "en": "Impact",
+  "prev": "Points",
+  "next": "Encumbrance",
+  "tr": "Darbe"
+ },
+ {
+  "en": "Impact mainly deals stamina damage but also affects all other damage types.",
+  "prev": "Weapons with a higher balance are quicker and more responsive.",
+  "next": "Armour can be worn in layers for even better protection.",
+  "tr": "Darbe çoğunlukla dayanıklılık hasarı verir ama tüm türleri etkiler."
+ },
+ {
+  "en": "Impel",
+  "prev": "Cut or hook with your weapon after landing a blow.",
+  "next": "Abandon your attack to quickly parry.",
+  "tr": "İtiş"
+ },
+ {
+  "en": "Inept",
+  "prev": "Sockets",
+  "next": "Aspirant",
+  "tr": "Zayıf"
+ },
+ {
+  "en": "Inept",
+  "prev": "Rank",
+  "next": "Points: 0 / 5",
+  "tr": "Zayıf"
+ },
+ {
+  "en": "Inept",
+  "prev": "Any",
+  "next": "Aspirant",
+  "tr": "Zayıf"
+ },
+ {
+  "en": "Insight",
+  "prev": "Shields",
+  "next": "Concentration",
+  "tr": "Sezgi"
+ },
+ {
+  "en": "Insight",
+  "prev": "Shields",
+  "next": "Concentration",
+  "tr": "Sezgi"
+ },
+ {
+  "en": "Insufficient funds",
+  "prev": "Item duplicated in merchant stock.",
+  "next": "Recruitment",
+  "tr": "Yetersiz bakiye"
+ },
+ {
+  "en": "Interact",
+  "prev": "F",
+  "next": "Ctrl",
+  "tr": "Etkileşim"
+ },
+ {
+  "en": "Invalid Weapon",
+  "prev": "Invalid weapon listing for character geneation",
+  "next": "golem_act",
+  "tr": "Geçersiz silah"
+ },
+ {
+  "en": "Invalid format",
+  "prev": "Invalid power tree file.",
+  "next": "in vec3 vPos;\r\nin vec3 vNrm;\r\nin vec2 vTex;\r\nout vec3 vrTex;\r\nuniform mat4 ObjMat;\r\nuniform vec3 TexVecU;\r\nuniform vec3 TexVecV;\r\nuniform vec3 EyeVec;\r\nvoid main() {\r\ngl_Position = ObjMat * vec4(vPos,1.0);\r\nvrTex.x = dot(vPos, TexVecU);\r\nvrTex.y = dot(vPos, TexVecV);\r\nfloat a = max(dot(vNrm, EyeVec), 0.0);\r\nvrTex.z = a * a;\r\n}",
+  "tr": "Geçersiz biçim"
+ },
+ {
+  "en": "Invalid project data",
+  "prev": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nvec4 tcol = texture(Tex, vrTex);\r\nvec2 dx = dFdx(vrTex.xy) * 0.5;vec2 dy = dFdy(vrTex.xy) * 0.5;vec3 sc = texture(Tex, vrTex - dx - dy).rgb;vec3 sb = tcol.rgb - sc;float a = dot(sb,sb);sb = texture(Tex, vrTex + dx - dy).rgb;sc += sb;sb = tcol.rgb - sb;a = a + dot(sb, sb);sb = texture(Tex, vrTex + dx + dy).rgb;sc += sb;sb = tcol.rgb - sb;a = a + dot(sb, sb);sb = texture(Tex, vrTex - dx + dy).rgb;sc += sb;sb = tcol.rgb - sb;a = a + dot(sb, sb);a = a * 48;a = max(1.0 - a * a, 0.0) * 0.5;tcol.rgb = tcol.rgb * (1.0+a) - sc * 0.25 * a;FragColor = tcol;}",
+  "next": "Data error",
+  "tr": "Geçersiz proje verisi"
+ },
+ {
+  "en": "Inventory",
+  "prev": "Ctrl",
+  "next": "I",
+  "tr": "Envanter"
+ },
+ {
+  "en": "Inventory",
+  "prev": "Delete",
+  "next": "Journal",
+  "tr": "Envanter"
+ },
+ {
+  "en": "Inventory",
+  "prev": "Error dropping character weapons: ",
+  "next": "Body",
+  "tr": "Envanter"
+ },
+ {
+  "en": "Inversion",
+  "prev": "Wield cumbersome shields with greater ease and speed.",
+  "next": "Produce an opposite or contrary effect.",
+  "tr": "Tersine Çevirme"
+ },
+ {
+  "en": "Inversion",
+  "prev": "Wield cumbersome shields with greater ease and speed.",
+  "next": "Produce an opposite or contrary effect.",
+  "tr": "Tersine Çevirme"
+ },
+ {
+  "en": "Iron",
+  "prev": "Wood Rough",
+  "next": "Bronze Plsh",
+  "tr": "Demir"
+ },
+ {
+  "en": "Iron-Shod Quarterstaff",
+  "prev": "Sledgehammer",
+  "next": "Billhook (long)",
+  "tr": "Demir Uçlu Sopa"
+ },
+ {
+  "en": "It is",
+  "prev": "A ",
+  "next": "They are ",
+  "tr": "Bu"
+ },
+ {
+  "en": "It is ",
+  "prev": "They are ",
+  "next": " and",
+  "tr": "Bu "
+ },
+ {
+  "en": "Item Error",
+  "prev": "Item reference underflow.",
+  "next": "User item does not exist: ",
+  "tr": "Eşya hatası"
+ },
+ {
+  "en": "Item Error",
+  "prev": "Invalid trade item request.",
+  "next": "Restock",
+  "tr": "Eşya hatası"
+ },
+ {
+  "en": "Iteration",
+  "prev": "Manipulate an effect into a more coherent form.",
+  "next": "Become more efficient when repeating the same binding",
+  "tr": "Yineleme"
+ },
+ {
+  "en": "Iteration",
+  "prev": "Manipulate an effect into a more coherent form.",
+  "next": "Become more efficient when repeating the same binding",
+  "tr": "Yineleme"
+ },
+ {
+  "en": "Journal",
+  "prev": "K",
+  "next": "J",
+  "tr": "Günlük"
+ },
+ {
+  "en": "Journal",
+  "prev": "Inventory",
+  "next": "BACK",
+  "tr": "Günlük"
+ },
+ {
+  "en": "Journal",
+  "prev": "New Entry",
+  "next": "%",
+  "tr": "Günlük"
+ },
+ {
+  "en": "KNIGHT",
+  "prev": "UNKNOWN",
+  "next": "PROCTOR",
+  "tr": "ŞÖVALYE"
+ },
+ {
+  "en": "Keyboard",
+  "prev": "CONTROLS",
+  "next": "Controller",
+  "tr": "Klavye"
+ },
+ {
+  "en": "Large Mallet",
+  "prev": "Metal Bar",
+  "next": "Quarterstaff",
+  "tr": "Büyük Tokmak"
+ },
+ {
+  "en": "Learn from observation and external sources of knowledge.",
+  "prev": "Revelation",
+  "next": "Amalgamation",
+  "tr": "Gözlemden ve dış bilgi kaynaklarından öğrenin."
+ },
+ {
+  "en": "Learn from observation and external sources of knowledge.",
+  "prev": "Revelation",
+  "next": "Amalgamation",
+  "tr": "Gözlemden ve dış bilgi kaynaklarından öğrenin."
+ },
+ {
+  "en": "Leather 1",
+  "prev": "Padded 2",
+  "next": "Leather 2",
+  "tr": "Deri 1"
+ },
+ {
+  "en": "Leather 2",
+  "prev": "Leather 1",
+  "next": "Suede",
+  "tr": "Deri 2"
+ },
+ {
+  "en": "Left",
+  "prev": "S",
+  "next": "A",
+  "tr": "Sol"
+ },
+ {
+  "en": "Let go of LMB at any time to perform a feint or abandon your attack to defend instead.",
+  "prev": "Even when a parry is not successful, attempting to defend will reduce damage taken.",
+  "next": "To successfully block or parry you must turn and position yourself to face the blow.",
+  "tr": "Sol tuşu bırakarak şaşırtma yapabilir ya da saldırıyı bırakıp savunmaya geçebilirsiniz."
+ },
+ {
+  "en": "Light",
+  "prev": "Worn",
+  "next": "Heavy",
+  "tr": "Hafif"
+ },
+ {
+  "en": "Light",
+  "prev": "Worn",
+  "next": "Thick",
+  "tr": "Hafif"
+ },
+ {
+  "en": "Light",
+  "prev": "Crude",
+  "next": "Heavy",
+  "tr": "Hafif"
+ },
+ {
+  "en": "Light",
+  "prev": "Crude",
+  "next": "Heavy",
+  "tr": "Hafif"
+ },
+ {
+  "en": "Light",
+  "prev": "Crude",
+  "next": "Heavy",
+  "tr": "Hafif"
+ },
+ {
+  "en": "Loadout corrupted",
+  "prev": "Loadout corrupted, attempting save recovery.",
+  "next": "Error clearing hub.",
+  "tr": "Teçhizat bozuldu"
+ },
+ {
+  "en": "Lofton Company",
+  "prev": "Dayker's Crew",
+  "next": "Frerren Section",
+  "tr": "Lofton Bölüğü"
+ },
+ {
+  "en": "Long Knife",
+  "prev": "Dagger",
+  "next": "Billhook (short)",
+  "tr": "Uzun Bıçak"
+ },
+ {
+  "en": "Longsword",
+  "prev": "Flanged Mace",
+  "next": "Two Handed Sword",
+  "tr": "Uzun Kılıç"
+ },
+ {
+  "en": "Look for:",
+  "prev": "Master",
+  "next": "Rank:",
+  "tr": "Aranan:"
+ },
+ {
+  "en": "MANUAL",
+  "prev": "ARENA",
+  "next": "SETTINGS",
+  "tr": "KILAVUZ"
+ },
+ {
+  "en": "MANUAL",
+  "prev": "\rTournaments are held weekly. Fighting companies compete in each tournament for a prize. If a company wins all four tournaments in a season they are awarded an exclusive suit of armour.\r\rYou must enter fighters in advance of the tournament day; once the tournament is in progress you will not be able to enter or remove fighters. Only master rank fighters are eligible to participate in tournaments.\r\rTo win a tournament you must win at least three of the six events. It is advisable to enter different fighters in as many events as you can to improve your chances of winning.",
+  "next": "Invalid role identifier.",
+  "tr": "KILAVUZ"
+ },
+ {
+  "en": "Mace",
+  "prev": "Quarterstaff",
+  "next": "Spiked Club",
+  "tr": "Gürz"
+ },
+ {
+  "en": "Mail",
+  "prev": "Rawhide",
+  "next": "Steel",
+  "tr": "Zincir"
+ },
+ {
+  "en": "Maintain a binding while performing other tasks.",
+  "prev": "Continuity",
+  "next": "Continuity II",
+  "tr": "Başka işler yaparken bir bağı sürdürün."
+ },
+ {
+  "en": "Maintain a binding while performing other tasks.",
+  "prev": "Continuity",
+  "next": "Continuity II",
+  "tr": "Başka işler yaparken bir bağı sürdürün."
+ },
+ {
+  "en": "Maintain three bindings while performing other tasks.",
+  "prev": "Continuity III",
+  "next": "Abstraction",
+  "tr": "Başka işler yaparken üç bağı sürdürün."
+ },
+ {
+  "en": "Maintain three bindings while performing other tasks.",
+  "prev": "Continuity III",
+  "next": "Abstraction",
+  "tr": "Başka işler yaparken üç bağı sürdürün."
+ },
+ {
+  "en": "Maintain two bindings while performing other tasks.",
+  "prev": "Continuity II",
+  "next": "Continuity III",
+  "tr": "Başka işler yaparken iki bağı sürdürün."
+ },
+ {
+  "en": "Maintain two bindings while performing other tasks.",
+  "prev": "Continuity II",
+  "next": "Continuity III",
+  "tr": "Başka işler yaparken iki bağı sürdürün."
+ },
+ {
+  "en": "Male",
+  "prev": "New Entry",
+  "next": "Female",
+  "tr": "Erkek"
+ },
+ {
+  "en": "Male",
+  "prev": "thmnrg_shock",
+  "next": "Female",
+  "tr": "Erkek"
+ },
+ {
+  "en": "Manage",
+  "prev": "Report",
+  "next": "Arsenal",
+  "tr": "Yönet"
+ },
+ {
+  "en": "Manage Company",
+  "prev": "a ",
+  "next": "Anything",
+  "tr": "Bölüğü yönet"
+ },
+ {
+  "en": "Manipulate an effect into a more coherent form.",
+  "prev": "Coherence",
+  "next": "Iteration",
+  "tr": "Etkiyi daha tutarlı bir biçime sokun."
+ },
+ {
+  "en": "Manipulate an effect into a more coherent form.",
+  "prev": "Coherence",
+  "next": "Iteration",
+  "tr": "Etkiyi daha tutarlı bir biçime sokun."
+ },
+ {
+  "en": "Manoeuvring in Armour I",
+  "prev": "Use two weapons to attack and defend simultaneously.",
+  "next": "Move more swiftly under the weight of your armour.",
+  "tr": "Zırhta Manevra I"
+ },
+ {
+  "en": "Manoeuvring in Armour I",
+  "prev": "Use two weapons to attack and defend simultaneously.",
+  "next": "Move more swiftly under the weight of your armour.",
+  "tr": "Zırhta Manevra I"
+ },
+ {
+  "en": "Manoeuvring in Armour II",
+  "prev": "Move more swiftly under the weight of your armour.",
+  "next": "Move more swiftly under the weight of your armour.",
+  "tr": "Zırhta Manevra II"
+ },
+ {
+  "en": "Manoeuvring in Armour II",
+  "prev": "Move more swiftly under the weight of your armour.",
+  "next": "Move more swiftly under the weight of your armour.",
+  "tr": "Zırhta Manevra II"
+ },
+ {
+  "en": "Manoeuvring in Armour III",
+  "prev": "Move more swiftly under the weight of your armour.",
+  "next": "Move more swiftly under the weight of your armour.",
+  "tr": "Zırhta Manevra III"
+ },
+ {
+  "en": "Manoeuvring in Armour III",
+  "prev": "Move more swiftly under the weight of your armour.",
+  "next": "Move more swiftly under the weight of your armour.",
+  "tr": "Zırhta Manevra III"
+ },
+ {
+  "en": "Master",
+  "prev": "Expert",
+  "next": "-",
+  "tr": "Usta"
+ },
+ {
+  "en": "Master",
+  "prev": "Expert",
+  "next": "Look for:",
+  "tr": "Usta"
+ },
+ {
+  "en": "Masters",
+  "prev": "13",
+  "next": "None",
+  "tr": "Usta"
+ },
+ {
+  "en": "Match",
+  "prev": "Matches",
+  "next": "Rank",
+  "tr": "Maç"
+ },
+ {
+  "en": "Matches",
+  "prev": "Do you wish to forfeit the entire tourney?",
+  "next": "Match",
+  "tr": "Maçlar"
+ },
+ {
+  "en": "Matches forfeited",
+  "prev": "2",
+  "next": "4",
+  "tr": "Pes edilen maç"
+ },
+ {
+  "en": "Matches lost",
+  "prev": "23",
+  "next": "2",
+  "tr": "Kaybedilen maç"
+ },
+ {
+  "en": "Matches won",
+  "prev": "[algn=2]There are no more matches running this day.\r\nEnd the day to participate in more matches.",
+  "next": "23",
+  "tr": "Kazanılan maç"
+ },
+ {
+  "en": "Maul",
+  "prev": "Short Spear",
+  "next": "Bardiche",
+  "tr": "Tokmak"
+ },
+ {
+  "en": "Meditation",
+  "prev": "Concentration",
+  "next": "Remise",
+  "tr": "Meditasyon"
+ },
+ {
+  "en": "Medium",
+  "prev": "Shading quality: ",
+  "next": "Texture detail: ",
+  "tr": "Orta"
+ },
+ {
+  "en": "Medium",
+  "prev": "Texture detail: ",
+  "next": "Texture quality: ",
+  "tr": "Orta"
+ },
+ {
+  "en": "Medium",
+  "prev": "Texture quality: ",
+  "next": "Shadow detail: ",
+  "tr": "Orta"
+ },
+ {
+  "en": "Medium",
+  "prev": "Shadow detail: ",
+  "next": "Shadow quality: ",
+  "tr": "Orta"
+ },
+ {
+  "en": "Medium",
+  "prev": "Shadow quality: ",
+  "next": "Antialiasing: ",
+  "tr": "Orta"
+ },
+ {
+  "en": "Merchants provide an inventory of items for you to buy. They can help you find more specific items by providing stock of a particular type and rank.",
+  "prev": "Combatants can fight in your stead, or by your side in team matches.",
+  "next": "Physicians improve the rate of healing of your fighters and can save fighters from death if the injuries sustained aren't too severe.",
+  "tr": "Tüccarlar satın alabileceğiniz eşyalar sunar. Belirli tür ve rütbede stok getirerek aradığınız eşyaları bulmanıza yardım edebilirler."
+ },
+ {
+  "en": "Metal Bar",
+  "prev": "Billhook",
+  "next": "Large Mallet",
+  "tr": "Metal Çubuk"
+ },
+ {
+  "en": "Mirror",
+  "prev": "1",
+  "next": "Colour 1",
+  "tr": "Aynala"
+ },
+ {
+  "en": "Mirror",
+  "prev": "1",
+  "next": "Colour 1",
+  "tr": "Aynala"
+ },
+ {
+  "en": "Mobility",
+  "prev": "Withstand more blows before your shield arm tires.",
+  "next": "Wield cumbersome shields with greater ease and speed.",
+  "tr": "Hareketlilik"
+ },
+ {
+  "en": "Mobility",
+  "prev": "Withstand more blows before your shield arm tires.",
+  "next": "Wield cumbersome shields with greater ease and speed.",
+  "tr": "Hareketlilik"
+ },
+ {
+  "en": "Morale",
+  "prev": "Unknown",
+  "next": "Good",
+  "tr": "Moral"
+ },
+ {
+  "en": "Mouse 3",
+  "prev": "Benchmark cleanup error",
+  "next": "Mouse 4",
+  "tr": "Fare 3"
+ },
+ {
+  "en": "Mouse 4",
+  "prev": "Mouse 3",
+  "next": "Mouse 5",
+  "tr": "Fare 4"
+ },
+ {
+  "en": "Mouse 5",
+  "prev": "Mouse 4",
+  "next": "<",
+  "tr": "Fare 5"
+ },
+ {
+  "en": "Move more swiftly under the weight of your armour.",
+  "prev": "Manoeuvring in Armour I",
+  "next": "Manoeuvring in Armour II",
+  "tr": "Zırhınızın ağırlığı altında daha çevik hareket edin."
+ },
+ {
+  "en": "Move more swiftly under the weight of your armour.",
+  "prev": "Manoeuvring in Armour II",
+  "next": "Manoeuvring in Armour III",
+  "tr": "Zırhınızın ağırlığı altında daha çevik hareket edin."
+ },
+ {
+  "en": "Move more swiftly under the weight of your armour.",
+  "prev": "Manoeuvring in Armour III",
+  "next": "Deflection",
+  "tr": "Zırhınızın ağırlığı altında daha çevik hareket edin."
+ },
+ {
+  "en": "Move more swiftly under the weight of your armour.",
+  "prev": "Manoeuvring in Armour I",
+  "next": "Manoeuvring in Armour II",
+  "tr": "Zırhınızın ağırlığı altında daha çevik hareket edin."
+ },
+ {
+  "en": "Move more swiftly under the weight of your armour.",
+  "prev": "Manoeuvring in Armour II",
+  "next": "Manoeuvring in Armour III",
+  "tr": "Zırhınızın ağırlığı altında daha çevik hareket edin."
+ },
+ {
+  "en": "Move more swiftly under the weight of your armour.",
+  "prev": "Manoeuvring in Armour III",
+  "next": "Deflection",
+  "tr": "Zırhınızın ağırlığı altında daha çevik hareket edin."
+ },
+ {
+  "en": "Mowbrots Bunch",
+  "prev": "Vanrel's Band",
+  "next": "Dullos Company",
+  "tr": "Mowbrot Grubu"
+ },
+ {
+  "en": "Music",
+  "prev": "Audio volume: ",
+  "next": "Super sampling: ",
+  "tr": "Müzik"
+ },
+ {
+  "en": "NAME",
+  "prev": "CREATE CHARACTER",
+  "next": "HAIR",
+  "tr": "İSİM"
+ },
+ {
+  "en": "NAME",
+  "prev": "Character creation",
+  "next": "HAIR",
+  "tr": "İSİM"
+ },
+ {
+  "en": "NEW CAREER",
+  "prev": "EXIT",
+  "next": "PRACTICE",
+  "tr": "YENİ KARİYER"
+ },
+ {
+  "en": "NEW GAME",
+  "prev": "BACK",
+  "next": "FORFEIT",
+  "tr": "YENİ OYUN"
+ },
+ {
+  "en": "NEXT",
+  "prev": "BACK",
+  "next": "Recruitment:",
+  "tr": "İLERİ"
+ },
+ {
+  "en": "NEXT",
+  "prev": "HAIR",
+  "next": "Reset to portal",
+  "tr": "İLERİ"
+ },
+ {
+  "en": "NEXT",
+  "prev": "BACK",
+  "next": "Emblems",
+  "tr": "İLERİ"
+ },
+ {
+  "en": "NEXT FIGHT",
+  "prev": "EXIT;",
+  "next": "Error saving game progress.",
+  "tr": "SONRAKİ DÖVÜŞ"
+ },
+ {
+  "en": "NO",
+  "prev": "YES",
+  "next": "SkillShow_01",
+  "tr": "HAYIR"
+ },
+ {
+  "en": "NOVICE",
+  "prev": "FORFEIT",
+  "next": "EXPERT",
+  "tr": "ACEMİ"
+ },
+ {
+  "en": "NPCs play by the same exact rules, make human errors and have slow reaction times.",
+  "prev": "To successfully block or parry you must turn and position yourself to face the blow.",
+  "next": "To attack from your left, move the cursor to your character's left before pressing LMB.",
+  "tr": "NPC'ler aynı kurallara tabidir, insani hatalar yapar ve yavaş tepki verir."
+ },
+ {
+  "en": "Name",
+  "prev": "Winner",
+  "next": "Health",
+  "tr": "İsim"
+ },
+ {
+  "en": "New",
+  "prev": "Secondary",
+  "next": "Erase",
+  "tr": "Yeni"
+ },
+ {
+  "en": "New",
+  "prev": "extremely crude",
+  "next": " ",
+  "tr": "Yeni"
+ },
+ {
+  "en": "New Entry",
+  "prev": "CheckPoints",
+  "next": "Male",
+  "tr": "Yeni kayıt"
+ },
+ {
+  "en": "New Entry",
+  "prev": "Erase",
+  "next": "Close Combat",
+  "tr": "Yeni kayıt"
+ },
+ {
+  "en": "New Entry",
+  "prev": "Error closing motile inventory.",
+  "next": "Journal",
+  "tr": "Yeni kayıt"
+ },
+ {
+  "en": "New Entry",
+  "prev": "Error moving to new map.",
+  "next": "Save game format no longer supported.",
+  "tr": "Yeni kayıt"
+ },
+ {
+  "en": "New colour",
+  "prev": "Old colour",
+  "next": "Reset",
+  "tr": "Yeni renk"
+ },
+ {
+  "en": "New global experience",
+  "prev": "Current skill progress",
+  "next": "Global experience",
+  "tr": "Yeni genel deneyim"
+ },
+ {
+  "en": "Next",
+  "prev": "Previous",
+  "next": "Delete",
+  "tr": "Sonraki"
+ },
+ {
+  "en": "Next",
+  "prev": "Previous",
+  "next": "Dismiss",
+  "tr": "Sonraki"
+ },
+ {
+  "en": "Next Power",
+  "prev": "Previous Power",
+  "next": "Power Tree",
+  "tr": "Sonraki güç"
+ },
+ {
+  "en": "No",
+  "prev": "Yes",
+  "next": "Are you sure you want to delete ",
+  "tr": "Hayır"
+ },
+ {
+  "en": "No",
+  "prev": "Yes",
+  "next": "Are you sure you want to forget this technique?",
+  "tr": "Hayır"
+ },
+ {
+  "en": "No",
+  "prev": "Yes",
+  "next": "ARSENAL",
+  "tr": "Hayır"
+ },
+ {
+  "en": "No more events entered.",
+  "prev": "The tournament has ended.",
+  "next": "Tournament is in progress.",
+  "tr": "Başka etkinlik yok."
+ },
+ {
+  "en": "None",
+  "prev": "Masters",
+  "next": "CLOSE",
+  "tr": "Yok"
+ },
+ {
+  "en": "Normal",
+  "prev": "<Random>",
+  "next": "Error retrieving relation ID.",
+  "tr": "Normal"
+ },
+ {
+  "en": "Novice",
+  "prev": "Aspirant",
+  "next": "Adept",
+  "tr": "Acemi"
+ },
+ {
+  "en": "Novice",
+  "prev": "Aspirant",
+  "next": "Adept",
+  "tr": "Acemi"
+ },
+ {
+  "en": "Object Library",
+  "prev": "Error loading library object: ",
+  "next": "R:",
+  "tr": "Nesne kitaplığı"
+ },
+ {
+  "en": "Old colour",
+  "prev": "V:",
+  "next": "New colour",
+  "tr": "Eski renk"
+ },
+ {
+  "en": "Orbit Camera",
+  "prev": "X",
+  "next": "Cursor Look",
+  "tr": "Kamera döndür"
+ },
+ {
+  "en": "Overhead attacks can deliver devastating head blows and hit prone opponents.",
+  "prev": "Watch your opponent closely and land your attacks when they are most vulnerable.",
+  "next": "Slash damage is effective on weak and slicing blows but easily mitigated by armour.",
+  "tr": "Yukarıdan saldırılar yıkıcı kafa darbeleri indirir ve yerdeki rakipleri vurur."
+ },
+ {
+  "en": "Owned",
+  "prev": "Hire",
+  "next": "Upkeep",
+  "tr": "Sahip"
+ },
+ {
+  "en": "Owned:",
+  "prev": "You cannot afford this transaction.",
+  "next": "Trade",
+  "tr": "Sahip:"
+ },
+ {
+  "en": "PHYSIQUE",
+  "prev": "Female",
+  "next": "Height",
+  "tr": "FİZİK"
+ },
+ {
+  "en": "PRACTICE",
+  "prev": "NEW CAREER",
+  "next": "BACK",
+  "tr": "ALIŞTIRMA"
+ },
+ {
+  "en": "PRESS A KEY",
+  "prev": "ALREADY IN USE",
+  "next": "Valve Steam Deck",
+  "tr": "BİR TUŞA BASIN"
+ },
+ {
+  "en": "PROCTOR",
+  "prev": "KNIGHT",
+  "next": "VILLAGER",
+  "tr": "VEKİL"
+ },
+ {
+  "en": "Padded 1",
+  "prev": "Velvet",
+  "next": "Padded 2",
+  "tr": "Dolgulu 1"
+ },
+ {
+  "en": "Padded 2",
+  "prev": "Padded 1",
+  "next": "Leather 1",
+  "tr": "Dolgulu 2"
+ },
+ {
+  "en": "Painted",
+  "prev": "Steel Plate",
+  "next": "Gilded",
+  "tr": "Boyalı"
+ },
+ {
+  "en": "Pay:",
+  "prev": "Rank:",
+  "next": "You cannot afford this transaction.",
+  "tr": "Öde:"
+ },
+ {
+  "en": "Pay:",
+  "prev": "Transaction",
+  "next": "Receive:",
+  "tr": "Öde:"
+ },
+ {
+  "en": "Perform attacks from behind the cover of your shield.",
+  "prev": "Ward",
+  "next": "Persist",
+  "tr": "Kalkanınızın arkasından saldırılar yapın."
+ },
+ {
+  "en": "Perform attacks from behind the cover of your shield.",
+  "prev": "Ward",
+  "next": "Persist",
+  "tr": "Kalkanınızın arkasından saldırılar yapın."
+ },
+ {
+  "en": "Performance Index: ",
+  "prev": "Unknown",
+  "next": "Video Memory: ",
+  "tr": "Performans indeksi: "
+ },
+ {
+  "en": "Persist",
+  "prev": "Perform attacks from behind the cover of your shield.",
+  "next": "Continue attacks while receiving blows to the shield.",
+  "tr": "Sebat"
+ },
+ {
+  "en": "Persist",
+  "prev": "Perform attacks from behind the cover of your shield.",
+  "next": "Continue attacks while receiving blows to the shield.",
+  "tr": "Sebat"
+ },
+ {
+  "en": "Physicians improve the rate of healing of your fighters and can save fighters from death if the injuries sustained aren't too severe.",
+  "prev": "Merchants provide an inventory of items for you to buy. They can help you find more specific items by providing stock of a particular type and rank.",
+  "next": "Trainers increase the rate at which your fighters learn skills. They can also teach the techniques they know to your fighters when they are idle.",
+  "tr": "Hekimler dövüşçülerinizin iyileşme hızını artırır; yaralar çok ağır değilse dövüşçüleri ölümden kurtarabilirler."
+ },
+ {
+  "en": "Physique",
+  "prev": "Female",
+  "next": "Height",
+  "tr": "Fizik"
+ },
+ {
+  "en": "Pierce",
+  "prev": "Crush",
+  "next": "Thrust",
+  "tr": "Delme"
+ },
+ {
+  "en": "Piercing damage is better at finding potential gaps and weak spots in armour.",
+  "prev": "Slash damage is effective on weak and slicing blows but easily mitigated by armour.",
+  "next": "Crushing damage is reliant on strong blows but typically most effective against armour.",
+  "tr": "Delme hasarı zırhtaki boşlukları ve zayıf noktaları bulmakta daha iyidir."
+ },
+ {
+  "en": "Pitch ",
+  "prev": "A",
+  "next": "CREATE CHARACTER",
+  "tr": "Ton "
+ },
+ {
+  "en": "Pitchfork",
+  "prev": "Sickle (long)",
+  "next": "Shortsword",
+  "tr": "Dirgen"
+ },
+ {
+  "en": "Planks Paint",
+  "prev": "Resin",
+  "next": "Error Processing procedural item queue.",
+  "tr": "Boyalı Tahta"
+ },
+ {
+  "en": "Please name your character",
+  "prev": "Global experience",
+  "next": "Character Name",
+  "tr": "Karakterinize bir isim verin"
+ },
+ {
+  "en": "Please name your company",
+  "prev": "klean",
+  "next": "Company Name",
+  "tr": "Bölüğünüze bir isim verin"
+ },
+ {
+  "en": "Points",
+  "prev": "Thrust",
+  "next": "Impact",
+  "tr": "Puan"
+ },
+ {
+  "en": "Points: ",
+  "prev": "Recruitment",
+  "next": " / ",
+  "tr": "Puan: "
+ },
+ {
+  "en": "Points: 0 / 5",
+  "prev": "Inept",
+  "next": "Encumbrance:",
+  "tr": "Puan: 0 / 5"
+ },
+ {
+  "en": "Pole Axe",
+  "prev": "Greatsword",
+  "next": "Pole Hammer",
+  "tr": "Kargı Balta"
+ },
+ {
+  "en": "Pole Axe",
+  "prev": "Greatsword",
+  "next": "Pole Hammer",
+  "tr": "Kargı Balta"
+ },
+ {
+  "en": "Pole Hammer",
+  "prev": "Pole Axe",
+  "next": "Halberd",
+  "tr": "Kargı Çekiç"
+ },
+ {
+  "en": "Pole Hammer",
+  "prev": "Pole Axe",
+  "next": "Halberd",
+  "tr": "Kargı Çekiç"
+ },
+ {
+  "en": "Power Bar",
+  "prev": "Use Power",
+  "next": "Previous Power",
+  "tr": "Güç çubuğu"
+ },
+ {
+  "en": "Power Tree",
+  "prev": "Next Power",
+  "next": "P",
+  "tr": "Güç ağacı"
+ },
+ {
+  "en": "Press TAB to toggle combat mode or I to toggle the inventory. Double click bodies to loot them.",
+  "prev": "Higher coverage armour has fewer exposed parts and weaknesses.",
+  "next": "You have been defeated.",
+  "tr": "Savaş modu için TAB, envanter için I tuşuna basın. Cesetleri yağmalamak için çift tıklayın."
+ },
+ {
+  "en": "Previous",
+  "prev": "CONTINUE",
+  "next": "Next",
+  "tr": "Önceki"
+ },
+ {
+  "en": "Previous",
+  "prev": "ARSENAL",
+  "next": "Next",
+  "tr": "Önceki"
+ },
+ {
+  "en": "Previous",
+  "prev": "Randomise",
+  "next": "in vec2 vrTex;\r\nout vec4 FragColor;\r\nuniform vec3 Colour1;\r\nuniform vec3 Colour2;\r\nuniform vec3 Colour3;\r\nuniform vec3 Colour4;\r\nuniform vec2 Mirror;\r\nuniform float Alpha;\r\nuniform sampler2D Tex0;\r\nuniform sampler2D Tex1;\r\nuniform sampler2D Tex2;\r\nuniform sampler2D Tex3;\r\nvoid main() {\r\nfloat a, b, c;\r\nvec3 f;\r\nvec2 t;\r\nt = vrTex;\r\nt.x = (t.x - 0.5) * Mirror.x + 0.5;\r\na = texture(Tex0, t).r;\r\nvec3 v = mix(Colour1, Colour2, a);\r\nt = vrTex * 2.0 - 0.5;\r\nt.x = (t.x - 0.5) * Mirror.y + 0.5;\r\nvec4 dt = texture(Tex1, t);\r\nc = texture(Tex2, vrTex).r;\r\nv = v * (c+2.5) * 0.333;\r\nv = mix(v, Colour3 * (c+0.5), max(dt.a * 3.0 - 2.0, 0.0));\r\na = dt.a * (1.0 - dt.r);\r\na = a*a*a*(a*(6.0*a-15.0)+10.0);\r\nv = mix(v, Colour4 * (c+0.5), a);\r\nt = abs(0.5 - vrTex.xy) * 2.0;\r\nfloat g = min(dot(t,t), 1.0);\r\na = min((1.0 - g) * 25.0, 1.0);\r\nb = clamp((0.955 - g) * 25.0, 0.0, 1.0);\r\nfloat d = c * 0.75 + 0.25;\r\nb = min((max(a,0.0)-b) * d * 2.5, 1.0);\r\nvec3 col4 = vec3(0.5, 0.48, 0.44) * 2.0;\r\nv = mix(v, col4, b);\r\nf = v * 0.8 + 0.1;\r\nvec3 bt = texture(Tex3, vrTex).rgb;\r\nbt = bt * 0.6 + 0.2;\r\nif (f.r > 0.5) {\r\n  v.r = 1.0 - (1.0-bt.r) * (1.0-f.r) * 2.0;\r\n} else {v.r = 2.0 * f.r * bt.r;}\r\nif (f.g > 0.5) {\r\n  v.g = 1.0 - (1.0-bt.g) * (1.0-f.g) * 2.0;\r\n} else {\r\n  v.g = 2.0 * f.g * bt.g;\r\n}\r\nif (f.b > 0.5) {\r\n  v.b = 1.0 - (1.0-bt.b) * (1.0-f.b) * 2.0;\r\n} else {\r\n  v.b = 2.0 * f.b * bt.b;\r\n}\r\nb = min(b + max((0.95-g) * 10, 0.0), 1.0);\r\nb = b * 0.5 + 0.5;\r\nv = v * b;\r\nv = v * a;\r\nb = (1.0 - sqrt(g)) * 0.6 + 0.4;\r\nv = v * b;\r\nFragColor.rgb = v;\r\nFragColor.a = min(a * c * 5.0, 1.0) * Alpha;\r\n}",
+  "tr": "Önceki"
+ },
+ {
+  "en": "Previous Power",
+  "prev": "Power Bar",
+  "next": "Next Power",
+  "tr": "Önceki güç"
+ },
+ {
+  "en": "Price",
+  "prev": "Rank",
+  "next": "Sockets",
+  "tr": "Fiyat"
+ },
+ {
+  "en": "Primary",
+  "prev": "Encumbrance:",
+  "next": "Secondary",
+  "tr": "Ana"
+ },
+ {
+  "en": "Prize",
+  "prev": "Entered 1/1",
+  "next": "End Day",
+  "tr": "Ödül"
+ },
+ {
+  "en": "Prize",
+  "prev": "Entry",
+  "next": "Event",
+  "tr": "Ödül"
+ },
+ {
+  "en": "Prize for this season",
+  "prev": "Forfeit",
+  "next": "Weapon Restriction",
+  "tr": "Bu sezonun ödülü"
+ },
+ {
+  "en": "Prize:",
+  "prev": "Entry:",
+  "next": "Available",
+  "tr": "Ödül:"
+ },
+ {
+  "en": "Produce an opposite or contrary effect.",
+  "prev": "Inversion",
+  "next": "Expansion",
+  "tr": "Zıt veya ters bir etki üretin."
+ },
+ {
+  "en": "Produce an opposite or contrary effect.",
+  "prev": "Inversion",
+  "next": "Expansion",
+  "tr": "Zıt veya ters bir etki üretin."
+ },
+ {
+  "en": "Profession: Combatant",
+  "prev": "Upkeep:",
+  "next": "Combatants can fight in your stead, or by your side in team matches.",
+  "tr": "Meslek: Dövüşçü"
+ },
+ {
+  "en": "Profession: Combatant",
+  "prev": "Profession: Physician",
+  "next": " (",
+  "tr": "Meslek: Dövüşçü"
+ },
+ {
+  "en": "Profession: Merchant",
+  "prev": "Profession: Trainer",
+  "next": "Profession: Physician",
+  "tr": "Meslek: Tüccar"
+ },
+ {
+  "en": "Profession: Physician",
+  "prev": "Profession: Merchant",
+  "next": "Profession: Combatant",
+  "tr": "Meslek: Hekim"
+ },
+ {
+  "en": "Profession: Trainer",
+  "prev": "?",
+  "next": "Profession: Merchant",
+  "tr": "Meslek: Eğitmen"
+ },
+ {
+  "en": "Purchased Items",
+  "prev": "\r[tcol=FF0000C0]You are about to enter your manager into a match. If your manager is killed you will lose all progress![/tcol]\r\rConsider recruiting fighters to avoid unnecessary risks.",
+  "next": "\rThe items you have purchased can be found in your Arsenal, accessible through the Roster.",
+  "tr": "Alınan eşyalar"
+ },
+ {
+  "en": "Quarterstaff",
+  "prev": "Large Mallet",
+  "next": "Mace",
+  "tr": "Uzun Sopa"
+ },
+ {
+  "en": "Queedell's Knot",
+  "prev": "Rallop Company",
+  "next": "Clivard's Lot",
+  "tr": "Queedell Bağı"
+ },
+ {
+  "en": "RECRUIT",
+  "prev": "Character Name",
+  "next": "BEGIN",
+  "tr": "KİRALA"
+ },
+ {
+  "en": "RESTART",
+  "prev": "Msc_ArenaBossN",
+  "next": "EXIT;",
+  "tr": "YENİDEN"
+ },
+ {
+  "en": "Rallop Company",
+  "prev": "Forriel Company",
+  "next": "Queedell's Knot",
+  "tr": "Rallop Bölüğü"
+ },
+ {
+  "en": "Randomise",
+  "prev": "Colour 2",
+  "next": "Previous",
+  "tr": "Rastgele"
+ },
+ {
+  "en": "Ranged Combat",
+  "prev": "Close Combat",
+  "next": "Armour",
+  "tr": "Menzilli Dövüş"
+ },
+ {
+  "en": "Ranged Combat",
+  "prev": "Close Combat",
+  "next": "Armour",
+  "tr": "Menzilli Dövüş"
+ },
+ {
+  "en": "Rank",
+  "prev": "Flip weapon",
+  "next": "Price",
+  "tr": "Rütbe"
+ },
+ {
+  "en": "Rank",
+  "prev": "Dismiss",
+  "next": "Inept",
+  "tr": "Rütbe"
+ },
+ {
+  "en": "Rank",
+  "prev": "Match",
+  "next": "Tier",
+  "tr": "Rütbe"
+ },
+ {
+  "en": "Rank:",
+  "prev": "Look for:",
+  "next": "Pay:",
+  "tr": "Rütbe:"
+ },
+ {
+  "en": "Rapidly counter with an attack after a block.",
+  "prev": "Counter",
+  "next": "Synchrony",
+  "tr": "Bir bloktan sonra hızla karşı saldırıya geçin."
+ },
+ {
+  "en": "Rapidly counter with an attack after a block.",
+  "prev": "Counter",
+  "next": "Synchrony",
+  "tr": "Bir bloktan sonra hızla karşı saldırıya geçin."
+ },
+ {
+  "en": "Rawhide",
+  "prev": "Suede",
+  "next": "Mail",
+  "tr": "Hamderi"
+ },
+ {
+  "en": "Receive:",
+  "prev": "Pay:",
+  "next": "Trade",
+  "tr": "Alınan:"
+ },
+ {
+  "en": "Records",
+  "prev": "Close",
+  "next": "Status",
+  "tr": "Kayıt"
+ },
+ {
+  "en": "Recruit",
+  "prev": "Arsenal",
+  "next": "Hire",
+  "tr": "Kirala"
+ },
+ {
+  "en": "Recruitment",
+  "prev": "Insufficient funds",
+  "next": "Points: ",
+  "tr": "Kadro alımı"
+ },
+ {
+  "en": "Recruitment:",
+  "prev": "NEXT",
+  "next": "Do you wish to reset all progress after the portal?",
+  "tr": "Kadro:"
+ },
+ {
+  "en": "Reinforced",
+  "prev": "Heavy",
+  "next": "Superior",
+  "tr": "Takviyeli"
+ },
+ {
+  "en": "Remise",
+  "prev": "Meditation",
+  "next": "Immediately follow a swing with another in the opposite direction.",
+  "tr": "Salınım"
+ },
+ {
+  "en": "Remise",
+  "prev": "Concentration",
+  "next": "Immediately follow a swing with another in the opposite direction.",
+  "tr": "Salınım"
+ },
+ {
+  "en": "Renown",
+  "prev": "The Jolly Ranchers",
+  "next": "Unknown",
+  "tr": "Ün"
+ },
+ {
+  "en": "Report",
+  "prev": " : ",
+  "next": "Character position overflow.",
+  "tr": "Rapor"
+ },
+ {
+  "en": "Report",
+  "prev": "Roster",
+  "next": "Manage",
+  "tr": "Rapor"
+ },
+ {
+  "en": "Reputation",
+  "prev": "Unknown",
+  "next": "Unknown",
+  "tr": "İtibar"
+ },
+ {
+  "en": "Requirements not met.",
+  "prev": "Forget all knowledge of this technique?",
+  "next": "Unavailable.",
+  "tr": "Koşullar sağlanmadı."
+ },
+ {
+  "en": "Reset",
+  "prev": "New colour",
+  "next": "Close",
+  "tr": "Sıfırla"
+ },
+ {
+  "en": "Reset to portal",
+  "prev": "NEXT",
+  "next": "Continue from save",
+  "tr": "Portala dön"
+ },
+ {
+  "en": "Resin",
+  "prev": "Gemstone",
+  "next": "Planks Paint",
+  "tr": "Reçine"
+ },
+ {
+  "en": "Resolve",
+  "prev": "You are able to regain mental focus more quickly.",
+  "next": "You are less easily distracted or interrupted while shaping a binding.",
+  "tr": "Azim"
+ },
+ {
+  "en": "Resolve",
+  "prev": "You are able to regain mental focus more quickly.",
+  "next": "You are less easily distracted or interrupted while shaping a binding.",
+  "tr": "Azim"
+ },
+ {
+  "en": "Restock",
+  "prev": "Item Error",
+  "next": "Transaction",
+  "tr": "Yenile"
+ },
+ {
+  "en": "Revelation",
+  "prev": "Become more efficient when repeating the same binding",
+  "next": "Learn from observation and external sources of knowledge.",
+  "tr": "Keşif"
+ },
+ {
+  "en": "Revelation",
+  "prev": "Become more efficient when repeating the same binding",
+  "next": "Learn from observation and external sources of knowledge.",
+  "tr": "Keşif"
+ },
+ {
+  "en": "Reward Error",
+  "prev": "Item duplicated in shop.",
+  "next": "Item duplicated in merchant stock.",
+  "tr": "Ödül hatası"
+ },
+ {
+  "en": "Rickwich Fellers",
+  "prev": "Solden Corpora",
+  "next": "[algn=2]Single combat between two fighters with no restrictions of rank.",
+  "tr": "Rickwich Adamları"
+ },
+ {
+  "en": "Right",
+  "prev": "A",
+  "next": "D",
+  "tr": "Sağ"
+ },
+ {
+  "en": "Riposte",
+  "prev": "Abandon your attack to quickly parry.",
+  "next": "After a parry, rapidly follow with an attack.",
+  "tr": "Karşıla"
+ },
+ {
+  "en": "Riposte",
+  "prev": "Abandon your attack to quickly parry.",
+  "next": "After a parry, rapidly follow with an attack.",
+  "tr": "Karşıla"
+ },
+ {
+  "en": "Roster",
+  "prev": "CLOSE",
+  "next": "Report",
+  "tr": "Kadro"
+ },
+ {
+  "en": "Run/Sprint",
+  "prev": "D",
+  "next": "Shift",
+  "tr": "Koş/Sürat"
+ },
+ {
+  "en": "Rusted",
+  "prev": "      ",
+  "next": "Damaged",
+  "tr": "Paslı"
+ },
+ {
+  "en": "Rusted",
+  "prev": "      ",
+  "next": "Damaged",
+  "tr": "Paslı"
+ },
+ {
+  "en": "SETTINGS",
+  "prev": "Enable Rumble",
+  "next": "CONTROLS",
+  "tr": "AYARLAR"
+ },
+ {
+  "en": "SETTINGS",
+  "prev": "MANUAL",
+  "next": "EXIT",
+  "tr": "AYARLAR"
+ },
+ {
+  "en": "SKILLS",
+  "prev": "WEAPONS",
+  "next": "Current skill progress",
+  "tr": "YETENEK"
+ },
+ {
+  "en": "SKIN TONE",
+  "prev": "Age  ",
+  "next": "VOICE",
+  "tr": "TEN RENGİ"
+ },
+ {
+  "en": "Save Incompatibility",
+  "prev": "Save game format no longer supported.",
+  "next": "CheckpointSave",
+  "tr": "Kayıt uyumsuzluğu"
+ },
+ {
+  "en": "Save game format no longer supported.",
+  "prev": "New Entry",
+  "next": "Save Incompatibility",
+  "tr": "Kayıt biçimi artık desteklenmiyor."
+ },
+ {
+  "en": "Save manager not found.",
+  "prev": "Error reviving player.",
+  "next": "Character Screen",
+  "tr": "Kayıt yöneticisi yok."
+ },
+ {
+  "en": "Save manager not found.",
+  "prev": "-",
+  "next": "Character Screen",
+  "tr": "Kayıt yöneticisi yok."
+ },
+ {
+  "en": "Script Error",
+  "prev": "Function \"Actor.ChangeRole\" does not exist.",
+  "next": "a ",
+  "tr": "Betik hatası"
+ },
+ {
+  "en": "Season",
+  "prev": "Tournament",
+  "next": "Entry:",
+  "tr": "Sezon"
+ },
+ {
+  "en": "Seasons won",
+  "prev": "1",
+  "next": "0",
+  "tr": "Kazanılan sezon"
+ },
+ {
+  "en": "Secondary",
+  "prev": "Primary",
+  "next": "New",
+  "tr": "İkincil"
+ },
+ {
+  "en": "Security",
+  "prev": "Actively protect gaps and weak areas in your armour.",
+  "next": "Confidence in your armour allows you to continue attacks while receiving blows.",
+  "tr": "Güven"
+ },
+ {
+  "en": "Security",
+  "prev": "Actively protect gaps and weak areas in your armour.",
+  "next": "Confidence in your armour allows you to continue attacks while receiving blows.",
+  "tr": "Güven"
+ },
+ {
+  "en": "Shader Error",
+  "prev": "Error compiling ",
+  "next": "in vec3 vPos;\r\nin vec2 vTex;\r\nin vec4 vCol;\r\nout vec2 vrTex;\r\nout vec4 vrCol;\r\nuniform mat4 ObjMat;\r\nvoid main() {\r\ngl_Position = ObjMat * vec4(vPos,1.0);\r\nvrTex = vTex;\r\nvrCol = vCol * 0.003921568;\r\n}",
+  "tr": "Shader hatası"
+ },
+ {
+  "en": "Shader compile",
+  "prev": "No shader generated by factory.",
+  "next": "WH_SwordA",
+  "tr": "Shader derleme"
+ },
+ {
+  "en": "Shading quality",
+  "prev": "Cannot set RAW interface from IUnknown interface",
+  "next": "Shadow detail",
+  "tr": "Gölgelendirme"
+ },
+ {
+  "en": "Shading quality: ",
+  "prev": "Video Memory: ",
+  "next": "Medium",
+  "tr": "Gölgelendirme: "
+ },
+ {
+  "en": "Shading quality: ",
+  "prev": "Super sampling: ",
+  "next": "Texture detail: ",
+  "tr": "Gölgelendirme: "
+ },
+ {
+  "en": "Shadow Quality",
+  "prev": "Shadow detail",
+  "next": "Texture detail",
+  "tr": "Gölge kalitesi"
+ },
+ {
+  "en": "Shadow detail",
+  "prev": "Shading quality",
+  "next": "Shadow Quality",
+  "tr": "Gölge detayı"
+ },
+ {
+  "en": "Shadow detail: ",
+  "prev": "Medium",
+  "next": "Medium",
+  "tr": "Gölge detayı: "
+ },
+ {
+  "en": "Shadow detail: ",
+  "prev": "Texture quality: ",
+  "next": "Shadow quality: ",
+  "tr": "Gölge detayı: "
+ },
+ {
+  "en": "Shadow quality: ",
+  "prev": "Medium",
+  "next": "Medium",
+  "tr": "Gölge kalitesi: "
+ },
+ {
+  "en": "Shadow quality: ",
+  "prev": "Shadow detail: ",
+  "next": "HW antialiasing: ",
+  "tr": "Gölge kalitesi: "
+ },
+ {
+  "en": "Shields",
+  "prev": "Armour",
+  "next": "Insight",
+  "tr": "Kalkan"
+ },
+ {
+  "en": "Shields",
+  "prev": "Armour",
+  "next": "Insight",
+  "tr": "Kalkan"
+ },
+ {
+  "en": "Short Spear",
+  "prev": "Bar Mace",
+  "next": "Maul",
+  "tr": "Kısa Mızrak"
+ },
+ {
+  "en": "Shortsword",
+  "prev": "Pitchfork",
+  "next": "Axe",
+  "tr": "Kısa Kılıç"
+ },
+ {
+  "en": "Show framerate",
+  "prev": "Vertical sync ",
+  "next": "Window mode",
+  "tr": "FPS göster"
+ },
+ {
+  "en": "Show gameplay tips",
+  "prev": "Window mode",
+  "next": "Early Checkpoints",
+  "tr": "Oyun ipuçları"
+ },
+ {
+  "en": "Sickle (long)",
+  "prev": "Billhook (long)",
+  "next": "Pitchfork",
+  "tr": "Orak (Uzun)"
+ },
+ {
+  "en": "Sickle (short)",
+  "prev": "Billhook (short)",
+  "next": "Sledgehammer",
+  "tr": "Orak (Kısa)"
+ },
+ {
+  "en": "Silk",
+  "prev": "Cloth Fine",
+  "next": "Velvet",
+  "tr": "İpek"
+ },
+ {
+  "en": "Skills",
+  "prev": "I",
+  "next": "K",
+  "tr": "Yetenek"
+ },
+ {
+  "en": "Skin Tone",
+  "prev": "Age   ",
+  "next": "Look in:",
+  "tr": "Ten rengi"
+ },
+ {
+  "en": "Slash",
+  "prev": "Failed to dereference items.",
+  "next": "Crush",
+  "tr": "Kesme"
+ },
+ {
+  "en": "Slash damage is effective on weak and slicing blows but easily mitigated by armour.",
+  "prev": "Overhead attacks can deliver devastating head blows and hit prone opponents.",
+  "next": "Piercing damage is better at finding potential gaps and weak spots in armour.",
+  "tr": "Kesme hasarı zayıf ve dilimleyici darbelerde etkilidir ama zırh onu kolayca azaltır."
+ },
+ {
+  "en": "Sledgehammer",
+  "prev": "Sickle (short)",
+  "next": "Iron-Shod Quarterstaff",
+  "tr": "Balyoz"
+ },
+ {
+  "en": "Sockets",
+  "prev": "Price",
+  "next": "Inept",
+  "tr": "Yuva"
+ },
+ {
+  "en": "Solden Corpora",
+  "prev": "Greenque Pact",
+  "next": "Rickwich Fellers",
+  "tr": "Solden Birliği"
+ },
+ {
+  "en": "Some [i] here, if you want them.",
+  "prev": "Got some [i] here.",
+  "next": "These [i] could be useful.",
+  "tr": "İstersen burada biraz [i] var."
+ },
+ {
+  "en": "Spear",
+  "prev": "Two Handed War Hammer",
+  "next": "Sword",
+  "tr": "Mızrak"
+ },
+ {
+  "en": "Specials",
+  "prev": "Standard",
+  "next": "Tournament",
+  "tr": "Özel"
+ },
+ {
+  "en": "Spent today",
+  "prev": "Earned today",
+  "next": "End Day",
+  "tr": "Bugün gider"
+ },
+ {
+  "en": "Spetum",
+  "prev": "Guisarme",
+  "next": "Glaive",
+  "tr": "Spetum"
+ },
+ {
+  "en": "Spiked Club",
+  "prev": "Mace",
+  "next": "Dagger",
+  "tr": "Dikenli Sopa"
+ },
+ {
+  "en": "Spiked Mace",
+  "prev": "Falchion",
+  "next": "Flanged Mace",
+  "tr": "Dikenli Gürz"
+ },
+ {
+  "en": "Standard",
+  "prev": "Trainers increase the rate at which your fighters learn skills. They can also teach the techniques they know to your fighters when they are idle.",
+  "next": "Specials",
+  "tr": "Standart"
+ },
+ {
+  "en": "Status",
+  "prev": "Records",
+  "next": "-",
+  "tr": "Durum"
+ },
+ {
+  "en": "Steel",
+  "prev": "Mail",
+  "next": "Steel Plate",
+  "tr": "Çelik"
+ },
+ {
+  "en": "Steel Plate",
+  "prev": "Steel",
+  "next": "Painted",
+  "tr": "Çelik Plaka"
+ },
+ {
+  "en": "Stock Update",
+  "prev": "Duplicate Item found",
+  "next": "Invalid trade item request.",
+  "tr": "Stok güncelleme"
+ },
+ {
+  "en": "Straight",
+  "prev": "CONTINUE",
+  "next": "Wavy",
+  "tr": "Düz"
+ },
+ {
+  "en": "Suede",
+  "prev": "Leather 2",
+  "next": "Rawhide",
+  "tr": "Süet"
+ },
+ {
+  "en": "Super sampling: ",
+  "prev": "Music",
+  "next": "Shading quality: ",
+  "tr": "Süper örnekleme: "
+ },
+ {
+  "en": "Superior",
+  "prev": "Heavy",
+  "next": "Exceptional",
+  "tr": "Üstün"
+ },
+ {
+  "en": "Superior",
+  "prev": "Thick",
+  "next": "      ",
+  "tr": "Üstün"
+ },
+ {
+  "en": "Superior",
+  "prev": "Reinforced",
+  "next": "Exceptional",
+  "tr": "Üstün"
+ },
+ {
+  "en": "Superior",
+  "prev": "Heavy",
+  "next": "Exceptional",
+  "tr": "Üstün"
+ },
+ {
+  "en": "Superior",
+  "prev": "Heavy",
+  "next": "Exceptional",
+  "tr": "Üstün"
+ },
+ {
+  "en": "Sustain",
+  "prev": "Combine effects from different domains.",
+  "next": "Sustained bindings require much less of your focus.",
+  "tr": "Sürdür"
+ },
+ {
+  "en": "Sustain",
+  "prev": "Combine effects from different domains.",
+  "next": "Sustained bindings require much less of your focus.",
+  "tr": "Sürdür"
+ },
+ {
+  "en": "Sustained bindings require much less of your focus.",
+  "prev": "Sustain",
+  "next": "Continuity",
+  "tr": "Sürdürülen bağlar çok daha az odak gerektirir."
+ },
+ {
+  "en": "Sustained bindings require much less of your focus.",
+  "prev": "Sustain",
+  "next": "Continuity",
+  "tr": "Sürdürülen bağlar çok daha az odak gerektirir."
+ },
+ {
+  "en": "Switch Equipped",
+  "prev": "Alt",
+  "next": "R",
+  "tr": "Silah değiştir"
+ },
+ {
+  "en": "Sword",
+  "prev": "Spear",
+  "next": "Falchion",
+  "tr": "Kılıç"
+ },
+ {
+  "en": "Synchrony",
+  "prev": "Rapidly counter with an attack after a block.",
+  "next": "Continue to block even as you initiate an attack.",
+  "tr": "Eşzamanlılık"
+ },
+ {
+  "en": "Synchrony",
+  "prev": "Rapidly counter with an attack after a block.",
+  "next": "Continue to block even as you initiate an attack.",
+  "tr": "Eşzamanlılık"
+ },
+ {
+  "en": "TO BE CONTINUED",
+  "prev": "Error invoking menus.",
+  "next": "MenuSel",
+  "tr": "DEVAMI GELECEK…"
+ },
+ {
+  "en": "Talk",
+  "prev": "J",
+  "next": "T",
+  "tr": "Konuş"
+ },
+ {
+  "en": "Terrain",
+  "prev": "Error on object database master transfer.",
+  "next": "Failed to load tileset: ",
+  "tr": "Arazi"
+ },
+ {
+  "en": "Texture Quality",
+  "prev": "Texture detail",
+  "next": "Exposure",
+  "tr": "Doku kalitesi"
+ },
+ {
+  "en": "Texture detail",
+  "prev": "Shadow Quality",
+  "next": "Texture Quality",
+  "tr": "Doku detayı"
+ },
+ {
+  "en": "Texture detail: ",
+  "prev": "Medium",
+  "next": "Medium",
+  "tr": "Doku detayı: "
+ },
+ {
+  "en": "Texture detail: ",
+  "prev": "Shading quality: ",
+  "next": "Texture quality: ",
+  "tr": "Doku detayı: "
+ },
+ {
+  "en": "Texture quality: ",
+  "prev": "Medium",
+  "next": "Medium",
+  "tr": "Doku kalitesi: "
+ },
+ {
+  "en": "Texture quality: ",
+  "prev": "Texture detail: ",
+  "next": "Shadow detail: ",
+  "tr": "Doku kalitesi: "
+ },
+ {
+  "en": "The Jolly Ranchers",
+  "prev": "CLOSE",
+  "next": "Renown",
+  "tr": "Neşeli Çiftçiler"
+ },
+ {
+  "en": "The tournament begins in ",
+  "prev": "The tournament begins tomorrow.",
+  "next": " has trained a new technique.",
+  "tr": "Turnuvaya kalan: "
+ },
+ {
+  "en": "The tournament begins tomorrow.",
+  "prev": "The tournament takes place today.",
+  "next": "The tournament begins in ",
+  "tr": "Turnuva yarın başlıyor."
+ },
+ {
+  "en": "The tournament has ended.",
+  "prev": "Continue",
+  "next": "No more events entered.",
+  "tr": "Turnuva sona erdi."
+ },
+ {
+  "en": "The tournament takes place today.",
+  "prev": " physicians are available for hire.",
+  "next": "The tournament begins tomorrow.",
+  "tr": "Turnuva bugün yapılıyor."
+ },
+ {
+  "en": "There's [a] here.",
+  "prev": "I found [a].",
+  "next": "Found [a] here.",
+  "tr": "Burada [a] var."
+ },
+ {
+  "en": "There's [a] too.",
+  "prev": "Also found [a].",
+  "next": "And some [i].",
+  "tr": "Bir de [a] var."
+ },
+ {
+  "en": "There's some [i] here.",
+  "prev": "I found some [i].",
+  "next": "Found some [i] here.",
+  "tr": "Burada [i] var."
+ },
+ {
+  "en": "There's some [i] too.",
+  "prev": "Also found some [i].",
+  "next": "Error processing looting activity.",
+  "tr": "Bir de biraz [i] var."
+ },
+ {
+  "en": "These [i] could be useful.",
+  "prev": "Some [i] here, if you want them.",
+  "next": "And [a].",
+  "tr": "Bu [i] işe yarayabilir."
+ },
+ {
+  "en": "They are ",
+  "prev": "It is",
+  "next": "It is ",
+  "tr": "Bunlar "
+ },
+ {
+  "en": "Thick",
+  "prev": "Heavy",
+  "next": "      ",
+  "tr": "Kalın"
+ },
+ {
+  "en": "Thick",
+  "prev": "Light",
+  "next": "Heavy",
+  "tr": "Kalın"
+ },
+ {
+  "en": "Thick",
+  "prev": "Tough",
+  "next": "      ",
+  "tr": "Kalın"
+ },
+ {
+  "en": "Thick",
+  "prev": "Tough",
+  "next": "Superior",
+  "tr": "Kalın"
+ },
+ {
+  "en": "This [i] could be useful.",
+  "prev": "[a] here, if you want it.",
+  "next": "I found some [i].",
+  "tr": "Bu [i] işe yarayabilir."
+ },
+ {
+  "en": "This message will only appear once.",
+  "prev": "IMPORTANT PLEASE READ",
+  "next": "Continue",
+  "tr": "Bu mesaj yalnızca bir kez görünecek."
+ },
+ {
+  "en": "This system does not meet the minimum requirements to run Exanima. Updating the graphics driver may solve the problem.",
+  "prev": "C:\\FLUX.log",
+  "next": "Error: Framebuffer viewport stack underflow.",
+  "tr": "Bu sistem Exanima'nın en düşük gereksinimlerini karşılamıyor. Ekran kartı sürücüsünü güncellemek sorunu çözebilir."
+ },
+ {
+  "en": "Thrust",
+  "prev": "Pierce",
+  "next": "Points",
+  "tr": "Saplama"
+ },
+ {
+  "en": "Tier",
+  "prev": "Rank",
+  "next": "Entry",
+  "tr": "Kademe"
+ },
+ {
+  "en": "To attack from your left, move the cursor to your character's left before pressing LMB.",
+  "prev": "NPCs play by the same exact rules, make human errors and have slow reaction times.",
+  "next": "To deliver significant damage you must land clean hits with the correct part of your weapon.",
+  "tr": "Soldan saldırmak için sol tuşa basmadan önce imleci karakterin soluna götürün."
+ },
+ {
+  "en": "To deliver significant damage you must land clean hits with the correct part of your weapon.",
+  "prev": "To attack from your left, move the cursor to your character's left before pressing LMB.",
+  "next": "Use dashes to attack your opponents from unexpected angles and bypass their defences.",
+  "tr": "Ciddi hasar vermek için silahınızın doğru kısmıyla temiz vuruşlar yapmalısınız."
+ },
+ {
+  "en": "To successfully block or parry you must turn and position yourself to face the blow.",
+  "prev": "Let go of LMB at any time to perform a feint or abandon your attack to defend instead.",
+  "next": "NPCs play by the same exact rules, make human errors and have slow reaction times.",
+  "tr": "Bloklamak veya savuşturmak için dönüp darbeye karşı konumlanmalısınız."
+ },
+ {
+  "en": "Toggle Combat",
+  "prev": "SPACE",
+  "next": "TAB",
+  "tr": "Savaş modu"
+ },
+ {
+  "en": "Total Hires",
+  "prev": "1",
+  "next": "1",
+  "tr": "Toplam alım"
+ },
+ {
+  "en": "Total Staff",
+  "prev": "Good",
+  "next": "13",
+  "tr": "Toplam kadro"
+ },
+ {
+  "en": "Total earned",
+  "prev": "1",
+  "next": "1",
+  "tr": "Toplam kazanç"
+ },
+ {
+  "en": "Total spent",
+  "prev": "1",
+  "next": "1",
+  "tr": "Toplam gider"
+ },
+ {
+  "en": "Tough",
+  "prev": "Fine",
+  "next": "Thick",
+  "tr": "Sağlam"
+ },
+ {
+  "en": "Tough",
+  "prev": "Fine",
+  "next": "Thick",
+  "tr": "Sağlam"
+ },
+ {
+  "en": "Tournament",
+  "prev": "Specials",
+  "next": "Season",
+  "tr": "Turnuva"
+ },
+ {
+  "en": "Tournament begins in ",
+  "prev": "Tournament begins tomorrow.",
+  "next": " days.",
+  "tr": "Turnuvaya kalan: "
+ },
+ {
+  "en": "Tournament begins tomorrow.",
+  "prev": "Tournament is in progress.",
+  "next": "Tournament begins in ",
+  "tr": "Turnuva yarın başlıyor."
+ },
+ {
+  "en": "Tournament is in progress.",
+  "prev": "No more events entered.",
+  "next": "Tournament begins tomorrow.",
+  "tr": "Turnuva devam ediyor."
+ },
+ {
+  "en": "Tournament winners",
+  "prev": "Health",
+  "next": "Enter",
+  "tr": "Turnuva kazananları"
+ },
+ {
+  "en": "Tournaments",
+  "prev": "\rThe items you have purchased can be found in your Arsenal, accessible through the Roster.",
+  "next": "\rTournaments are held weekly. Fighting companies compete in each tournament for a prize. If a company wins all four tournaments in a season they are awarded an exclusive suit of armour.\r\rYou must enter fighters in advance of the tournament day; once the tournament is in progress you will not be able to enter or remove fighters. Only master rank fighters are eligible to participate in tournaments.\r\rTo win a tournament you must win at least three of the six events. It is advisable to enter different fighters in as many events as you can to improve your chances of winning.",
+  "tr": "Turnuvalar"
+ },
+ {
+  "en": "Tournaments lost",
+  "prev": "2",
+  "next": "1",
+  "tr": "Kaybedilen turnuva"
+ },
+ {
+  "en": "Tournaments won",
+  "prev": "4",
+  "next": "2",
+  "tr": "Turnuva zaferi"
+ },
+ {
+  "en": "Trade",
+  "prev": "Owned:",
+  "next": "Close",
+  "tr": "Takas"
+ },
+ {
+  "en": "Trade",
+  "prev": "Receive:",
+  "next": "Invalid apparel item, cannot be equipped.",
+  "tr": "Takas"
+ },
+ {
+  "en": "Trainers increase the rate at which your fighters learn skills. They can also teach the techniques they know to your fighters when they are idle.",
+  "prev": "Physicians improve the rate of healing of your fighters and can save fighters from death if the injuries sustained aren't too severe.",
+  "next": "Standard",
+  "tr": "Eğitmenler dövüşçülerinizin yetenek öğrenme hızını artırır. Boştayken bildikleri teknikleri dövüşçülerinize öğretebilirler."
+ },
+ {
+  "en": "Transaction",
+  "prev": "Restock",
+  "next": "Pay:",
+  "tr": "İşlem"
+ },
+ {
+  "en": "Two Handed Battle Axe",
+  "prev": "Grand Falchion",
+  "next": "Two Handed Spiked Mace",
+  "tr": "Çift El Savaş Baltası"
+ },
+ {
+  "en": "Two Handed Mace",
+  "prev": "Two Handed Spiked Mace",
+  "next": "Voulge",
+  "tr": "Çift El Gürz"
+ },
+ {
+  "en": "Two Handed Spiked Mace",
+  "prev": "Two Handed Battle Axe",
+  "next": "Two Handed Mace",
+  "tr": "Çift El Dikenli Gürz"
+ },
+ {
+  "en": "Two Handed Sword",
+  "prev": "Longsword",
+  "next": "Grand Falchion",
+  "tr": "Çift El Kılıç"
+ },
+ {
+  "en": "Two Handed War Hammer",
+  "prev": "Great Axe",
+  "next": "Spear",
+  "tr": "Çift El Savaş Çekici"
+ },
+ {
+  "en": "UNKNOWN",
+  "prev": "in vec2 vrTex;\r\nin vec4 vrCol;\r\nout vec4 FragColor;\r\nuniform vec4 GCol;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nvec4 tcol = texture(Tex, vrTex);\r\nvec3 c = mix(vec3(1.0, 0.75, 0.4), vec3(1.0), tcol.x);\r\ntcol.rgb = tcol.rgb * c * 1.1;\r\ntcol.rgb = tcol.rgb / (0.5 + tcol.rgb) * 1.5;\r\nFragColor.rgb = vrCol.rgb * tcol.rgb;FragColor.a = vrCol.a * tcol.a;}",
+  "next": "KNIGHT",
+  "tr": "MEÇHUL"
+ },
+ {
+  "en": "Unable to locate data files.",
+  "prev": ".rpk",
+  "next": "Critical Failure",
+  "tr": "Veri dosyaları bulunamadı."
+ },
+ {
+  "en": "Unavailable.",
+  "prev": "Requirements not met.",
+  "next": "Already chosen.",
+  "tr": "Kullanılamaz."
+ },
+ {
+  "en": "Union",
+  "prev": "Focus an effect to a more specific or narrow target.",
+  "next": "Combine elements of different effects to produce a new one.",
+  "tr": "Birlik"
+ },
+ {
+  "en": "Union",
+  "prev": "Focus an effect to a more specific or narrow target.",
+  "next": "Combine elements of different effects to produce a new one.",
+  "tr": "Birlik"
+ },
+ {
+  "en": "Unknown",
+  "prev": "Device: ",
+  "next": "Performance Index: ",
+  "tr": "Yok"
+ },
+ {
+  "en": "Unknown",
+  "prev": "Video Device: ",
+  "next": "Video Memory: ",
+  "tr": "Yok"
+ },
+ {
+  "en": "Unknown",
+  "prev": "Renown",
+  "next": "Reputation",
+  "tr": "Yok"
+ },
+ {
+  "en": "Unknown",
+  "prev": "Reputation",
+  "next": "Morale",
+  "tr": "Yok"
+ },
+ {
+  "en": "Upkeep",
+  "prev": "Owned",
+  "next": "Earned today",
+  "tr": "Gider"
+ },
+ {
+  "en": "Upkeep:",
+  "prev": "Hire Fee:",
+  "next": "Profession: Combatant",
+  "tr": "Gider:"
+ },
+ {
+  "en": "Use Power",
+  "prev": "T",
+  "next": "Power Bar",
+  "tr": "Güç kullan"
+ },
+ {
+  "en": "Use dashes to attack your opponents from unexpected angles and bypass their defences.",
+  "prev": "To deliver significant damage you must land clean hits with the correct part of your weapon.",
+  "next": "Watch your opponent closely and land your attacks when they are most vulnerable.",
+  "tr": "Atılışları kullanarak beklenmedik açılardan saldırın ve savunmalarını aşın."
+ },
+ {
+  "en": "Use stronger bracing parries to stop more powerful blows.",
+  "prev": "Brace",
+  "next": "Dual Wield",
+  "tr": "Daha güçlü darbeleri durdurmak için destekli savuşturma yapın."
+ },
+ {
+  "en": "Use stronger bracing parries to stop more powerful blows.",
+  "prev": "Aim your swings at precise locations.",
+  "next": "Dual Wield",
+  "tr": "Daha güçlü darbeleri durdurmak için destekli savuşturma yapın."
+ },
+ {
+  "en": "Use two weapons to attack and defend simultaneously.",
+  "prev": "Dual Wield",
+  "next": "Manoeuvring in Armour I",
+  "tr": "İki silahla aynı anda saldırın ve savunun."
+ },
+ {
+  "en": "Use two weapons to attack and defend simultaneously.",
+  "prev": "Dual Wield",
+  "next": "Manoeuvring in Armour I",
+  "tr": "İki silahla aynı anda saldırın ve savunun."
+ },
+ {
+  "en": "VILLAGER",
+  "prev": "PROCTOR",
+  "next": "You don't know who you are, but there may be great potential in you",
+  "tr": "KÖYLÜ"
+ },
+ {
+  "en": "VOICE",
+  "prev": "SKIN TONE",
+  "next": "A",
+  "tr": "SES"
+ },
+ {
+  "en": "Vanrel's Band",
+  "prev": "Fitten Gang",
+  "next": "Mowbrots Bunch",
+  "tr": "Vanrel Takımı"
+ },
+ {
+  "en": "Velvet",
+  "prev": "Silk",
+  "next": "Padded 1",
+  "tr": "Kadife"
+ },
+ {
+  "en": "Vertical sync ",
+  "prev": "Full screen ",
+  "next": "Detect",
+  "tr": "Dikey eşitle "
+ },
+ {
+  "en": "Vertical sync ",
+  "prev": "HW antialiasing: ",
+  "next": "Show framerate",
+  "tr": "Dikey eşitle "
+ },
+ {
+  "en": "Video Device: ",
+  "prev": "Cancel",
+  "next": "Unknown",
+  "tr": "Ekran kartı: "
+ },
+ {
+  "en": "Video Memory: ",
+  "prev": "Performance Index: ",
+  "next": "Shading quality: ",
+  "tr": "Video bellek: "
+ },
+ {
+  "en": "Video Memory: ",
+  "prev": "Unknown",
+  "next": "Audio volume: ",
+  "tr": "Video bellek: "
+ },
+ {
+  "en": "Volition",
+  "prev": "You are less easily distracted or interrupted while shaping a binding.",
+  "next": "You are more resistant to mental intrusions and effects.",
+  "tr": "İrade"
+ },
+ {
+  "en": "Volition",
+  "prev": "You are less easily distracted or interrupted while shaping a binding.",
+  "next": "You are more resistant to mental intrusions and effects.",
+  "tr": "İrade"
+ },
+ {
+  "en": "Voulge",
+  "prev": "Two Handed Mace",
+  "next": "Guisarme",
+  "tr": "Voluj"
+ },
+ {
+  "en": "WARNING",
+  "prev": "\rFighters gain a [tcol=FFE399]rank[/tcol] every two skill techniques learnt.\r\rEach rank has a corresponding loadout. Which loadout is used depends on the tier of the match. Use the slider to select a ranked loadout.\r\r[tcol=FFE399]Point[/tcol] limits are also applied to each rank. Every item carries a point cost.",
+  "next": "\r[tcol=FF0000C0]You are about to enter your manager into a match. If your manager is killed you will lose all progress![/tcol]\r\rConsider recruiting fighters to avoid unnecessary risks.",
+  "tr": "UYARI"
+ },
+ {
+  "en": "WEAPONS",
+  "prev": "APPAREL",
+  "next": "SKILLS",
+  "tr": "SİLAH"
+ },
+ {
+  "en": "War Hammer",
+  "prev": "Axe",
+  "next": "Bar Mace",
+  "tr": "Savaş Çekici"
+ },
+ {
+  "en": "Ward",
+  "prev": "Continue to block even as you initiate an attack.",
+  "next": "Perform attacks from behind the cover of your shield.",
+  "tr": "Siper"
+ },
+ {
+  "en": "Ward",
+  "prev": "Continue to block even as you initiate an attack.",
+  "next": "Perform attacks from behind the cover of your shield.",
+  "tr": "Siper"
+ },
+ {
+  "en": "Watch your opponent closely and land your attacks when they are most vulnerable.",
+  "prev": "Use dashes to attack your opponents from unexpected angles and bypass their defences.",
+  "next": "Overhead attacks can deliver devastating head blows and hit prone opponents.",
+  "tr": "Rakibinizi yakından izleyin ve en savunmasız anında saldırın."
+ },
+ {
+  "en": "Wavy",
+  "prev": "Straight",
+  "next": "Facial hair",
+  "tr": "Dalgalı"
+ },
+ {
+  "en": "Weapon Restriction",
+  "prev": "Prize for this season",
+  "next": "Choose",
+  "tr": "Silah kısıtı"
+ },
+ {
+  "en": "Weapons",
+  "prev": "Clothing & Armour",
+  "next": "Any",
+  "tr": "Silah"
+ },
+ {
+  "en": "Weapons with a higher balance are quicker and more responsive.",
+  "prev": "Crushing damage is reliant on strong blows but typically most effective against armour.",
+  "next": "Impact mainly deals stamina damage but also affects all other damage types.",
+  "tr": "Dengesi yüksek silahlar daha hızlı ve tepkiseldir."
+ },
+ {
+  "en": "Week ",
+  "prev": "Company Status",
+  "next": " Day ",
+  "tr": "Hafta "
+ },
+ {
+  "en": "Weight",
+  "prev": "in vec2 vrTex;\r\nin vec4 vrCol;\r\nout vec4 FragColor;\r\nuniform vec4 HltCol;\r\nuniform sampler2D Tex;\r\nvoid main() {\r\nfloat a = textureOffset(Tex, vrTex, ivec2(-2, 0)).a * 0.5;\r\nfloat b = textureOffset(Tex, vrTex, ivec2(2, 0)).a * 0.5;\r\na = a * (1.0-b) + b;\r\nb = textureOffset(Tex, vrTex, ivec2(0, -2)).a * 0.5;\r\na = a * (1.0-b) + b;\r\nb = textureOffset(Tex, vrTex, ivec2(0, 2)).a * 0.5;\r\na = a * (1.0-b) + b;\r\na = a * vrCol.g;\r\nvec3 col = mix(HltCol.rgb, vec3(1.0), vrCol.r) * a;\r\nvec4 tcol = texture(Tex, vrTex);\r\ntcol.rgb = col.rgb * (1.0 - tcol.a) + tcol.rgb;\r\ntcol.a = min(a + tcol.a, 1.0);\r\nFragColor = tcol * vrCol.a;\r\n}",
+  "next": "Impact",
+  "tr": "Ağırlık"
+ },
+ {
+  "en": "Weight",
+  "prev": "-",
+  "next": "Impact",
+  "tr": "Ağırlık"
+ },
+ {
+  "en": "Westryn Company",
+  "prev": "Clivard's Lot",
+  "next": "Hisselmore Guard",
+  "tr": "Westryn Bölüğü"
+ },
+ {
+  "en": "Wield cumbersome shields with greater ease and speed.",
+  "prev": "Mobility",
+  "next": "Inversion",
+  "tr": "Hantal kalkanları daha kolay ve hızlı kullanın."
+ },
+ {
+  "en": "Wield cumbersome shields with greater ease and speed.",
+  "prev": "Mobility",
+  "next": "Inversion",
+  "tr": "Hantal kalkanları daha kolay ve hızlı kullanın."
+ },
+ {
+  "en": "Window mode",
+  "prev": "Show framerate",
+  "next": "Show gameplay tips",
+  "tr": "Pencere modu"
+ },
+ {
+  "en": "Winner",
+  "prev": "Event",
+  "next": "Name",
+  "tr": "Kazanan"
+ },
+ {
+  "en": "Withstand more blows before your shield arm tires.",
+  "prev": "Endure",
+  "next": "Mobility",
+  "tr": "Kalkan kolunuz yorulmadan daha çok darbeye dayanın."
+ },
+ {
+  "en": "Withstand more blows before your shield arm tires.",
+  "prev": "Endure",
+  "next": "Mobility",
+  "tr": "Kalkan kolunuz yorulmadan daha çok darbeye dayanın."
+ },
+ {
+  "en": "Wood Fine",
+  "prev": "Blade",
+  "next": "Wood Rough",
+  "tr": "İnce Ahşap"
+ },
+ {
+  "en": "Wood Rough",
+  "prev": "Wood Fine",
+  "next": "Iron",
+  "tr": "Kaba Ahşap"
+ },
+ {
+  "en": "Worn",
+  "prev": "      ",
+  "next": "Light",
+  "tr": "Eskimiş"
+ },
+ {
+  "en": "Worn",
+  "prev": "      ",
+  "next": "Light",
+  "tr": "Eskimiş"
+ },
+ {
+  "en": "Worn",
+  "prev": "      ",
+  "next": "Crude",
+  "tr": "Eskimiş"
+ },
+ {
+  "en": "Worn",
+  "prev": "      ",
+  "next": "Fine",
+  "tr": "Eskimiş"
+ },
+ {
+  "en": "Worn",
+  "prev": "      ",
+  "next": "Crude",
+  "tr": "Eskimiş"
+ },
+ {
+  "en": "Worn",
+  "prev": "      ",
+  "next": "Crude",
+  "tr": "Eskimiş"
+ },
+ {
+  "en": "YES",
+  "prev": "Forget Technique",
+  "next": "NO",
+  "tr": "EVET"
+ },
+ {
+  "en": "Yes",
+  "prev": "Do you wish to reset all progress after the portal?",
+  "next": "No",
+  "tr": "Evet"
+ },
+ {
+  "en": "Yes",
+  "prev": "Forget Technique",
+  "next": "No",
+  "tr": "Evet"
+ },
+ {
+  "en": "Yes",
+  "prev": "Cancel",
+  "next": "No",
+  "tr": "Evet"
+ },
+ {
+  "en": "You already have a merchant in your employ.",
+  "prev": "You do not have room for any more fighters.",
+  "next": "You already have a physician in your employ.",
+  "tr": "Zaten bir tüccar çalıştırıyorsunuz."
+ },
+ {
+  "en": "You already have a physician in your employ.",
+  "prev": "You already have a merchant in your employ.",
+  "next": "You already have a trainer in your employ.",
+  "tr": "Zaten bir hekim çalıştırıyorsunuz."
+ },
+ {
+  "en": "You already have a trainer in your employ.",
+  "prev": "You already have a physician in your employ.",
+  "next": "Dismiss",
+  "tr": "Zaten bir eğitmen çalıştırıyorsunuz."
+ },
+ {
+  "en": "You are a cobbler of notable skill from the village of Pirn. From time to time you travel to nearby villages in an effort to expand your market. On the latest such occasion you were ambushed during your trip. Your assailants appear to have no interest in your goods, they abducted you without giving reason.",
+  "prev": "You are sworn to uphold the law of Ardent and you carry the king's authority over all. The king has been petitioned to stop a series of abductions occuring in the villages of Benston and Pirn. A proctor was sent before you, but she has not reported back and is considered missing.",
+  "next": "IMPORTANT PLEASE READ",
+  "tr": "Pirn köyünden, işinin ehli bir ayakkabıcısın. Zaman zaman pazarını genişletmek için yakın köylere yol alırsın. Bu son yolculuğunda pusuya düşürüldün. Sana saldıranlar malınla hiç ilgilenmedi; hiçbir gerekçe göstermeden seni kaçırdılar."
+ },
+ {
+  "en": "You are able to regain mental focus more quickly.",
+  "prev": "Clarity",
+  "next": "Resolve",
+  "tr": "Zihinsel odağınızı daha hızlı toplarsınız."
+ },
+ {
+  "en": "You are able to regain mental focus more quickly.",
+  "prev": "Clarity",
+  "next": "Resolve",
+  "tr": "Zihinsel odağınızı daha hızlı toplarsınız."
+ },
+ {
+  "en": "You are less easily distracted or interrupted while shaping a binding.",
+  "prev": "Resolve",
+  "next": "Volition",
+  "tr": "Bağ şekillendirirken dikkatiniz daha zor dağılır."
+ },
+ {
+  "en": "You are less easily distracted or interrupted while shaping a binding.",
+  "prev": "Resolve",
+  "next": "Volition",
+  "tr": "Bağ şekillendirirken dikkatiniz daha zor dağılır."
+ },
+ {
+  "en": "You are more resistant to mental intrusions and effects.",
+  "prev": "Volition",
+  "next": "Forget Technique",
+  "tr": "Zihinsel müdahalelere ve etkilere daha dirençlisiniz."
+ },
+ {
+  "en": "You are more resistant to mental intrusions and effects.",
+  "prev": "Volition",
+  "next": "Forget all knowledge of this technique?",
+  "tr": "Zihinsel müdahalelere ve etkilere daha dirençlisiniz."
+ },
+ {
+  "en": "You are sworn to uphold the law of Ardent and you carry the king's authority over all. The king has been petitioned to stop a series of abductions occuring in the villages of Benston and Pirn. A proctor was sent before you, but she has not reported back and is considered missing.",
+  "prev": "You have limited combat experience, but thanks to your family's wealth you were able to train, purchase the equipment and become knighted. Your lord Ermus has tasked you to investigate a series of disappearances in the villages of Benston and Pirn within his tenure. The trail has led you here",
+  "next": "You are a cobbler of notable skill from the village of Pirn. From time to time you travel to nearby villages in an effort to expand your market. On the latest such occasion you were ambushed during your trip. Your assailants appear to have no interest in your goods, they abducted you without giving reason.",
+  "tr": "Ardent yasasını korumaya ant içtin ve her şeyin üstünde kralın yetkisini taşıyorsun. Krala, Benston ve Pirn köylerinde süregelen bir dizi kaçırma olayını durdurması için dilekçe verildi. Senden önce bir vekil yollandı, ama haber vermedi ve kayıp sayılıyor."
+ },
+ {
+  "en": "You cannot afford this transaction.",
+  "prev": "Pay:",
+  "next": "Owned:",
+  "tr": "Bu işlem için paranız yetmiyor."
+ },
+ {
+  "en": "You do not have room for any more fighters.",
+  "prev": "Hire",
+  "next": "You already have a merchant in your employ.",
+  "tr": "Daha fazla dövüşçü için yeriniz yok."
+ },
+ {
+  "en": "You don't know who you are, but there may be great potential in you",
+  "prev": "VILLAGER",
+  "next": "You have limited combat experience, but thanks to your family's wealth you were able to train, purchase the equipment and become knighted. Your lord Ermus has tasked you to investigate a series of disappearances in the villages of Benston and Pirn within his tenure. The trail has led you here",
+  "tr": "Kim olduğunu bilmiyorsun, ama içinde büyük bir güç yatıyor olabilir…"
+ },
+ {
+  "en": "You forfeited ",
+  "prev": "You have lost ",
+  "next": " has died.",
+  "tr": "Pes ettiniz: "
+ },
+ {
+  "en": "You have been defeated.",
+  "prev": "Press TAB to toggle combat mode or I to toggle the inventory. Double click bodies to loot them.",
+  "next": "You have died.",
+  "tr": "Yenildiniz."
+ },
+ {
+  "en": "You have died.",
+  "prev": "You have been defeated.",
+  "next": "Congratulations! You have defeated all ten opponents.",
+  "tr": "Öldünüz."
+ },
+ {
+  "en": "You have limited combat experience, but thanks to your family's wealth you were able to train, purchase the equipment and become knighted. Your lord Ermus has tasked you to investigate a series of disappearances in the villages of Benston and Pirn within his tenure. The trail has led you here",
+  "prev": "You don't know who you are, but there may be great potential in you",
+  "next": "You are sworn to uphold the law of Ardent and you carry the king's authority over all. The king has been petitioned to stop a series of abductions occuring in the villages of Benston and Pirn. A proctor was sent before you, but she has not reported back and is considered missing.",
+  "tr": "Savaş deneyimin sınırlı, ama ailenin varlığı sayesinde eğitim alıp teçhizatını edinebildin ve şövalye ilan edildin. Efendin Ermus, topraklarındaki Benston ve Pirn köylerinde yaşanan bir dizi kayboluşu araştırmanı buyurdu. İzler seni buraya getirdi…"
+ },
+ {
+  "en": "You have lost ",
+  "prev": " match.",
+  "next": "You forfeited ",
+  "tr": "Kaybettiniz: "
+ },
+ {
+  "en": "You have won ",
+  "prev": "Day ",
+  "next": " match.",
+  "tr": "Kazandınız: "
+ },
+ {
+  "en": "Your character is subject to physics, your inputs must work in harmony with them.",
+  "prev": "Augmenting strikes by swinging and moving your body can greatly increase damage.",
+  "next": "Even when a parry is not successful, attempting to defend will reduce damage taken.",
+  "tr": "Karakteriniz fiziğe tabidir, hareketleriniz onunla uyum içinde olmalıdır."
+ },
+ {
+  "en": "[a] here, if you want it.",
+  "prev": "Got [a] here.",
+  "next": "This [i] could be useful.",
+  "tr": "İstersen burada [a] var."
+ },
+ {
+  "en": "[algn=2]A series of five duels, the victor continues to the next round.",
+  "prev": "[algn=2]Single combat between two fighters with no restrictions of rank.",
+  "next": "[algn=2]One fighter faces two fighters of one rank lower.",
+  "tr": "[algn=2]Beş düellodan oluşan seri, kazanan tura devam eder."
+ },
+ {
+  "en": "[algn=2]A team of three faces an equal team on the opposing side.",
+  "prev": "[algn=2]A team of two faces an equal team on the opposing side.",
+  "next": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+  "tr": "[algn=2]Üçlü takım, karşı tarafta eşit takıma karşı."
+ },
+ {
+  "en": "[algn=2]A team of two faces an equal team on the opposing side.",
+  "prev": "[algn=2]Single combat between two equally matched fighters.",
+  "next": "[algn=2]A team of three faces an equal team on the opposing side.",
+  "tr": "[algn=2]İkili takım, karşı tarafta eşit takıma karşı."
+ },
+ {
+  "en": "[algn=2]Four rounds of duels using a weapon chosen for the event.\r\nVictors face each other until one remains.",
+  "prev": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+  "next": "[algn=2]Six fighters engage in combat using a weapon chosen for the event.\r\nWinners are chosen based on their performance.",
+  "tr": "[algn=2]Etkinlik için seçilen bir silahla dört raunt düello yapılır.\r\nGalipler, tek kişi kalana dek karşılaşır."
+ },
+ {
+  "en": "[algn=2]Four rounds of duels, victors face each other until one remains.",
+  "prev": "[algn=2]Single combat between fighters using only their bare hands.",
+  "next": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+  "tr": "[algn=2]Dört tur düello, kazananlar biri kalana dek karşılaşır."
+ },
+ {
+  "en": "[algn=2]One fighter faces three fighters of two ranks lower.",
+  "prev": "[algn=2]One fighter faces two fighters of one rank lower.",
+  "next": "[algn=2]One fighter leads two of lower rank against an equal team.",
+  "tr": "[algn=2]Bir dövüşçü, iki alt rütbeden üçe karşı."
+ },
+ {
+  "en": "[algn=2]One fighter faces two fighters of one rank lower.",
+  "prev": "[algn=2]A series of five duels, the victor continues to the next round.",
+  "next": "[algn=2]One fighter faces three fighters of two ranks lower.",
+  "tr": "[algn=2]Bir dövüşçü, bir alt rütbeden ikiye karşı."
+ },
+ {
+  "en": "[algn=2]One fighter leads two of lower rank against an equal team.",
+  "prev": "[algn=2]One fighter faces three fighters of two ranks lower.",
+  "next": "[algn=2]Six fighters engage in unarmed combat until only one stands.\r\nWinners are chosen based on their performance.",
+  "tr": "[algn=2]Bir dövüşçü alt rütbeden ikiyi eşit takıma karşı yönetir."
+ },
+ {
+  "en": "[algn=2]Single combat between fighters using only their bare hands.",
+  "prev": "[algn=2]Three fighters per side duel until one team has no more reserves.\r\nEach round lost reduces the prize.",
+  "next": "[algn=2]Four rounds of duels, victors face each other until one remains.",
+  "tr": "[algn=2]Yalnızca çıplak elle dövüşenler arasında teke tek."
+ },
+ {
+  "en": "[algn=2]Single combat between two equally matched fighters.",
+  "prev": "[algn=2]Three fighters attempt the feat of bringing down a mighty ogre.",
+  "next": "[algn=2]A team of two faces an equal team on the opposing side.",
+  "tr": "[algn=2]Eşit güçte iki dövüşçü arasında teke tek."
+ },
+ {
+  "en": "[algn=2]Single combat between two fighters with no restrictions of rank.",
+  "prev": "Rickwich Fellers",
+  "next": "[algn=2]A series of five duels, the victor continues to the next round.",
+  "tr": "[algn=2]Rütbe sınırı olmaksızın iki dövüşçü arasında teke tek."
+ },
+ {
+  "en": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+  "prev": "[algn=2]A team of three faces an equal team on the opposing side.",
+  "next": "[algn=2]Three fighters per side duel until one team has no more reserves.\r\nEach round lost reduces the prize.",
+  "tr": "[algn=2]Altı dövüşçü, tek kişi ayakta kalana dek dövüşür.\r\nKazananlar gösterdikleri başarıya göre seçilir."
+ },
+ {
+  "en": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+  "prev": "[algn=2]Four rounds of duels, victors face each other until one remains.",
+  "next": "[algn=2]Four rounds of duels using a weapon chosen for the event.\r\nVictors face each other until one remains.",
+  "tr": "[algn=2]Altı dövüşçü, tek kişi ayakta kalana dek dövüşür.\r\nKazananlar gösterdikleri başarıya göre seçilir."
+ },
+ {
+  "en": "[algn=2]Six fighters engage in combat using a weapon chosen for the event.\r\nWinners are chosen based on their performance.",
+  "prev": "[algn=2]Four rounds of duels using a weapon chosen for the event.\r\nVictors face each other until one remains.",
+  "next": "[algn=2]Teams of two face each other in three rounds. \r\nDefeated fighters do not continue to the next round.",
+  "tr": "[algn=2]Altı dövüşçü, etkinlik için seçilen bir silahla dövüşür.\r\nKazananlar gösterdikleri başarıya göre seçilir."
+ },
+ {
+  "en": "[algn=2]Six fighters engage in unarmed combat until only one stands.\r\nWinners are chosen based on their performance.",
+  "prev": "[algn=2]One fighter leads two of lower rank against an equal team.",
+  "next": "[algn=2]Three fighters attempt the feat of bringing down a mighty ogre.",
+  "tr": "[algn=2]Altı dövüşçü, tek kişi ayakta kalana dek silahsız dövüşür.\r\nKazananlar gösterdikleri başarıya göre seçilir."
+ },
+ {
+  "en": "[algn=2]Teams of two face each other in three rounds. \r\nDefeated fighters do not continue to the next round.",
+  "prev": "[algn=2]Six fighters engage in combat using a weapon chosen for the event.\r\nWinners are chosen based on their performance.",
+  "next": "Are you sure you want to dismiss ",
+  "tr": "[algn=2]İkişer kişilik takımlar üç raunt karşı karşıya gelir.\r\nYenilen dövüşçüler sonraki raunda geçemez."
+ },
+ {
+  "en": "[algn=2]There are no more matches running this day.\r\nEnd the day to participate in more matches.",
+  "prev": "Choose",
+  "next": "Matches won",
+  "tr": "[algn=2]Bugün için başka maç kalmadı.\r\nDaha fazla maça katılmak için günü bitirin."
+ },
+ {
+  "en": "[algn=2]Three fighters attempt the feat of bringing down a mighty ogre.",
+  "prev": "[algn=2]Six fighters engage in unarmed combat until only one stands.\r\nWinners are chosen based on their performance.",
+  "next": "[algn=2]Single combat between two equally matched fighters.",
+  "tr": "[algn=2]Üç dövüşçü güçlü bir devi devirmeye çalışır."
+ },
+ {
+  "en": "[algn=2]Three fighters per side duel until one team has no more reserves.\r\nEach round lost reduces the prize.",
+  "prev": "[algn=2]Six fighters engage in combat until only one remains standing.\r\nWinners are chosen based on their performance.",
+  "next": "[algn=2]Single combat between fighters using only their bare hands.",
+  "tr": "[algn=2]Üç kişilik takımlar, birinin yedeği bitene dek düello yapar.\r\nKaybedilen her raunt ödülü azaltır."
+ },
+ {
+  "en": "a ",
+  "prev": "an ",
+  "next": "Manage Company",
+  "tr": ""
+ },
+ {
+  "en": "a ",
+  "prev": "Script Error",
+  "next": "nothing",
+  "tr": ""
+ },
+ {
+  "en": "a ",
+  "prev": "an ",
+  "next": "Invalid effect geometry binding.",
+  "tr": ""
+ },
+ {
+  "en": "an ",
+  "prev": " rank.",
+  "next": "a ",
+  "tr": ""
+ },
+ {
+  "en": "an ",
+  "prev": "Error",
+  "next": "a ",
+  "tr": ""
+ },
+ {
+  "en": "blackened",
+  "prev": "blued",
+  "next": "FoleyFls",
+  "tr": "karartılmış"
+ },
+ {
+  "en": "blued",
+  "prev": "hardened",
+  "next": "blackened",
+  "tr": "mavili"
+ },
+ {
+  "en": "coarse",
+  "prev": "mediocre",
+  "next": "crude",
+  "tr": "Kaba"
+ },
+ {
+  "en": "coarse",
+  "prev": "coarsely made",
+  "next": "somewhat crude",
+  "tr": "Kaba"
+ },
+ {
+  "en": "coarsely made",
+  "prev": "fairly coarse",
+  "next": "coarse",
+  "tr": "Kaba yapılmış"
+ },
+ {
+  "en": "crude",
+  "prev": "coarse",
+  "next": "extremely crude",
+  "tr": "İlkel"
+ },
+ {
+  "en": "crude",
+  "prev": "very coarse",
+  "next": "very crude",
+  "tr": "İlkel"
+ },
+ {
+  "en": "crudely made",
+  "prev": "somewhat crude",
+  "next": "very coarse",
+  "tr": "İlkel yapılmış"
+ },
+ {
+  "en": "decent",
+  "prev": "high quality",
+  "next": "simple",
+  "tr": "İyi"
+ },
+ {
+  "en": "exceptionally well made",
+  "prev": "in terrible condition",
+  "next": "extremely well made",
+  "tr": "Olağanüstü işçilikli"
+ },
+ {
+  "en": "extremely crude",
+  "prev": "crude",
+  "next": "in great condition",
+  "tr": "Aşırı ilkel"
+ },
+ {
+  "en": "extremely crude",
+  "prev": "very crude",
+  "next": "New",
+  "tr": "Aşırı ilkel"
+ },
+ {
+  "en": "extremely well made",
+  "prev": "exceptionally well made",
+  "next": "very well made",
+  "tr": "Son derece iyi yapılmış"
+ },
+ {
+  "en": "fairly coarse",
+  "prev": "mediocre",
+  "next": "coarsely made",
+  "tr": "Epey kaba"
+ },
+ {
+  "en": "fairly well made",
+  "prev": "well made",
+  "next": "mediocre",
+  "tr": "Oldukça iyi yapılmış"
+ },
+ {
+  "en": "hardened",
+  "prev": "reinforced",
+  "next": "blued",
+  "tr": "sertleştirilmiş"
+ },
+ {
+  "en": "he",
+  "prev": "Encumbrance",
+  "next": "she",
+  "tr": "o"
+ },
+ {
+  "en": "heavy",
+  "prev": "light",
+  "next": "thick",
+  "tr": "ağır"
+ },
+ {
+  "en": "her",
+  "prev": "him",
+  "next": "his",
+  "tr": "onu"
+ },
+ {
+  "en": "her",
+  "prev": "his",
+  "next": "his",
+  "tr": "onun"
+ },
+ {
+  "en": "hers",
+  "prev": "his",
+  "next": "Failed to render item icons: ",
+  "tr": "onunki"
+ },
+ {
+  "en": "high quality",
+  "prev": "very high quality",
+  "next": "decent",
+  "tr": "Yüksek kalite"
+ },
+ {
+  "en": "him",
+  "prev": "she",
+  "next": "her",
+  "tr": "onu"
+ },
+ {
+  "en": "his",
+  "prev": "her",
+  "next": "her",
+  "tr": "onun"
+ },
+ {
+  "en": "his",
+  "prev": "her",
+  "next": "hers",
+  "tr": "onun"
+ },
+ {
+  "en": "in above average condition",
+  "prev": "in fine condition",
+  "next": "in average condition",
+  "tr": "- Ortalamanın Üstünde Durumda"
+ },
+ {
+  "en": "in almost perfect condition",
+  "prev": "in perfect condition",
+  "next": "in great condition",
+  "tr": "- Neredeyse Kusursuz Durumda"
+ },
+ {
+  "en": "in average condition",
+  "prev": "in above average condition",
+  "next": "in below average condition",
+  "tr": "- Ortalama Durumda"
+ },
+ {
+  "en": "in below average condition",
+  "prev": "in average condition",
+  "next": "in relatively poor condition",
+  "tr": "- Ortalamanın Altında Durumda"
+ },
+ {
+  "en": "in extremely good condition",
+  "prev": "in flawless condition",
+  "next": "in very good condition",
+  "tr": "- Son Derece İyi Durumda"
+ },
+ {
+  "en": "in extremely worn condition",
+  "prev": "in very worn condition",
+  "next": "in perfect condition",
+  "tr": "- Aşırı Yıpranmış Durumda"
+ },
+ {
+  "en": "in fair condition",
+  "prev": "in fairly good condition",
+  "next": "in somewhat worn condition",
+  "tr": "- İdare Eder Durumda"
+ },
+ {
+  "en": "in fairly good condition",
+  "prev": "in good condition",
+  "next": "in fair condition",
+  "tr": "- Oldukça İyi Durumda"
+ },
+ {
+  "en": "in fairly poor condition",
+  "prev": "in reasonable condition",
+  "next": "in poor condition",
+  "tr": "- Epey Kötü Durumda"
+ },
+ {
+  "en": "in fairly worn condition",
+  "prev": "in somewhat worn condition",
+  "next": "in worn condition",
+  "tr": "- Epey Yıpranmış Durumda"
+ },
+ {
+  "en": "in fine condition",
+  "prev": "in great condition",
+  "next": "in above average condition",
+  "tr": "- Güzel Durumda"
+ },
+ {
+  "en": "in flawless condition",
+  "prev": "FoleyHbr",
+  "next": "in extremely good condition",
+  "tr": "- Kusursuz Durumda"
+ },
+ {
+  "en": "in good condition",
+  "prev": "in very good condition",
+  "next": "in fairly good condition",
+  "tr": "- İyi Durumda"
+ },
+ {
+  "en": "in good condition",
+  "prev": "in great condition",
+  "next": "in reasonable condition",
+  "tr": "- İyi Durumda"
+ },
+ {
+  "en": "in great condition",
+  "prev": "in almost perfect condition",
+  "next": "in fine condition",
+  "tr": "- Harika Durumda"
+ },
+ {
+  "en": "in great condition",
+  "prev": "extremely crude",
+  "next": "in good condition",
+  "tr": "- Harika Durumda"
+ },
+ {
+  "en": "in perfect condition",
+  "prev": "in extremely worn condition",
+  "next": "in almost perfect condition",
+  "tr": "- Mükemmel Durumda"
+ },
+ {
+  "en": "in poor condition",
+  "prev": "in relatively poor condition",
+  "next": "in terrible condition",
+  "tr": "- Kötü Durumda"
+ },
+ {
+  "en": "in poor condition",
+  "prev": "in fairly poor condition",
+  "next": "in terrible condition",
+  "tr": "- Kötü Durumda"
+ },
+ {
+  "en": "in reasonable condition",
+  "prev": "in good condition",
+  "next": "in fairly poor condition",
+  "tr": "- Makul Durumda"
+ },
+ {
+  "en": "in relatively poor condition",
+  "prev": "in below average condition",
+  "next": "in poor condition",
+  "tr": "- Nispeten Kötü Durumda"
+ },
+ {
+  "en": "in somewhat worn condition",
+  "prev": "in fair condition",
+  "next": "in fairly worn condition",
+  "tr": "- Biraz Yıpranmış Durumda"
+ },
+ {
+  "en": "in terrible condition",
+  "prev": "in poor condition",
+  "next": "very high quality",
+  "tr": "- Berbat Durumda"
+ },
+ {
+  "en": "in terrible condition",
+  "prev": "in poor condition",
+  "next": "exceptionally well made",
+  "tr": "- Berbat Durumda"
+ },
+ {
+  "en": "in very good condition",
+  "prev": "in extremely good condition",
+  "next": "in good condition",
+  "tr": "- Çok İyi Durumda"
+ },
+ {
+  "en": "in very worn condition",
+  "prev": "in worn condition",
+  "next": "in extremely worn condition",
+  "tr": "- Çok Yıpranmış Durumda"
+ },
+ {
+  "en": "in worn condition",
+  "prev": "in fairly worn condition",
+  "next": "in very worn condition",
+  "tr": "- Yıpranmış Durumda"
+ },
+ {
+  "en": "light",
+  "prev": "Error",
+  "next": "heavy",
+  "tr": "hafif"
+ },
+ {
+  "en": "mediocre",
+  "prev": "simple",
+  "next": "coarse",
+  "tr": "Vasat"
+ },
+ {
+  "en": "mediocre",
+  "prev": "fairly well made",
+  "next": "fairly coarse",
+  "tr": "Vasat"
+ },
+ {
+  "en": "nothing",
+  "prev": "a ",
+  "next": "Error writing role variable data.",
+  "tr": "hiçbiri"
+ },
+ {
+  "en": "plate armour",
+  "prev": "well made ",
+  "next": "Light",
+  "tr": "plaka zırh"
+ },
+ {
+  "en": "reinforced",
+  "prev": "tough",
+  "next": "hardened",
+  "tr": "takviyeli"
+ },
+ {
+  "en": "she",
+  "prev": "he",
+  "next": "him",
+  "tr": "o"
+ },
+ {
+  "en": "simple",
+  "prev": "decent",
+  "next": "mediocre",
+  "tr": "Basit"
+ },
+ {
+  "en": "somewhat crude",
+  "prev": "coarse",
+  "next": "crudely made",
+  "tr": "Biraz ilkel"
+ },
+ {
+  "en": "thick",
+  "prev": "heavy",
+  "next": "tough",
+  "tr": "kalın"
+ },
+ {
+  "en": "tough",
+  "prev": "thick",
+  "next": "reinforced",
+  "tr": "sağlam"
+ },
+ {
+  "en": "very coarse",
+  "prev": "crudely made",
+  "next": "crude",
+  "tr": "Çok kaba"
+ },
+ {
+  "en": "very crude",
+  "prev": "crude",
+  "next": "extremely crude",
+  "tr": "Çok ilkel"
+ },
+ {
+  "en": "very high quality",
+  "prev": "in terrible condition",
+  "next": "high quality",
+  "tr": "Çok yüksek kalite"
+ },
+ {
+  "en": "very well made",
+  "prev": "extremely well made",
+  "next": "well made",
+  "tr": "Çok iyi işçilik"
+ },
+ {
+  "en": "well made",
+  "prev": "very well made",
+  "next": "fairly well made",
+  "tr": "İyi yapılmış"
+ },
+ {
+  "en": "well made ",
+  "prev": ", but",
+  "next": "plate armour",
+  "tr": "iyi yapılmış "
+ },
+ {
+  "en": "[Other]",
+  "prev": "ChangeRole",
+  "next": ".",
+  "tr": "[Diğer]"
+ },
+ {
+  "en": "Continue",
+  "prev": "Flux Content",
+  "next": "Don't show again",
+  "tr": "Devam"
+ },
+ {
+  "en": "Inventory",
+  "prev": "\rThis is your base of operations and living space.\r\r[tcol=FFE399]Manage[/tcol] your company by clicking on the board on our left.\r\rDirectly ahead is a [tcol=FFE399]Shop[/tcol] where you can buy and sell equipment.\r\r[tcol=FFE399]Matches[/tcol] that you can participate in are accessed from the board on your right.",
+  "next": "\rThe inventory shows items you are currently wearing and carrying.\r\rItems you wear while outside of a match are not carried into matches. To equip items for combat you must use the management screen.",
+  "tr": "Envanter"
+ },
+ {
+  "en": "Matches",
+  "prev": "\rThe inventory shows items you are currently wearing and carrying.\r\rItems you wear while outside of a match are not carried into matches. To equip items for combat you must use the management screen.",
+  "next": "\rMatches are split into three main categories.\r\r[tcol=FFE399]Standard[/tcol] matches can be run at any time and configured to your preference.\r\r[tcol=FFEF99]Specials[/tcol] change daily and can only be run when and as available.\r\r[tcol=FFE399]Tournaments[/tcol] are weekly multiple match events where fighting companies compete for important prizes.\r\rSelect a match and then enter your fighters by dragging them to the right. Some matches require multiple participants.\r\r[tcol=FFE399]Rank[/tcol] is a requirement, your fighter must attain this rank before they can participate.\r\r[tcol=FFE399]Tier[/tcol] indicates the level of equipment used in the match. This corresponds to your loadouts in the manage screen.",
+  "tr": "Maçlar"
+ },
+ {
+  "en": "Manage Company",
+  "prev": "\rThis is where you can buy and sell items.\r\rDrag items you want to buy from the shop's stock to the right pane, items you want to sell go in the left pane.\r\rYou can try items on before you buy them by dragging them on to the paperdoll.\r\rNote that rank restrictions are applied to some items. You must achieve that rank and participate in appropriate matches to use these.\r\rInvest early and invest wisely, even a few basic layers of clothing can offer great protection from injury.",
+  "next": "\r[tcol=FFE399]Manage[/tcol] equipment and training for your roster.\r\rThe [tcol=FFE399]Arsenal[/tcol] allows you to organise your equipment.\r\r[tcol=FFE399]Recruit[/tcol] new fighters to control in battle.\r\r[tcol=FFE399]Hire[/tcol] combatants for team matches and other staff.\r\rDaily [tcol=FFE399]report[/tcol] items can be double clicked to take action.",
+  "tr": "Bölüğü Yönet"
+ },
+ {
+  "en": "Manage",
+  "prev": "\r[tcol=FFE399]Manage[/tcol] equipment and training for your roster.\r\rThe [tcol=FFE399]Arsenal[/tcol] allows you to organise your equipment.\r\r[tcol=FFE399]Recruit[/tcol] new fighters to control in battle.\r\r[tcol=FFE399]Hire[/tcol] combatants for team matches and other staff.\r\rDaily [tcol=FFE399]report[/tcol] items can be double clicked to take action.",
+  "next": "\rFighters gain a [tcol=FFE399]rank[/tcol] every two skill techniques learnt.\r\rEach rank has a corresponding loadout. Which loadout is used depends on the tier of the match. Use the slider to select a ranked loadout.\r\r[tcol=FFE399]Point[/tcol] limits are also applied to each rank. Every item carries a point cost.",
+  "tr": "Yönet"
+ }
+]

@@ -1,0 +1,3417 @@
+[
+ {
+  "en": "\r\n",
+  "tr": "\r\n",
+  "kind": "degismez"
+ },
+ {
+  "en": "\r\n\r\n\r\n\r\n",
+  "tr": "\r\n\r\n\r\n\r\n",
+  "kind": "degismez"
+ },
+ {
+  "en": "-billhook",
+  "tr": "-budama bıçağı",
+  "kind": "ad"
+ },
+ {
+  "en": "-blacksmith's hammer",
+  "tr": "-demirci çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "-cleaver",
+  "tr": "-satır",
+  "kind": "ad"
+ },
+ {
+  "en": "-cobbler's hammer",
+  "tr": "-ayakkabıcı çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "-cudgel",
+  "tr": "-sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "-hammer",
+  "tr": "-çekiç",
+  "kind": "ad"
+ },
+ {
+  "en": "-hand saw",
+  "tr": "-el testeresi",
+  "kind": "ad"
+ },
+ {
+  "en": "-hatchet",
+  "tr": "-el baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "-iron bar",
+  "tr": "-demir çubuk",
+  "kind": "ad"
+ },
+ {
+  "en": "-iron shod quarterstaff",
+  "tr": "-demir uçlu uzun sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "-large mallet",
+  "tr": "-büyük ahşap tokmak",
+  "kind": "ad"
+ },
+ {
+  "en": "-long knife",
+  "tr": "-uzun bıçak",
+  "kind": "ad"
+ },
+ {
+  "en": "-mallet",
+  "tr": "-ahşap tokmak",
+  "kind": "ad"
+ },
+ {
+  "en": "-maul",
+  "tr": "-tokmak",
+  "kind": "ad"
+ },
+ {
+  "en": "-pitchfork",
+  "tr": "-dirgen",
+  "kind": "ad"
+ },
+ {
+  "en": "-quarterstaff",
+  "tr": "-uzun sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "-sickle",
+  "tr": "-orak",
+  "kind": "ad"
+ },
+ {
+  "en": "-sledgehammer",
+  "tr": "-balyoz",
+  "kind": "ad"
+ },
+ {
+  "en": "-spiked club",
+  "tr": "-dikenli sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "-woodcutter's axe",
+  "tr": "-oduncu baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "@WEAR33:A crystal emitting an intense amber glow.\r\n\r\n@WEAR66:A crystal emitting a amber glow.\r\n\r\n@WEAR99:A crystal emitting a faint amber glow.\r\n\r\n@WEAR00:A black crystal.",
+  "tr": "@WEAR33:Yoğun bir kehribar ışıltısı yayan bir kristal.\r\n\r\n@WEAR66:Kehribar ışıltısı yayan bir kristal.\r\n\r\n@WEAR99:Soluk bir kehribar ışıltısı yayan bir kristal.\r\n\r\n@WEAR00:Siyah bir kristal.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "@WEAR33:A crystal emitting an intense blue glow.\r\n\r\n@WEAR66:A crystal emitting a blue glow.\r\n\r\n@WEAR99:A crystal emitting a faint blue glow.\r\n\r\n@WEAR00:A black crystal.",
+  "tr": "@WEAR33:Yoğun bir mavi ışıltı yayan bir kristal.\r\n\r\n@WEAR66:Mavi bir ışıltı yayan bir kristal.\r\n\r\n@WEAR99:Soluk bir mavi ışıltı yayan bir kristal.\r\n\r\n@WEAR00:Siyah bir kristal.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "@WEAR33:A crystal emitting an intense green glow.\r\n\r\n@WEAR66:A crystal emitting a green glow.\r\n\r\n@WEAR99:A crystal emitting a faint green glow.\r\n\r\n@WEAR00:A black crystal.",
+  "tr": "@WEAR33:Yoğun bir yeşil ışıltı yayan bir kristal.\r\n\r\n@WEAR66:Yeşil bir ışıltı yayan bir kristal.\r\n\r\n@WEAR99:Soluk bir yeşil ışıltı yayan bir kristal.\r\n\r\n@WEAR00:Siyah bir kristal.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "@WEAR33:An encased crystal emitting an intense blue glow.\r\n\r\n@WEAR66:An encased crystal emitting a blue glow.\r\n\r\n@WEAR99:An encased crystal emitting a faint blue glow.\r\n\r\n@WEAR00:An encased black crystal.",
+  "tr": "@WEAR33:Yoğun bir mavi ışıltı yayan, muhafazalı bir kristal.\r\n\r\n@WEAR66:Mavi bir ışıltı yayan, muhafazalı bir kristal.\r\n\r\n@WEAR99:Soluk bir mavi ışıltı yayan, muhafazalı bir kristal.\r\n\r\n@WEAR00:Muhafazalı, siyah bir kristal.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "@WEAR50:The crystal is tightly clamped in the device, but can removed.\r\n\r\n@WEAR00:The crystal seems to be fused to the device and cannot be removed.",
+  "tr": "@WEAR50:Kristal aygıta sıkıca kenetlenmiş ama çıkarılabilir.\r\n\r\n@WEAR00:Kristal aygıta kaynamış görünüyor ve çıkarılamıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "@WEAR75:A sphere with a strange pattern within. Its surface seems to shift when you press against it.\r\n\r\n@WEAR00:A smooth black sphere.",
+  "tr": "@WEAR75:İçinde tuhaf bir desen olan bir küre. Üzerine bastırdığında yüzeyi kayıyor gibi görünüyor.\r\n\r\n@WEAR00:Pürüzsüz, siyah bir küre.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "@WEAR75:The thick substance in this jar emits a faint glow and has a pungent but somehow inviting odour.\r\n\r\n@WEAR00:There is a faintly glowing residue in this jar.",
+  "tr": "@WEAR75:Kavanozdaki koyu kıvamlı madde hafifçe parlıyor; keskin ama nedense davetkâr bir kokusu var.\r\n\r\n@WEAR00:Kavanozda hafifçe parlayan bir kalıntı var.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A \u0010 plate cuirass made from a strange brassy metal that's heavier than normal, but still effective. [sq]",
+  "tr": "Tuhaf, pirinç benzeri bir metalden yapılmış \u0010 plaka göğüslük; normalden ağır ama yine de etkili. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A banded kite shield.",
+  "tr": "Şeritli bir badem kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A basic wood buckler.",
+  "tr": "Basit bir ahşap küçük kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A bottle with a candle in it.",
+  "tr": "İçinde mum olan bir şişe.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A bottle with a protective wicker casing",
+  "tr": "Koruyucu hasır kılıflı bir şişe",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A bowl for crushing and mixing ingredients.",
+  "tr": "Malzemeleri ezip karıştırmaya yarayan bir kâse.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A brass compass.",
+  "tr": "Pirinç bir pusula.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A brass goblet.",
+  "tr": "Pirinç bir kadeh.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A brass plate.",
+  "tr": "Pirinç bir tabak.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A brass spoon.",
+  "tr": "Pirinç bir kaşık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A brass tankard.",
+  "tr": "Pirinç bir maşrapa.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A buckler made from a strange brassy metal.",
+  "tr": "Tuhaf, pirinç benzeri bir metalden yapılmış bir küçük kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A bundle of rope.",
+  "tr": "Bir kangal halat.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A clay bowl.",
+  "tr": "Kilden bir kâse.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A clay cup.",
+  "tr": "Kilden bir bardak.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A clay jug.",
+  "tr": "Kilden bir testi.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A clay plate.",
+  "tr": "Kilden bir tabak.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A clay pot, once used to hold paint.",
+  "tr": "Bir zamanlar boya koymak için kullanılmış, kilden bir kap.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A clothes peg.",
+  "tr": "Bir çamaşır mandalı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A component of a set of shackles.",
+  "tr": "Bir pranga takımının parçası.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A copper bowl.",
+  "tr": "Bakır bir kâse.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A cork lid",
+  "tr": "Mantar bir kapak",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A cuirass combining metal and a tough, light material. [sq]",
+  "tr": "Metali sağlam ve hafif bir malzemeyle birleştiren bir göğüslük. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A cuirass made from a very tough and light material. [sq]",
+  "tr": "Çok sağlam ve hafif bir malzemeden yapılmış bir göğüslük. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A decorated pole axe of unusual design. [sq]",
+  "tr": "Alışılmadık tasarımlı, süslemeli bir kargı baltası. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A dusty old logbook.",
+  "tr": "Tozlu, eski bir kayıt defteri.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A fragment of a painted ceramic disc.",
+  "tr": "Boyalı bir seramik diskin parçası.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A glass counter.",
+  "tr": "Cam bir tezgah.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A glass pipe.",
+  "tr": "Cam bir boru.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A goblet.",
+  "tr": "Bir kadeh.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A hardened lump of clay.",
+  "tr": "Sertleşmiş bir kil parçası.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A heavy heater shield.",
+  "tr": "Ağır bir üçgen kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A heavy ornate armour made from a brass like metal. Various shield like elements appear to float and move with the armour without being attached to it. [sq]",
+  "tr": "Pirinci andıran bir metalden yapılmış ağır, süslü bir zırh. Kalkanı andıran çeşitli parçalar, zırha bağlı olmadan havada süzülüp onunla birlikte hareket ediyor. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A heavy ornate helm made from a brass like metal. When worn it provides vision in darkness. [sq]",
+  "tr": "Pirinci andıran bir metalden yapılmış ağır, süslü bir miğfer. Takıldığında karanlıkta görüş sağlar. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large blue glowing crystal in an elaborate casing.",
+  "tr": "Özenle işlenmiş bir muhafaza içinde parlayan büyük, mavi bir kristal.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large fork.",
+  "tr": "Büyük bir çatal.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large metal bar with an angular head.",
+  "tr": "Köşeli başlı büyük bir metal çubuk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large metal buckler.",
+  "tr": "Büyük, metal bir küçük kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large ornate spear set with gemstones. [sq]",
+  "tr": "Değerli taşlarla süslenmiş büyük bir mızrak. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large pan lid. It could be used as a crude buckler.",
+  "tr": "Büyük bir tencere kapağı. Kaba bir küçük kalkan olarak kullanılabilir.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A large wooden stake.",
+  "tr": "Büyük bir ahşap kazık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A leather working tool.",
+  "tr": "Bir deri işleme aleti.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A light, well crafted sword.",
+  "tr": "Hafif, iyi işlenmiş bir kılıç.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A mason's chisel.",
+  "tr": "Bir taş ustası keskisi.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A metal bar used in the construction of cages.",
+  "tr": "Kafes yapımında kullanılan bir metal çubuk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A metal crutch.",
+  "tr": "Metal bir koltuk değneği.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A metal goblet.",
+  "tr": "Metal bir kadeh.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A metal hook attached to a long wooden pole.",
+  "tr": "Uzun bir ahşap sırığa takılmış metal bir kanca.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A metal plate.",
+  "tr": "Metal bir tabak.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A one and a half handed sword that bears a decoration resembling a sun on the guard. [sq]",
+  "tr": "Balçağında güneşi andıran bir süsleme bulunan bir buçuk el kılıç. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 boots. Metal bands cover a tough and light material.",
+  "tr": "Bir çift \u0010 çizme. Metal şeritler sağlam ve hafif bir malzemeyi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 cloth trousers.",
+  "tr": "Bir çift \u0010 kumaş pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 couters. Metal bands cover a tough and light material.",
+  "tr": "Bir çift \u0010 dirseklik. Metal şeritler sağlam ve hafif bir malzemeyi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 cuisses. Metal bands cover a tough and light material.",
+  "tr": "Bir çift \u0010 uylukluk. Metal şeritler sağlam ve hafif bir malzemeyi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 fingerless gloves",
+  "tr": "Bir çift \u0010 parmaksız eldiven",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 lamellar greaves.",
+  "tr": "Bir çift \u0010 lamelli baldırlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 lamellar vambraces.",
+  "tr": "Bir çift \u0010 lamelli kolluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 layered cloth leggings.",
+  "tr": "Bir çift \u0010 katmanlı kumaş tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather boots.",
+  "tr": "Bir çift \u0010 deri çizme.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather gauntlets.",
+  "tr": "Bir çift \u0010 deri zırhlı eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather gloves.",
+  "tr": "Bir çift \u0010 deri eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather greaves.",
+  "tr": "Bir çift \u0010 deri baldırlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather leggings.",
+  "tr": "Bir çift \u0010 deri tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather shoes.",
+  "tr": "Bir çift \u0010 deri ayakkabı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather spaulders.",
+  "tr": "Bir çift \u0010 deri omuzluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather thigh boots.",
+  "tr": "Bir çift \u0010 deri uzun konçlu çizme.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather trousers.",
+  "tr": "Bir çift \u0010 deri pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 leather vambraces.",
+  "tr": "Bir çift \u0010 deri kolluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 mail gauntlets.",
+  "tr": "Bir çift \u0010 zincir zırhlı eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 mail leggings.",
+  "tr": "Bir çift \u0010 zincir tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate boots.",
+  "tr": "Bir çift \u0010 plaka çizme.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate couters.",
+  "tr": "Bir çift \u0010 plaka dirseklik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate cuisses.",
+  "tr": "Bir çift \u0010 plaka uylukluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate gauntlets",
+  "tr": "Bir çift \u0010 plaka zırhlı eldiven",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate gauntlets made from a brassy metal. [pq]",
+  "tr": "Pirinç renkli bir metalden yapılmış bir çift \u0010 plaka zırhlı eldiven. [pq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate gauntlets.",
+  "tr": "Bir çift \u0010 plaka zırhlı eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate greaves.",
+  "tr": "Bir çift \u0010 plaka baldırlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate leggings.",
+  "tr": "Bir çift \u0010 plaka tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate sabatons.",
+  "tr": "Bir çift \u0010 plaka zırhlı pabuç.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate spaulders.",
+  "tr": "Bir çift \u0010 plaka omuzluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 plate vambraces.",
+  "tr": "Bir çift \u0010 plaka kolluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 quilted cloth trousers.",
+  "tr": "Bir çift \u0010 kapitone kumaş pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 rerebraces.",
+  "tr": "Bir çift \u0010 pazuluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 sandals.",
+  "tr": "Bir çift \u0010 sandalet.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 silk trousers.",
+  "tr": "Bir çift \u0010 ipek pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 spaulders. Metal bands cover a tough and light material.",
+  "tr": "Bir çift \u0010 omuzluk. Metal şeritler sağlam ve hafif bir malzemeyi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 splint boots.",
+  "tr": "Bir çift \u0010 şeritli çizme.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 splint cuisses.",
+  "tr": "Bir çift \u0010 şeritli uylukluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 splint gauntlets.",
+  "tr": "Bir çift \u0010 şeritli zırhlı eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 splint greaves.",
+  "tr": "Bir çift \u0010 şeritli baldırlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 splint spaulders.",
+  "tr": "Bir çift \u0010 şeritli omuzluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 steel capped shoes.",
+  "tr": "Bir çift \u0010 çelik burunlu ayakkabı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 suede shoes.",
+  "tr": "Bir çift \u0010 süet ayakkabı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 suede trousers.",
+  "tr": "Bir çift \u0010 süet pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of \u0010 vambraces. Metal bands cover a tough and light material.",
+  "tr": "Bir çift \u0010 kolluk. Metal şeritler sağlam ve hafif bir malzemeyi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of gauntlets made with metal and a softer but very tough material. [pq]",
+  "tr": "Metal ve daha yumuşak ama çok sağlam bir malzemeden yapılmış bir çift zırhlı eldiven. [pq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of layered cloth leggings.",
+  "tr": "Bir çift katmanlı kumaş tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of leather trousers.",
+  "tr": "Bir çift deri pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of quilted cloth leggings.",
+  "tr": "Bir çift kapitone kumaş tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of rusty plate rerebraces.",
+  "tr": "Bir çift paslı plaka pazuluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of rusty plate spaulders.",
+  "tr": "Bir çift paslı plaka omuzluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of rusty plate vambraces.",
+  "tr": "Bir çift paslı plaka kolluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of thick cloth trousers.",
+  "tr": "Bir çift kalın kumaş pantolon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pair of thick leather gauntlets.",
+  "tr": "Bir çift kalın deri zırhlı eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A pan for collecting ashes from a furnace.",
+  "tr": "Ocaktan kül toplamaya yarayan bir tepsi.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A piece of a broken chair.",
+  "tr": "Kırık bir sandalyeden kalan bir parça.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A piece of a crate with protruding nails.",
+  "tr": "Çivileri dışarı çıkmış bir sandık parçası.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A piece of chalk.",
+  "tr": "Bir parça tebeşir.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A piece of charcoal.",
+  "tr": "Bir parça odun kömürü.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A plate cuirass made from a strange brassy metal that's heavier than normal, but still effective. [sq]",
+  "tr": "Normalden ağır ama yine de işe yarar, tuhaf pirinç rengi bir metalden dövülmüş plaka göğüslük. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A prickling sensation washes over your body.",
+  "tr": "Bedenini bir karıncalanma hissi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A primitive looking and oddly proportioned sword with a needlessly thick blade. [sq]",
+  "tr": "İlkel görünümlü, tuhaf orantılı ve gereksiz yere kalın ağızlı bir kılıç. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A prosthetic arm.",
+  "tr": "Protez bir kol.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A reed pen.",
+  "tr": "Kamıştan bir kalem.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A reel of thread.",
+  "tr": "Bir makara iplik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A round shield faced with steel.",
+  "tr": "Yüzü çelik kaplı yuvarlak bir kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A rusty pair of chain leggings.",
+  "tr": "Bir çift paslı zincir tozluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A seal carried by Proctors representing the law of Ardent. It can only be unlocked by turning the rings along its length in a particular combination known only to the Proctor who carries it.",
+  "tr": "Ardent yasasını temsil eden, Proctor'ların taşıdığı bir mühür. Yalnızca gövdesi boyunca dizili halkaların, onu taşıyan Proctor'un bildiği belirli bir sırayla çevrilmesiyle açılabilir.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sealed clay bottle.",
+  "tr": "Mühürlü bir kil şişe.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sharp short sword.",
+  "tr": "Keskin bir kısa kılıç.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A silver Talin coin. Commonly used as payment for a fortnight of work.",
+  "tr": "Gümüş bir Talin sikkesi. Genellikle iki haftalık emeğin karşılığı olarak ödenir.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A simple broom.\r\n",
+  "tr": "Basit bir süpürge.\r\n",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A simple iron key attached to a collar.",
+  "tr": "Bir tasmaya bağlı basit bir demir anahtar.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A simple iron key.",
+  "tr": "Basit bir demir anahtar.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A simple shirt.",
+  "tr": "Basit bir gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A simple torch.",
+  "tr": "Basit bir meşale.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A simple wooden crutch.",
+  "tr": "Basit bir ahşap koltuk değneği.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A single-edged two-handed sword with a slightly curved blade.",
+  "tr": "Hafif kavisli, tek ağızlı bir çift el kılıcı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small brush for scrubbing dirt.",
+  "tr": "Kiri ovmaya yarayan küçük bir fırça.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small decorated game piece",
+  "tr": "Küçük, süslemeli bir oyun taşı",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small glass flower.",
+  "tr": "Küçük bir cam çiçek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small metal spice holder.",
+  "tr": "Küçük bir metal baharatlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small sack with a face painted on it.",
+  "tr": "Üzerine bir yüz çizilmiş küçük bir çuval.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small sack with a target painted on it.",
+  "tr": "Üzerine bir hedef çizilmiş küçük bir çuval.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A small wooden square shield.",
+  "tr": "Küçük, kare biçimli ahşap bir kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A solid iron stake.",
+  "tr": "Sağlam bir demir kazık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A solid metal candle holder.",
+  "tr": "Sağlam bir metal şamdan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A spiked mace with a large hollow head. [sq]",
+  "tr": "İri ve içi boş başlı, dikenli bir gürz. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A spool of thread.",
+  "tr": "Bir bobin iplik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A strange metal mask. [sq]",
+  "tr": "Tuhaf bir metal maske. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A strange sword, seemingly made of bone. The edge looks very fragile.",
+  "tr": "Görünüşe göre kemikten yapılmış tuhaf bir kılıç. Ağzı çok kırılgan görünüyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sturdy kite shield.",
+  "tr": "Sağlam bir badem kalkanı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sturdy leather vest, clearly designed for women.",
+  "tr": "Belli ki kadınlar için tasarlanmış, sağlam bir deri yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sturdy pair of leather boots in poor condition.",
+  "tr": "Sağlam bir çift deri çizme, kötü durumda.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sturdy pair of leather gauntlets.",
+  "tr": "Sağlam bir çift deri zırhlı eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A sturdy wooden round shield.",
+  "tr": "Sağlam bir ahşap yuvarlak kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A suede leather shirt.",
+  "tr": "Süet deri bir gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A thick leather tunic, reasonably well made and in average condition.",
+  "tr": "Kalın bir deri tunik, oldukça iyi yapılmış ve ortalama durumda.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A token engraved with a heater shield.",
+  "tr": "Üzerine üçgen kalkan işlenmiş bir jeton.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A token engraved with a round shield.",
+  "tr": "Üzerine yuvarlak kalkan işlenmiş bir jeton.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A token engraved with a spider.",
+  "tr": "Üzerine örümcek işlenmiş bir jeton.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A token engraved with an eye.",
+  "tr": "Üzerine göz işlenmiş bir jeton.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A token engraved with three ribbons.",
+  "tr": "Üzerine üç şerit işlenmiş bir jeton.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A token engraved with two ribbons.",
+  "tr": "Üzerine iki şerit işlenmiş bir jeton.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A tool for cutting fabric.",
+  "tr": "Kumaş kesmek için bir alet.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A tool for scraping ashes from a furnace.",
+  "tr": "Ocaktan kül kazımak için bir alet.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A very peculiar two-handed sword that would seem ornamental, and yet quite functional. [sq]",
+  "tr": "Süs eşyası gibi görünen ama gayet işlevsel, çok tuhaf bir çift el kılıcı. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A very well balanced and sharp two-handed sword.",
+  "tr": "Çok iyi dengelenmiş ve keskin bir çift el kılıcı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A visored helm made from a metal similar to brass, but not as heavy as you expect. [sq]",
+  "tr": "Pirince benzer bir metalden yapılmış siperlikli bir miğfer, ama beklediğin kadar ağır değil. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A well balanced, finely crafted sword.",
+  "tr": "İyi dengelenmiş, özenle işlenmiş bir kılıç.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A well made heater shield with an unknown insignia.",
+  "tr": "Üzerinde bilinmeyen bir arma bulunan, iyi yapılmış bir üçgen kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A well made heater shield.",
+  "tr": "İyi yapılmış bir üçgen kalkan.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden cup.",
+  "tr": "Ahşap bir bardak.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden die.",
+  "tr": "Ahşap bir zar.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden ladle.",
+  "tr": "Ahşap bir kepçe.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden mug.",
+  "tr": "Ahşap bir kupa.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden pipe.",
+  "tr": "Ahşap bir pipo.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden spatula.",
+  "tr": "Ahşap bir spatula.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden spoon.",
+  "tr": "Ahşap bir kaşık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A wooden tankard.",
+  "tr": "Ahşap bir maşrapa.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A worn long sleeved chain shirt.",
+  "tr": "Yıpranmış, uzun kollu bir zincir gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "A worn pair of leather shoes.",
+  "tr": "Yıpranmış bir çift deri ayakkabı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Alchemy Apparatus",
+  "tr": "Simya Düzeneği",
+  "kind": "ad"
+ },
+ {
+  "en": "Amethyst",
+  "tr": "Ametist",
+  "kind": "ad"
+ },
+ {
+  "en": "An average pair of hard leather greaves.",
+  "tr": "Sıradan bir çift sert deri baldırlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An average pair of leather shoes in excellent condition.",
+  "tr": "Sıradan bir çift deri ayakkabı, mükemmel durumda.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An eating utensil.",
+  "tr": "Bir sofra gereci.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An empty jar.",
+  "tr": "Boş bir kavanoz.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An enormous and heavy spear with a large bladed head.",
+  "tr": "Büyük bıçaklı uca sahip, kocaman ve ağır bir mızrak.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An enormous halberd made from solid metal. It is too big and heavy to wield as a weapon.",
+  "tr": "Som metalden yapılmış devasa bir teber. Silah olarak kullanılamayacak kadar büyük ve ağır.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An extremely large and heavy sword of unusual design. Its weight and grip make it impossible to use.",
+  "tr": "Alışılmadık tasarımda, son derece büyük ve ağır bir kılıç. Ağırlığı ve kabzası kullanılmasını imkânsız kılıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An ink pot.",
+  "tr": "Bir mürekkep hokkası.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An old and rusted short sword.",
+  "tr": "Eski ve paslanmış bir kısa kılıç.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An old and rusty long sleeved chain shirt.",
+  "tr": "Eski ve paslı, uzun kollu bir zincir gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An ornate dagger. [sq]",
+  "tr": "Süslü bir hançer. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An ornate iron key.",
+  "tr": "Süslü bir demir anahtar.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An ornate mace made entirely of some metal similar to brass. [sq]",
+  "tr": "Tamamen pirince benzer bir metalden yapılmış süslü bir gürz. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An ornate sceptre holding what seem to be very large gemstones. When you hold it you feel as though your mind can focus on more things at once. [sc]",
+  "tr": "Üzerinde çok büyük değerli taşlar bulunan süslü bir asa. Onu tuttuğunda zihnin aynı anda daha fazla şeye odaklanabiliyormuş gibi hissediyorsun. [sc]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "An ornate sword. [sq]",
+  "tr": "Süslü bir kılıç. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Arm Harness",
+  "tr": "Kol Zırhı",
+  "kind": "ad"
+ },
+ {
+  "en": "Arming Cap",
+  "tr": "Zırh Altı Kep",
+  "kind": "ad"
+ },
+ {
+  "en": "Arming Jack",
+  "tr": "Zırh Altı Ceket",
+  "kind": "ad"
+ },
+ {
+  "en": "Armour",
+  "tr": "Zırh",
+  "kind": "ad"
+ },
+ {
+  "en": "As you touch the pendant a soothing sensation washes over you.",
+  "tr": "Kolyeye dokunduğunda içini yatıştırıcı bir his kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Awl Pike",
+  "tr": "Mızraklı Kargı",
+  "kind": "ad"
+ },
+ {
+  "en": "Axe",
+  "tr": "Balta",
+  "kind": "ad"
+ },
+ {
+  "en": "Ball",
+  "tr": "Top",
+  "kind": "ad"
+ },
+ {
+  "en": "Bar Mace",
+  "tr": "Çubuk Gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "Bardiche",
+  "tr": "Bardiş",
+  "kind": "ad"
+ },
+ {
+  "en": "Barrel Lid",
+  "tr": "Fıçı Kapağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Baton",
+  "tr": "Değnek",
+  "kind": "ad"
+ },
+ {
+  "en": "Battle Axe",
+  "tr": "Savaş Baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "Bedpan",
+  "tr": "Lazımlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Bevor",
+  "tr": "Gerdanlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Billhook",
+  "tr": "Budama Bıçağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Binding of the Dead",
+  "tr": "Ölülerin Bağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Binding of the Dead by Linus Fendrick.\r\n\r\nThe pages of this book are stuck together and ruined by copious amounts of blood.",
+  "tr": "Ölülerin Bağı, yazan Linus Fendrick.\r\n\r\nBu kitabın sayfaları birbirine yapışmış, bolca kanla mahvolmuş.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Blacksmith's Hammer",
+  "tr": "Demirci Çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "Book",
+  "tr": "Kitap",
+  "kind": "ad"
+ },
+ {
+  "en": "Boots",
+  "tr": "Çizme",
+  "kind": "ad"
+ },
+ {
+  "en": "Bottle",
+  "tr": "Şişe",
+  "kind": "ad"
+ },
+ {
+  "en": "Bowl",
+  "tr": "Kâse",
+  "kind": "ad"
+ },
+ {
+  "en": "Box",
+  "tr": "Kutu",
+  "kind": "ad"
+ },
+ {
+  "en": "Bracelet",
+  "tr": "Bilezik",
+  "kind": "ad"
+ },
+ {
+  "en": "Brass Ingot",
+  "tr": "Pirinç Külçesi",
+  "kind": "ad"
+ },
+ {
+  "en": "Brass Plate",
+  "tr": "Pirinç Plaka",
+  "kind": "ad"
+ },
+ {
+  "en": "Breastplate",
+  "tr": "Göğüs Zırhı",
+  "kind": "ad"
+ },
+ {
+  "en": "Brigandine",
+  "tr": "Brigandin",
+  "kind": "ad"
+ },
+ {
+  "en": "Broken Disc",
+  "tr": "Kırık Disk",
+  "kind": "ad"
+ },
+ {
+  "en": "Broom",
+  "tr": "Süpürge",
+  "kind": "ad"
+ },
+ {
+  "en": "Brush",
+  "tr": "Fırça",
+  "kind": "ad"
+ },
+ {
+  "en": "Buckler",
+  "tr": "Küçük Kalkan",
+  "kind": "ad"
+ },
+ {
+  "en": "Buff Leather Coat",
+  "tr": "Kalın Deri Palto",
+  "kind": "ad"
+ },
+ {
+  "en": "Bundle",
+  "tr": "Bohça",
+  "kind": "ad"
+ },
+ {
+  "en": "Cabinet",
+  "tr": "Dolap",
+  "kind": "ad"
+ },
+ {
+  "en": "Cage Bar",
+  "tr": "Kafes Demiri",
+  "kind": "ad"
+ },
+ {
+  "en": "Candle",
+  "tr": "Mum",
+  "kind": "ad"
+ },
+ {
+  "en": "Candle Holder",
+  "tr": "Mumluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Candle Stick",
+  "tr": "Şamdan",
+  "kind": "ad"
+ },
+ {
+  "en": "Carpentry Knife",
+  "tr": "Marangoz Bıçağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Carpentry Tool",
+  "tr": "Marangoz Aleti",
+  "kind": "ad"
+ },
+ {
+  "en": "Carrier",
+  "tr": "Taşıyıcı",
+  "kind": "ad"
+ },
+ {
+  "en": "Cartwright's Tool",
+  "tr": "Arabacı Aleti",
+  "kind": "ad"
+ },
+ {
+  "en": "Case",
+  "tr": "Kasa",
+  "kind": "ad"
+ },
+ {
+  "en": "Chain Shirt",
+  "tr": "Zincir Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Chalk",
+  "tr": "Tebeşir",
+  "kind": "ad"
+ },
+ {
+  "en": "Charcoal",
+  "tr": "Kömür",
+  "kind": "ad"
+ },
+ {
+  "en": "Chest",
+  "tr": "Sandık",
+  "kind": "ad"
+ },
+ {
+  "en": "Chest of drawers",
+  "tr": "Çekmeceli Dolap",
+  "kind": "ad"
+ },
+ {
+  "en": "Chisel",
+  "tr": "Keski",
+  "kind": "ad"
+ },
+ {
+  "en": "Clamp",
+  "tr": "Mengene",
+  "kind": "ad"
+ },
+ {
+  "en": "Clay",
+  "tr": "Kil",
+  "kind": "ad"
+ },
+ {
+  "en": "Clay Head",
+  "tr": "Kil Kafa",
+  "kind": "ad"
+ },
+ {
+  "en": "Cleaver",
+  "tr": "Satır",
+  "kind": "ad"
+ },
+ {
+  "en": "Cloth Leggings",
+  "tr": "Kumaş Tozluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Cloth Shirt",
+  "tr": "Kumaş Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Cloth Trousers",
+  "tr": "Kumaş Pantolon",
+  "kind": "ad"
+ },
+ {
+  "en": "Club",
+  "tr": "Sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "Coat",
+  "tr": "Palto",
+  "kind": "ad"
+ },
+ {
+  "en": "Cobbler's Hammer",
+  "tr": "Kunduracı Çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "Cobbler's Tool",
+  "tr": "Kunduracı Aleti",
+  "kind": "ad"
+ },
+ {
+  "en": "Collar",
+  "tr": "Boyunluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Comb",
+  "tr": "Tarak",
+  "kind": "ad"
+ },
+ {
+  "en": "Compass",
+  "tr": "Pusula",
+  "kind": "ad"
+ },
+ {
+  "en": "Copper Ingot",
+  "tr": "Bakır Külçesi",
+  "kind": "ad"
+ },
+ {
+  "en": "Cork Lid",
+  "tr": "Mantar Kapak",
+  "kind": "ad"
+ },
+ {
+  "en": "Counter",
+  "tr": "Tezgah",
+  "kind": "ad"
+ },
+ {
+  "en": "Couters",
+  "tr": "Dirseklik",
+  "kind": "ad"
+ },
+ {
+  "en": "Crutch",
+  "tr": "Koltuk Değneği",
+  "kind": "ad"
+ },
+ {
+  "en": "Crystal",
+  "tr": "Kristal",
+  "kind": "ad"
+ },
+ {
+  "en": "Cudgel",
+  "tr": "Sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "Cuirass",
+  "tr": "Göğüslük",
+  "kind": "ad"
+ },
+ {
+  "en": "Cuisses",
+  "tr": "Uylukluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Cup",
+  "tr": "Bardak",
+  "kind": "ad"
+ },
+ {
+  "en": "Cupboard",
+  "tr": "Dolap",
+  "kind": "ad"
+ },
+ {
+  "en": "Cushion",
+  "tr": "Minder",
+  "kind": "ad"
+ },
+ {
+  "en": "Dagger",
+  "tr": "Hançer",
+  "kind": "ad"
+ },
+ {
+  "en": "Decanter",
+  "tr": "Sürahi",
+  "kind": "ad"
+ },
+ {
+  "en": "Deconstructing Humanity",
+  "tr": "İnsanlığı Çözümlemek",
+  "kind": "ad"
+ },
+ {
+  "en": "Deconstructing Humanity by Aldair Hanks.\r\n\r\nA medical book on human anatomy. Mostly complex diagrams and surgical terminology. There are many underlined passages and circled diagrams in the section that deals with the brain.",
+  "tr": "İnsanlığı Çözümlemek, Aldair Hanks.\r\n\r\nİnsan anatomisi üzerine tıbbi bir kitap. Çoğunlukla karmaşık şemalar ve cerrahi terimlerden oluşuyor. Beyni ele alan bölümde altı çizili birçok satır ve daire içine alınmış şema var.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Desk",
+  "tr": "Yazı Masası",
+  "kind": "ad"
+ },
+ {
+  "en": "Device",
+  "tr": "Düzenek",
+  "kind": "ad"
+ },
+ {
+  "en": "Diamond",
+  "tr": "Elmas",
+  "kind": "ad"
+ },
+ {
+  "en": "Die",
+  "tr": "Zar",
+  "kind": "ad"
+ },
+ {
+  "en": "Dish",
+  "tr": "Tabak",
+  "kind": "ad"
+ },
+ {
+  "en": "Diviner's Deck",
+  "tr": "Falcı Destesi",
+  "kind": "ad"
+ },
+ {
+  "en": "Dolly",
+  "tr": "El Arabası",
+  "kind": "ad"
+ },
+ {
+  "en": "Doublet",
+  "tr": "Cepken",
+  "kind": "ad"
+ },
+ {
+  "en": "Drawer",
+  "tr": "Çekmece",
+  "kind": "ad"
+ },
+ {
+  "en": "Drawing Compass",
+  "tr": "Pergel",
+  "kind": "ad"
+ },
+ {
+  "en": "Drawknife",
+  "tr": "Çekme Bıçağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Drill",
+  "tr": "Matkap",
+  "kind": "ad"
+ },
+ {
+  "en": "Emerald",
+  "tr": "Zümrüt",
+  "kind": "ad"
+ },
+ {
+  "en": "Falchion",
+  "tr": "Pala",
+  "kind": "ad"
+ },
+ {
+  "en": "Figurine",
+  "tr": "Heykelcik",
+  "kind": "ad"
+ },
+ {
+  "en": "Fire Poker",
+  "tr": "Ateş Demiri",
+  "kind": "ad"
+ },
+ {
+  "en": "Fireplace Shovel",
+  "tr": "Şömine Küreği",
+  "kind": "ad"
+ },
+ {
+  "en": "Fireplace Tongs",
+  "tr": "Şömine Maşası",
+  "kind": "ad"
+ },
+ {
+  "en": "Flail",
+  "tr": "Gürz Zinciri",
+  "kind": "ad"
+ },
+ {
+  "en": "Flanged Mace",
+  "tr": "Kanatlı Gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "Flask",
+  "tr": "Matara",
+  "kind": "ad"
+ },
+ {
+  "en": "Forgotten",
+  "tr": "Unutulanlar",
+  "kind": "ad"
+ },
+ {
+  "en": "Forgotten by Aime Koren.\r\n\r\nA scholarly book about memory and cognizance. What we forget and why we forget it, how we choose to make a history for ourselves regardless of the facts, how we are defined by the wholly unreliable and subjective thing we call memory.",
+  "tr": "Unutulanlar, Aime Koren.\r\n\r\nBellek ve bilinç üzerine akademik bir kitap. Neyi neden unuttuğumuzu, gerçekler ne olursa olsun kendimize nasıl bir geçmiş kurduğumuzu, bellek dediğimiz o tümüyle güvenilmez ve öznel şeyin bizi nasıl tanımladığını anlatıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Fork",
+  "tr": "Çatal",
+  "kind": "ad"
+ },
+ {
+  "en": "Funnel",
+  "tr": "Huni",
+  "kind": "ad"
+ },
+ {
+  "en": "Gambeson",
+  "tr": "Gambezon",
+  "kind": "ad"
+ },
+ {
+  "en": "Game Piece",
+  "tr": "Oyun Taşı",
+  "kind": "ad"
+ },
+ {
+  "en": "Gauntlets",
+  "tr": "Zırhlı Eldiven",
+  "kind": "ad"
+ },
+ {
+  "en": "Ghosts",
+  "tr": "Hayaletler",
+  "kind": "ad"
+ },
+ {
+  "en": "Glaive",
+  "tr": "Glavye",
+  "kind": "ad"
+ },
+ {
+  "en": "Glass Bowl",
+  "tr": "Cam Kase",
+  "kind": "ad"
+ },
+ {
+  "en": "Glass Goblet",
+  "tr": "Cam Kadeh",
+  "kind": "ad"
+ },
+ {
+  "en": "Glass Ornament",
+  "tr": "Cam Süs",
+  "kind": "ad"
+ },
+ {
+  "en": "Gloves",
+  "tr": "Eldiven",
+  "kind": "ad"
+ },
+ {
+  "en": "Goblet",
+  "tr": "Kadeh",
+  "kind": "ad"
+ },
+ {
+  "en": "Grand Falchion",
+  "tr": "Büyük Pala",
+  "kind": "ad"
+ },
+ {
+  "en": "Great Axe",
+  "tr": "Büyük Balta",
+  "kind": "ad"
+ },
+ {
+  "en": "Greatsword",
+  "tr": "Büyük Kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "Greaves",
+  "tr": "Baldırlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Guisarme",
+  "tr": "Gizarm",
+  "kind": "ad"
+ },
+ {
+  "en": "Hair Brush",
+  "tr": "Saç Fırçası",
+  "kind": "ad"
+ },
+ {
+  "en": "Halberd",
+  "tr": "Teber",
+  "kind": "ad"
+ },
+ {
+  "en": "Hammer",
+  "tr": "Çekiç",
+  "kind": "ad"
+ },
+ {
+  "en": "Hand Mirror",
+  "tr": "El Aynası",
+  "kind": "ad"
+ },
+ {
+  "en": "Hand Saw",
+  "tr": "El Testeresi",
+  "kind": "ad"
+ },
+ {
+  "en": "Hat",
+  "tr": "Şapka",
+  "kind": "ad"
+ },
+ {
+  "en": "Hatchet",
+  "tr": "El Baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "Heater Shield",
+  "tr": "Üçgen Kalkan",
+  "kind": "ad"
+ },
+ {
+  "en": "Helm",
+  "tr": "Miğfer",
+  "kind": "ad"
+ },
+ {
+  "en": "Helmet",
+  "tr": "Miğfer",
+  "kind": "ad"
+ },
+ {
+  "en": "Hole Puncher",
+  "tr": "Delgeç",
+  "kind": "ad"
+ },
+ {
+  "en": "Hook",
+  "tr": "Kanca",
+  "kind": "ad"
+ },
+ {
+  "en": "Horn",
+  "tr": "Boynuz",
+  "kind": "ad"
+ },
+ {
+  "en": "Hose",
+  "tr": "Çorap",
+  "kind": "ad"
+ },
+ {
+  "en": "Hourglass",
+  "tr": "Kum Saati",
+  "kind": "ad"
+ },
+ {
+  "en": "If you find this item please report it.",
+  "tr": "Bu eşyayı bulursanız lütfen bildirin.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Inkpot",
+  "tr": "Mürekkep Hokkası",
+  "kind": "ad"
+ },
+ {
+  "en": "Iron Ingot",
+  "tr": "Demir Külçe",
+  "kind": "ad"
+ },
+ {
+  "en": "Jacket",
+  "tr": "Ceket",
+  "kind": "ad"
+ },
+ {
+  "en": "Jar",
+  "tr": "Kavanoz",
+  "kind": "ad"
+ },
+ {
+  "en": "Journal",
+  "tr": "Günlük",
+  "kind": "ad"
+ },
+ {
+  "en": "Jug",
+  "tr": "Testi",
+  "kind": "ad"
+ },
+ {
+  "en": "Juggling Club",
+  "tr": "Hokkabaz Sopası",
+  "kind": "ad"
+ },
+ {
+  "en": "Kerchief",
+  "tr": "Başörtüsü",
+  "kind": "ad"
+ },
+ {
+  "en": "Key",
+  "tr": "Anahtar",
+  "kind": "ad"
+ },
+ {
+  "en": "Kite Shield",
+  "tr": "Badem Kalkan",
+  "kind": "ad"
+ },
+ {
+  "en": "Knife",
+  "tr": "Bıçak",
+  "kind": "ad"
+ },
+ {
+  "en": "Ladel",
+  "tr": "Kepçe",
+  "kind": "ad"
+ },
+ {
+  "en": "Ladle",
+  "tr": "Kepçe",
+  "kind": "ad"
+ },
+ {
+  "en": "Lamellar Greaves",
+  "tr": "Lamelli Baldırlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Lamellar Vest",
+  "tr": "Lamelli Yelek",
+  "kind": "ad"
+ },
+ {
+  "en": "Large Mallet",
+  "tr": "Büyük Tokmak",
+  "kind": "ad"
+ },
+ {
+  "en": "Large Pan",
+  "tr": "Büyük Tava",
+  "kind": "ad"
+ },
+ {
+  "en": "Latrine",
+  "tr": "Hela",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Armour",
+  "tr": "Deri Zırh",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Belt",
+  "tr": "Deri Kemer",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Boots",
+  "tr": "Deri Çizme",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Cap",
+  "tr": "Deri Kep",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Coat",
+  "tr": "Deri Palto",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Gloves",
+  "tr": "Deri Eldiven",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Greaves",
+  "tr": "Deri Baldırlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Helm",
+  "tr": "Deri Miğfer",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Leggings",
+  "tr": "Deri Tozluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Shoes",
+  "tr": "Deri Ayakkabı",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Trousers",
+  "tr": "Deri Pantolon",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Tunic",
+  "tr": "Deri Tunik",
+  "kind": "ad"
+ },
+ {
+  "en": "Leather Vest",
+  "tr": "Deri Yelek",
+  "kind": "ad"
+ },
+ {
+  "en": "Lid",
+  "tr": "Kapak",
+  "kind": "ad"
+ },
+ {
+  "en": "Life of Linus Fendrick",
+  "tr": "Linus Fendrick'in Hayatı",
+  "kind": "ad"
+ },
+ {
+  "en": "Life of Linus Fendrick by Anonymous.\r\n\r\nA famous book with an even more famous story surrounding it, often told by mothers to their young children, a cautionary tale on the dark and sinister trappings of thaumaturgy. Fendrick was a gifted thaumaturge who lost his young wife and three children in some gruesome accident. He was thus driven to necromancy in the hope of resurrecting them, not the traditional crude raising of the dead, but with full sentience and cognizance. His practices and experiments were most vile in nature. Kidnappings, torture, murder, keeping his family's bodies in a state between life and death for some forty years; his crimes were plentiful and led to nothing save failure and despair.",
+  "tr": "Linus Fendrick'in Hayatı, Anonim.\r\n\r\nÜnlü bir kitap, ama etrafında dolaşan hikâye ondan da ünlüdür; annelerin küçük çocuklarına sıkça anlattığı, tılsımcılığın karanlık ve uğursuz tuzaklarına dair ibret verici bir masal. Fendrick, korkunç bir kazada genç karısını ve üç çocuğunu yitiren yetenekli bir tılsımcıydı. Onları geri getirme umuduyla nekromansiye saptı; ölüleri kaba saba diriltmenin bilindik yoluna değil, tam bir bilinç ve idrakle canlandırmanın yoluna. Yöntemleri ve deneyleri son derece iğrençti. Adam kaçırmalar, işkenceler, cinayetler, ailesinin bedenlerini kırk yıl boyunca yaşamla ölüm arasında tutması; suçları saymakla bitmezdi ve hepsi başarısızlık ile umutsuzluktan başka bir şey getirmedi.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Long Knife",
+  "tr": "Uzun Bıçak",
+  "kind": "ad"
+ },
+ {
+  "en": "Longsword",
+  "tr": "Uzun Kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "Mace",
+  "tr": "Gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "Mail Coif",
+  "tr": "Zincir Başlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Mail Gauntlets",
+  "tr": "Zincir Zırhlı Eldiven",
+  "kind": "ad"
+ },
+ {
+  "en": "Mail Leggings",
+  "tr": "Zincir Tozluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Mail Shirt",
+  "tr": "Zincir Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Mail Vest",
+  "tr": "Zincir Yelek",
+  "kind": "ad"
+ },
+ {
+  "en": "Makeup Box",
+  "tr": "Makyaj Kutusu",
+  "kind": "ad"
+ },
+ {
+  "en": "Mallet",
+  "tr": "Ahşap Çekiç",
+  "kind": "ad"
+ },
+ {
+  "en": "Marble Urn",
+  "tr": "Mermer Vazo",
+  "kind": "ad"
+ },
+ {
+  "en": "Mask",
+  "tr": "Maske",
+  "kind": "ad"
+ },
+ {
+  "en": "Maul",
+  "tr": "Tokmak",
+  "kind": "ad"
+ },
+ {
+  "en": "Metal Bar",
+  "tr": "Metal Çubuk",
+  "kind": "ad"
+ },
+ {
+  "en": "Metal Crutch",
+  "tr": "Metal Koltuk Değneği",
+  "kind": "ad"
+ },
+ {
+  "en": "Metal Stake",
+  "tr": "Metal Kazık",
+  "kind": "ad"
+ },
+ {
+  "en": "Mitts",
+  "tr": "Kalın Eldiven",
+  "kind": "ad"
+ },
+ {
+  "en": "Mortar",
+  "tr": "Havan",
+  "kind": "ad"
+ },
+ {
+  "en": "Musical Instrument",
+  "tr": "Müzik Aleti",
+  "kind": "ad"
+ },
+ {
+  "en": "Muzzle",
+  "tr": "Ağızlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Nail",
+  "tr": "Çivi",
+  "kind": "ad"
+ },
+ {
+  "en": "Old Parchment",
+  "tr": "Eski Parşömen",
+  "kind": "ad"
+ },
+ {
+  "en": "Only a hard residue remains at the bottom of this jar.",
+  "tr": "Bu kavanozun dibinde yalnızca sert bir tortu kalmış.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Optics",
+  "tr": "Mercek",
+  "kind": "ad"
+ },
+ {
+  "en": "Orb",
+  "tr": "Küre",
+  "kind": "ad"
+ },
+ {
+  "en": "Padded Cap",
+  "tr": "Dolgulu Kep",
+  "kind": "ad"
+ },
+ {
+  "en": "Padded Coat",
+  "tr": "Dolgulu Palto",
+  "kind": "ad"
+ },
+ {
+  "en": "Padded Shirt",
+  "tr": "Dolgulu Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Paint Brush",
+  "tr": "Boya Fırçası",
+  "kind": "ad"
+ },
+ {
+  "en": "Paint Pot",
+  "tr": "Boya Kabı",
+  "kind": "ad"
+ },
+ {
+  "en": "Palette",
+  "tr": "Palet",
+  "kind": "ad"
+ },
+ {
+  "en": "Pan",
+  "tr": "Tava",
+  "kind": "ad"
+ },
+ {
+  "en": "Pan ",
+  "tr": "Tava ",
+  "kind": "ad"
+ },
+ {
+  "en": "Pan Lid",
+  "tr": "Tava Kapağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Parchment",
+  "tr": "Parşömen",
+  "kind": "ad"
+ },
+ {
+  "en": "Peg",
+  "tr": "Ahşap Çivi",
+  "kind": "ad"
+ },
+ {
+  "en": "Pen",
+  "tr": "Kalem",
+  "kind": "ad"
+ },
+ {
+  "en": "Pendant",
+  "tr": "Kolye Ucu",
+  "kind": "ad"
+ },
+ {
+  "en": "Perfume Bottle",
+  "tr": "Parfüm Şişesi",
+  "kind": "ad"
+ },
+ {
+  "en": "Pestle",
+  "tr": "Havan Eli",
+  "kind": "ad"
+ },
+ {
+  "en": "Pick Axe",
+  "tr": "Kazma",
+  "kind": "ad"
+ },
+ {
+  "en": "PickAxe",
+  "tr": "Kazma",
+  "kind": "ad"
+ },
+ {
+  "en": "Pipe",
+  "tr": "Pipo",
+  "kind": "ad"
+ },
+ {
+  "en": "Pitchfork",
+  "tr": "Dirgen",
+  "kind": "ad"
+ },
+ {
+  "en": "Plane",
+  "tr": "Rende",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate",
+  "tr": "Tabak",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Armour",
+  "tr": "Plaka Zırh",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Cuisses",
+  "tr": "Plaka Uylukluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Gauntlets",
+  "tr": "Plaka Zırhlı Eldiven",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Greaves",
+  "tr": "Plaka Baldırlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Helm",
+  "tr": "Plaka Miğfer",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Leggings",
+  "tr": "Plaka Tozluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Plate Sabatons",
+  "tr": "Plaka Zırhlı Pabuç",
+  "kind": "ad"
+ },
+ {
+  "en": "Playing Card",
+  "tr": "Oyun Kâğıdı",
+  "kind": "ad"
+ },
+ {
+  "en": "Pole Axe",
+  "tr": "Uzun Saplı Balta",
+  "kind": "ad"
+ },
+ {
+  "en": "Pole Hammer",
+  "tr": "Uzun Saplı Çekiç",
+  "kind": "ad"
+ },
+ {
+  "en": "Portrait",
+  "tr": "Portre",
+  "kind": "ad"
+ },
+ {
+  "en": "Pot",
+  "tr": "Tencere",
+  "kind": "ad"
+ },
+ {
+  "en": "Pouch",
+  "tr": "Kese",
+  "kind": "ad"
+ },
+ {
+  "en": "Pourpoint",
+  "tr": "Kapitone Ceket",
+  "kind": "ad"
+ },
+ {
+  "en": "Powder Box",
+  "tr": "Pudra Kutusu",
+  "kind": "ad"
+ },
+ {
+  "en": "Proctor's Seal",
+  "tr": "Proktor Mührü",
+  "kind": "ad"
+ },
+ {
+  "en": "Prosthesis",
+  "tr": "Protez",
+  "kind": "ad"
+ },
+ {
+  "en": "Prosthetic Leg",
+  "tr": "Protez Bacak",
+  "kind": "ad"
+ },
+ {
+  "en": "Pugilist's Gloves",
+  "tr": "Dövüşçü Eldiveni",
+  "kind": "ad"
+ },
+ {
+  "en": "Purse",
+  "tr": "Para Kesesi",
+  "kind": "ad"
+ },
+ {
+  "en": "Quarterstaff",
+  "tr": "Uzun Sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "Quill Pen",
+  "tr": "Tüy Kalem",
+  "kind": "ad"
+ },
+ {
+  "en": "Quilted Trousers",
+  "tr": "Kapitone Pantolon",
+  "kind": "ad"
+ },
+ {
+  "en": "REPORT THIS",
+  "tr": "REPORT THIS",
+  "kind": "degismez"
+ },
+ {
+  "en": "Rake",
+  "tr": "Tırmık",
+  "kind": "ad"
+ },
+ {
+  "en": "Reinforced Chest",
+  "tr": "Takviyeli Sandık",
+  "kind": "ad"
+ },
+ {
+  "en": "Rerebraces",
+  "tr": "Pazuluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Retort",
+  "tr": "İmbik",
+  "kind": "ad"
+ },
+ {
+  "en": "Rod",
+  "tr": "Çubuk",
+  "kind": "ad"
+ },
+ {
+  "en": "Rolling Pin",
+  "tr": "Oklava",
+  "kind": "ad"
+ },
+ {
+  "en": "Rope",
+  "tr": "İp",
+  "kind": "ad"
+ },
+ {
+  "en": "Round Knife",
+  "tr": "Yuvarlak Bıçak",
+  "kind": "ad"
+ },
+ {
+  "en": "Round Shield",
+  "tr": "Yuvarlak Kalkan",
+  "kind": "ad"
+ },
+ {
+  "en": "Ruby",
+  "tr": "Yakut",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Chisel",
+  "tr": "Paslı Keski",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Mallet",
+  "tr": "Paslı Tokmak",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Metal Bar",
+  "tr": "Paslı Metal Çubuk",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Pick Axe",
+  "tr": "Paslı Kazma",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Rake",
+  "tr": "Paslı Tırmık",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Scraper",
+  "tr": "Paslı Raspa",
+  "kind": "ad"
+ },
+ {
+  "en": "Rusty Shovel",
+  "tr": "Paslı Kürek",
+  "kind": "ad"
+ },
+ {
+  "en": "SIlk Trousers",
+  "tr": "İpek Pantolon",
+  "kind": "ad"
+ },
+ {
+  "en": "Sabatons",
+  "tr": "Zırhlı Pabuç",
+  "kind": "ad"
+ },
+ {
+  "en": "Sack",
+  "tr": "Çuval",
+  "kind": "ad"
+ },
+ {
+  "en": "Sandals",
+  "tr": "Sandalet",
+  "kind": "ad"
+ },
+ {
+  "en": "Sapphire",
+  "tr": "Safir",
+  "kind": "ad"
+ },
+ {
+  "en": "Sash",
+  "tr": "Kuşak",
+  "kind": "ad"
+ },
+ {
+  "en": "Satchel",
+  "tr": "Heybe",
+  "kind": "ad"
+ },
+ {
+  "en": "Saw",
+  "tr": "Testere",
+  "kind": "ad"
+ },
+ {
+  "en": "Scales",
+  "tr": "Terazi",
+  "kind": "ad"
+ },
+ {
+  "en": "Sceptre",
+  "tr": "Asa",
+  "kind": "ad"
+ },
+ {
+  "en": "Scoop",
+  "tr": "Kepçe",
+  "kind": "ad"
+ },
+ {
+  "en": "Scraper",
+  "tr": "Raspa",
+  "kind": "ad"
+ },
+ {
+  "en": "Seal",
+  "tr": "Mühür",
+  "kind": "ad"
+ },
+ {
+  "en": "Shackles",
+  "tr": "Pranga",
+  "kind": "ad"
+ },
+ {
+  "en": "Shears",
+  "tr": "Makas",
+  "kind": "ad"
+ },
+ {
+  "en": "Shield",
+  "tr": "Kalkan",
+  "kind": "ad"
+ },
+ {
+  "en": "Shirt",
+  "tr": "Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Shoes",
+  "tr": "Ayakkabı",
+  "kind": "ad"
+ },
+ {
+  "en": "Short Spear",
+  "tr": "Kısa Mızrak",
+  "kind": "ad"
+ },
+ {
+  "en": "Shortsword",
+  "tr": "Kısa Kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "Shovel",
+  "tr": "Kürek",
+  "kind": "ad"
+ },
+ {
+  "en": "Sickle",
+  "tr": "Orak",
+  "kind": "ad"
+ },
+ {
+  "en": "Silk Shirt",
+  "tr": "İpek Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Silver Talin",
+  "tr": "Gümüş Talin",
+  "kind": "ad"
+ },
+ {
+  "en": "Skull",
+  "tr": "Kafatası",
+  "kind": "ad"
+ },
+ {
+  "en": "Slate",
+  "tr": "Yazı Tahtası",
+  "kind": "ad"
+ },
+ {
+  "en": "Sledgehammer",
+  "tr": "Balyoz",
+  "kind": "ad"
+ },
+ {
+  "en": "Soap",
+  "tr": "Sabun",
+  "kind": "ad"
+ },
+ {
+  "en": "Spatula",
+  "tr": "Spatula",
+  "kind": "ad"
+ },
+ {
+  "en": "Spaulders",
+  "tr": "Omuzluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Spear",
+  "tr": "Mızrak",
+  "kind": "ad"
+ },
+ {
+  "en": "Spetum",
+  "tr": "Spetum",
+  "kind": "ad"
+ },
+ {
+  "en": "Spice Holder",
+  "tr": "Baharatlık",
+  "kind": "ad"
+ },
+ {
+  "en": "Spiked Club",
+  "tr": "Çivili Sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "Spiked Mace",
+  "tr": "Çivili Gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "Splint Cuisses",
+  "tr": "Şeritli Uylukluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Spoon",
+  "tr": "Kaşık",
+  "kind": "ad"
+ },
+ {
+  "en": "Sprayer",
+  "tr": "Püskürtücü",
+  "kind": "ad"
+ },
+ {
+  "en": "Square Shield",
+  "tr": "Kare Kalkan",
+  "kind": "ad"
+ },
+ {
+  "en": "Stage Crown",
+  "tr": "Sahne Tacı",
+  "kind": "ad"
+ },
+ {
+  "en": "Stage Sword",
+  "tr": "Sahne Kılıcı",
+  "kind": "ad"
+ },
+ {
+  "en": "Stand",
+  "tr": "Sehpa",
+  "kind": "ad"
+ },
+ {
+  "en": "Stone Chest",
+  "tr": "Taş Sandık",
+  "kind": "ad"
+ },
+ {
+  "en": "Storage",
+  "tr": "Depo",
+  "kind": "ad"
+ },
+ {
+  "en": "String",
+  "tr": "Sicim",
+  "kind": "ad"
+ },
+ {
+  "en": "Strongbox",
+  "tr": "Kasa",
+  "kind": "ad"
+ },
+ {
+  "en": "Suede Shirt",
+  "tr": "Süet Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Suede Trousers",
+  "tr": "Süet Pantolon",
+  "kind": "ad"
+ },
+ {
+  "en": "Surgical Caliper",
+  "tr": "Cerrahi Kumpas",
+  "kind": "ad"
+ },
+ {
+  "en": "Surgical Tool",
+  "tr": "Cerrahi Alet",
+  "kind": "ad"
+ },
+ {
+  "en": "Sword",
+  "tr": "Kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "Syringe",
+  "tr": "Şırınga",
+  "kind": "ad"
+ },
+ {
+  "en": "Tailoring Knife",
+  "tr": "Terzi Bıçağı",
+  "kind": "ad"
+ },
+ {
+  "en": "Tailoring Tool",
+  "tr": "Terzi Aleti",
+  "kind": "ad"
+ },
+ {
+  "en": "Tankard",
+  "tr": "Maşrapa",
+  "kind": "ad"
+ },
+ {
+  "en": "The Earth on which we walk is our mother, she provides for us all that we may need. Our ancestors, in their mad lust for power sought more, they began to dig deep into our Earth, in search of her lifeblood. And so by digging they uncovered the Underworld and its fearsome Guardian. He sent forth terrible demons to drive them out and hunt them down. Before all could be slain, our ancient kin sealed the entrances to the Underworld and swore never to return. Thus are we allowed to live upon this Earth, but ever under the watchful eye of the Guardian.",
+  "tr": "Üzerinde yürüdüğümüz Toprak anamızdır; ihtiyacımız olan her şeyi bize o verir. Atalarımız, çılgın güç hırsıyla daha fazlasını istediler ve Toprak'ın can suyunu aramak için derinlere kazmaya başladılar. Böylece kazdıkça Yeraltı'nı ve orada bekleyen dehşet verici Muhafız'ı açığa çıkardılar. Muhafız, onları kovmak ve avlamak için korkunç iblisler gönderdi. Hepsi katledilmeden önce kadim soyumuz Yeraltı'nın girişlerini mühürledi ve bir daha asla dönmemeye ant içti. İşte bu yüzden bu Toprak üzerinde yaşamamıza izin verilir, ama daima Muhafız'ın gözü üzerimizdedir.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "The Forgotten Power",
+  "tr": "Unutulmuş Güç",
+  "kind": "ad"
+ },
+ {
+  "en": "The Forgotten Power by Anonymous\r\n\r\nAccording to this book humans are powerful, immortal beings that have forgotten their true nature. That, by living your life by a certain moral code, performing certain rituals and eating a certain diet, you can achieve great power and ultimately unlock your dormant immortality.",
+  "tr": "Unutulmuş Güç, Anonim\r\n\r\nBu kitaba göre insanlar, gerçek doğalarını unutmuş güçlü ve ölümsüz varlıklardır. Belirli bir ahlak yasasına göre yaşayarak, belirli ayinleri yerine getirerek ve belirli bir beslenme düzenine uyarak büyük bir güce ulaşabilir ve nihayetinde uykudaki ölümsüzlüğünüzü açığa çıkarabilirsiniz.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "The Guardian of the Underworld",
+  "tr": "Yeraltı'nın Muhafızı",
+  "kind": "ad"
+ },
+ {
+  "en": "The Guardian's Wrath",
+  "tr": "Muhafız'ın Gazabı",
+  "kind": "ad"
+ },
+ {
+  "en": "The contents of this bottle have long ago evaporated.",
+  "tr": "Bu şişenin içindekiler çoktan buharlaşmış.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "The contents of this large jar seem to have turned to dust.",
+  "tr": "Bu büyük kavanozun içindekiler toza dönüşmüş gibi görünüyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "The label on this bottle reads:\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\nNephil's Elixir of Warding\r\n[/tcol]\r\nWards against and soothes pain, whether it be of tooth, of joint or any ailment or injury. It may cause a mild drowsiness.\r\n[scrp=n][algn=0]\r\n\r\n@WEAR75:The cork is sealed with wax and an oily liquid appears to be inside.\r\n\r\n@WEAR00:The bottle is empty.",
+  "tr": "Bu şişenin üzerindeki etikette şöyle yazıyor:\r\n[algn=2][scrp=i][tcol=FFF1CC]\r\nNephil'in Koruyucu İksiri\r\n[/tcol]\r\nDiş, eklem ya da herhangi bir rahatsızlık veya yaralanma kaynaklı ağrıyı önler ve dindirir. Hafif bir uyuşukluk yapabilir.\r\n[scrp=n][algn=0]\r\n\r\n@WEAR75:Mantarı mumla mühürlenmiş, içinde yağımsı bir sıvı görünüyor.\r\n\r\n@WEAR00:Şişe boş.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "The lid of a barrel, could be used as a crude shield.",
+  "tr": "Bir fıçının kapağı; kaba bir kalkan olarak kullanılabilir.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "These cards are commonly believed to give insights and guidance for the future. Some believe the diviner decides the path through the many branching roads of fate.",
+  "tr": "Bu kartların gelecek hakkında sezgi verdiğine ve yol gösterdiğine yaygın olarak inanılır. Kimileri ise kaderin çatallanan sayısız yolu arasındaki rotayı falcının belirlediğine inanır.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Thigh Boots",
+  "tr": "Uyluk Çizmesi",
+  "kind": "ad"
+ },
+ {
+  "en": "This appears to be the final page of a letter.\r\n\r\n\"... and assist him in whatever way you can. If all else fails then recover any information he has gathered and bring it to me. There is potential in you, succeed here and we will find a place for you.\r\n\r\nBadly scribbled across the back of the page are the following words:\r\n\r\n\"There is another way out\"",
+  "tr": "Bir mektubun son sayfası.\r\n\r\n\"... ve elinden geldiğince ona yardım et. Başka çare kalmazsa topladığı bilgileri alıp bana getir. Sende potansiyel var; burada başarılı ol, sana bir yer buluruz.\r\n\r\nSayfanın arkasına özensizce şunlar karalanmış:\r\n\r\n\"Başka bir çıkış yolu var\"",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This book explores various myths surrounding the Guardian but does so in what seems like a tendentious manner, casting him in a more positive light than he is commonly viewed in. You suspect it is tied to some cult dedicated to the worship of the Guardian.\r\n\r\nThe Guardian of the Underworld, known also as the Keeper of the Dead, is the most prominent figure in our mythology. As with most our myths it differs depending on whom you ask, the Guardian's role in particular is an ambivalent one. There is fear of what he represents and of his dark and dangerous realm but there is also a feeling of deference and a belief that he will watch over our loved ones once they pass away. We inter our dead to consign them to the Guardian's care and we believe that he will grant them a life beyond this one. Behind the intimidating titles and malicious curses the Guardian is also a giver of life. He is said to restore life to those that have fallen in his service, or that some become beholden to him owing to their resurrection. Perhaps the most notable myth is that in a time of dire need the Guardian will raise an army of those given into his care to defend us. What is it then that he guards? Does he simply watch over our dead and his dreadful realm or might it be that he is in fact our protector?",
+  "tr": "Bu kitap, Muhafız'ı çevreleyen çeşitli efsaneleri inceliyor; ancak bunu taraflı bir üslupla yapıyor ve onu yaygın kanıdan daha olumlu bir ışıkta gösteriyor. Muhafız'a tapınmaya adanmış bir tarikatla bağlantılı olduğundan şüpheleniyorsun.\r\n\r\nÖlülerin Bekçisi olarak da bilinen Yeraltı'nın Muhafızı, mitolojimizin en öne çıkan figürüdür. Efsanelerimizin çoğunda olduğu gibi anlatı kime sorduğuna göre değişir; özellikle Muhafız'ın rolü ikircikli bir roldür. Temsil ettiği şeyden ve karanlık, tehlikeli diyarından korkulur; ama aynı zamanda ona karşı bir saygı ve sevdiklerimiz göçüp gittiğinde onları kollayacağına dair bir inanç vardır. Ölülerimizi Muhafız'ın himayesine bırakmak için toprağa veririz ve onlara bu dünyanın ötesinde bir hayat bahşedeceğine inanırız. Ürkütücü unvanların ve kötücül lanetlerin ardında Muhafız aynı zamanda hayat verendir. Uğrunda can verenleri yeniden hayata döndürdüğü, bazılarının da bu diriliş yüzünden ona borçlandığı söylenir. Belki de en dikkat çekici efsane şudur: Büyük bir felaket anında Muhafız, himayesine verilenlerden bir ordu kurup bizi savunacaktır. Peki neyi korumaktadır? Yalnızca ölülerimizi ve o dehşetli diyarını mı gözetir, yoksa aslında bizim koruyucumuz mudur?",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This book presents itself as nothing more than a collection of absurd theories on the existence of ghosts, however there are parts written in a different tone.\r\n\r\n\"There is an innate power in the ghost realm, unlike the physical world it is not governed by the constraints of matter or the laws of physics. A ghost can conjure anything, any object or power they can simply call into being, much as we do when we dream. This however requires keen awareness of their condition, an understanding of their realm and their place within it. Most ghosts wander in a state of confusion, at the mercy of twisted thoughts and perceptions, but not all. There are those that have awakened, or perhaps never slept, never were in a dream like state. These wield great power, they can shape things not only in the ghost realm but within our own.\"",
+  "tr": "Bu kitap, hayaletlerin varlığına dair saçma kuramların bir derlemesinden başka bir şey değilmiş gibi görünüyor; yine de farklı bir üslupla yazılmış bölümler var.\r\n\r\n\"Hayalet diyarının özünde bir güç vardır; fiziksel dünyanın aksine orası maddenin kısıtlarına ya da fizik yasalarına tabi değildir. Bir hayalet her şeyi var edebilir; tıpkı rüya görürken bizim yaptığımız gibi, dilediği nesneyi ya da gücü çağırması yeter. Ancak bu, kendi durumunun keskin bir farkındalığını, diyarını ve orada kendi yerini kavramayı gerektirir. Hayaletlerin çoğu, çarpık düşüncelerin ve algıların insafına kalmış hâlde şaşkınlık içinde dolanır; ama hepsi değil. Uyanmış olanlar, belki de hiç uyumamış, hiç rüya benzeri bir hâle düşmemiş olanlar vardır. Onlar büyük bir güç taşır; yalnızca hayalet diyarında değil, bizim dünyamızda da bir şeylere biçim verebilirler.\"",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This helmet when worn grants vision even in complete darkness. [sq]",
+  "tr": "Bu miğfer takıldığında zifiri karanlıkta bile görüş sağlar. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This intricately designed and articulated arm harness looks cumbersome, but undoubtedly effective. [sq]",
+  "tr": "İnce işçilikli ve mafsallı bu kol zırhı hantal görünüyor, ama kuşkusuz etkili. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This large two-handed mace looks to be made of brass, but is deceptively light and features a fairly keen spike. [sq]",
+  "tr": "Bu büyük çift el gürzü pirinçten yapılmış gibi görünüyor, ama şaşırtıcı derecede hafif ve oldukça keskin bir sivri ucu var. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This mace has large flanges that form a hollow space lined with strange decorative elements. [sc]",
+  "tr": "Bu gürzün geniş kanatları, garip süs öğeleriyle kaplı boş bir hazne oluşturuyor. [sc]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This ornate battle axe is seemingly made largely of a brassy metal, but it's not as heavy as it looks. [sq]",
+  "tr": "Bu süslü savaş baltası büyük ölçüde pirinçimsi bir metalden yapılmış gibi duruyor, ama göründüğü kadar ağır değil. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This sword feels lighter than it looks and its balance shifts as you move it. This feels strange at first but you can see how it could be used to great effect. [sq]",
+  "tr": "Bu kılıç göründüğünden daha hafif hissettiriyor ve hareket ettirdikçe dengesi kayıyor. Başta tuhaf geliyor, ama ne büyük bir etkiyle kullanılabileceğini görebiliyorsun. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "This sword has a very unusual and intricate construction, and yet appears to still make an effective weapon. [sq]",
+  "tr": "Bu kılıcın yapısı hayli sıra dışı ve karmaşık, yine de etkili bir silah olduğu anlaşılıyor. [sq]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Thread",
+  "tr": "İplik",
+  "kind": "ad"
+ },
+ {
+  "en": "Throwing Axe",
+  "tr": "Fırlatma Baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "Token",
+  "tr": "Jeton",
+  "kind": "ad"
+ },
+ {
+  "en": "Tongs",
+  "tr": "Maşa",
+  "kind": "ad"
+ },
+ {
+  "en": "Topaz",
+  "tr": "Topaz",
+  "kind": "ad"
+ },
+ {
+  "en": "Torch",
+  "tr": "Meşale",
+  "kind": "ad"
+ },
+ {
+  "en": "Tray",
+  "tr": "Tepsi",
+  "kind": "ad"
+ },
+ {
+  "en": "Trowel",
+  "tr": "Mala",
+  "kind": "ad"
+ },
+ {
+  "en": "Trunk",
+  "tr": "Sandık",
+  "kind": "ad"
+ },
+ {
+  "en": "Tunic",
+  "tr": "Tunik",
+  "kind": "ad"
+ },
+ {
+  "en": "Two-handed Mace",
+  "tr": "Çift El Gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "Two-handed Sword",
+  "tr": "Çift El Kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "Urn",
+  "tr": "Küp",
+  "kind": "ad"
+ },
+ {
+  "en": "Vambraces",
+  "tr": "Kolluk",
+  "kind": "ad"
+ },
+ {
+  "en": "Vase",
+  "tr": "Vazo",
+  "kind": "ad"
+ },
+ {
+  "en": "Velvet Shirt",
+  "tr": "Kadife Gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "Velvet Tunic",
+  "tr": "Kadife Tunik",
+  "kind": "ad"
+ },
+ {
+  "en": "Vest",
+  "tr": "Yelek",
+  "kind": "ad"
+ },
+ {
+  "en": "Voulge",
+  "tr": "Voluj",
+  "kind": "ad"
+ },
+ {
+  "en": "Waistcoat",
+  "tr": "Yelek",
+  "kind": "ad"
+ },
+ {
+  "en": "Walking Stick",
+  "tr": "Baston",
+  "kind": "ad"
+ },
+ {
+  "en": "War Hammer",
+  "tr": "Savaş Çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "Wardrobe",
+  "tr": "Gardırop",
+  "kind": "ad"
+ },
+ {
+  "en": "Wax Tablet",
+  "tr": "Balmumu Tableti",
+  "kind": "ad"
+ },
+ {
+  "en": "Weight",
+  "tr": "Ağırlık",
+  "kind": "ad"
+ },
+ {
+  "en": "When you wear this helm you are able to make out your surroundings even in complete darkness. [sc]",
+  "tr": "Bu miğferi taktığında zifiri karanlıkta bile çevreni seçebiliyorsun. [sc]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "When you wear this strange helmet you feel a strong sense of quiet and isolation. [sc]",
+  "tr": "Bu tuhaf miğferi taktığında derin bir sessizlik ve yalnızlık hissine kapılıyorsun. [sc]",
+  "kind": "aciklama"
+ },
+ {
+  "en": "Whetstone",
+  "tr": "Bileği Taşı",
+  "kind": "ad"
+ },
+ {
+  "en": "Wicker Chest",
+  "tr": "Hasır Sandık",
+  "kind": "ad"
+ },
+ {
+  "en": "Wood Debris",
+  "tr": "Ahşap Parçaları",
+  "kind": "ad"
+ },
+ {
+  "en": "Wooden Stake",
+  "tr": "Ahşap Kazık",
+  "kind": "ad"
+ },
+ {
+  "en": "Wool",
+  "tr": "Yün",
+  "kind": "ad"
+ },
+ {
+  "en": "Workbench",
+  "tr": "Çalışma Tezgahı",
+  "kind": "ad"
+ },
+ {
+  "en": "arm harness",
+  "tr": "kol zırhı",
+  "kind": "ad"
+ },
+ {
+  "en": "arming jack",
+  "tr": "zırh altı ceket",
+  "kind": "ad"
+ },
+ {
+  "en": "awl pike",
+  "tr": "mızraklı kargı",
+  "kind": "ad"
+ },
+ {
+  "en": "axe",
+  "tr": "balta",
+  "kind": "ad"
+ },
+ {
+  "en": "bar mace",
+  "tr": "çubuk gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "bardiche",
+  "tr": "bardiş",
+  "kind": "ad"
+ },
+ {
+  "en": "battle axe",
+  "tr": "savaş baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "breastplate. Metal bands cover a tough and light material.",
+  "tr": "göğüs zırhı. Metal şeritler sağlam ve hafif bir malzemeyi kaplıyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "brigandine",
+  "tr": "brigandin",
+  "kind": "ad"
+ },
+ {
+  "en": "brigandine.",
+  "tr": "brigandin.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "buff leather coat.",
+  "tr": "kalın deri palto.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "club",
+  "tr": "sopa",
+  "kind": "ad"
+ },
+ {
+  "en": "cuirass",
+  "tr": "göğüslük",
+  "kind": "ad"
+ },
+ {
+  "en": "dagger",
+  "tr": "hançer",
+  "kind": "ad"
+ },
+ {
+  "en": "elegant doublet.",
+  "tr": "zarif cepken.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "elegant shirt.",
+  "tr": "zarif gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "extremely solid looking suit of armour that completely encases the body. It seems as though it should make movement extremely difficult.",
+  "tr": "son derece sağlam görünen, bedeni tamamen kaplayan bir zırh takımı. Hareket etmeyi aşırı derecede zorlaştıracak gibi duruyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "fake crown such as is used in the production of plays.",
+  "tr": "tiyatro oyunlarında kullanılan türden sahte bir taç.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "falchion",
+  "tr": "pala",
+  "kind": "ad"
+ },
+ {
+  "en": "flanged mace",
+  "tr": "kanatlı gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "glaive",
+  "tr": "glavye",
+  "kind": "ad"
+ },
+ {
+  "en": "great axe",
+  "tr": "büyük balta",
+  "kind": "ad"
+ },
+ {
+  "en": "greatsword",
+  "tr": "büyük kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "guisarme",
+  "tr": "gizarm",
+  "kind": "ad"
+ },
+ {
+  "en": "halberd",
+  "tr": "teber",
+  "kind": "ad"
+ },
+ {
+  "en": "hardened leather breastplate.",
+  "tr": "sertleştirilmiş deri göğüs zırhı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "hat.",
+  "tr": "şapka.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "helmet",
+  "tr": "miğfer",
+  "kind": "ad"
+ },
+ {
+  "en": "hose",
+  "tr": "çorap",
+  "kind": "ad"
+ },
+ {
+  "en": "jacket.",
+  "tr": "ceket.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "kerchief.",
+  "tr": "başörtüsü.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "lamellar vest.",
+  "tr": "lamelli yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "laminar breastplate.",
+  "tr": "laminar göğüs zırhı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "laminar cuirass.",
+  "tr": "laminar göğüslük.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "layered cloth arming cap.",
+  "tr": "katmanlı kumaş zırh kepi.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "layered gambeson.",
+  "tr": "katmanlı gambezon.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather armour",
+  "tr": "deri zırh",
+  "kind": "ad"
+ },
+ {
+  "en": "leather belt",
+  "tr": "deri kemer",
+  "kind": "ad"
+ },
+ {
+  "en": "leather cap.",
+  "tr": "deri kep.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather coat.",
+  "tr": "deri palto.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather cuirass.",
+  "tr": "deri göğüslük.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather helm",
+  "tr": "deri miğfer",
+  "kind": "ad"
+ },
+ {
+  "en": "leather jacket.",
+  "tr": "Deri ceket.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather tunic.",
+  "tr": "Deri tunik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather vest.",
+  "tr": "Deri yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "leather vest. Clearly this was designed for women.",
+  "tr": "Deri yelek. Belli ki kadınlar için tasarlanmış.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "long coat.",
+  "tr": "Uzun palto.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "long sleeved tunic.",
+  "tr": "Uzun kollu tunik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "long-sleeved mail shirt.",
+  "tr": "Uzun kollu zincir gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "longsword",
+  "tr": "uzun kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "mace",
+  "tr": "gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "mail coif.",
+  "tr": "Zincir başlık.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "mail vest.",
+  "tr": "Zincir yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "padded cap.",
+  "tr": "Dolgulu kep.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "padded coat.",
+  "tr": "Dolgulu palto.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "padded long coat.",
+  "tr": "Dolgulu uzun palto.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "padded shirt",
+  "tr": "dolgulu gömlek",
+  "kind": "ad"
+ },
+ {
+  "en": "pair of \u0010 plate spaulders.",
+  "tr": "Bir çift \u0010 plaka omuzluk.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "pair of padded cloth mitts.",
+  "tr": "Bir çift dolgulu kumaş eldiven.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "pair of pugilist's gloves.",
+  "tr": "Bir çift dövüşçü eldiveni.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "plate armour",
+  "tr": "plaka zırh",
+  "kind": "ad"
+ },
+ {
+  "en": "plate armour.",
+  "tr": "Plaka zırh.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "plate armour. It is made from a metal similar to brass, but while heavy, it serves its purpose well.",
+  "tr": "Plaka zırh. Pirince benzeyen bir metalden yapılmış; ağır olsa da işini iyi görüyor.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "plate bevor",
+  "tr": "plaka gerdanlık",
+  "kind": "ad"
+ },
+ {
+  "en": "plate cuirass.",
+  "tr": "Plaka göğüslük.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "plate helm.",
+  "tr": "Plaka miğfer.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "pole axe",
+  "tr": "uzun saplı balta",
+  "kind": "ad"
+ },
+ {
+  "en": "pole hammer",
+  "tr": "uzun saplı çekiç",
+  "kind": "ad"
+ },
+ {
+  "en": "pourpoint\r\n",
+  "tr": "kapitone ceket\r\n",
+  "kind": "ad"
+ },
+ {
+  "en": "quilted cloth waistcoat.",
+  "tr": "Kapitone kumaş yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "sash",
+  "tr": "kuşak",
+  "kind": "ad"
+ },
+ {
+  "en": "short spear",
+  "tr": "kısa mızrak",
+  "kind": "ad"
+ },
+ {
+  "en": "short-sleeved mail shirt.",
+  "tr": "Kısa kollu zincir gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "short-sleeved vest.",
+  "tr": "Kısa kollu yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "shortsword",
+  "tr": "kısa kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "silk shirt.",
+  "tr": "İpek gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "simple cloth shirt.",
+  "tr": "Basit kumaş gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "simple shirt.",
+  "tr": "Basit gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "simple tunic.",
+  "tr": "Basit tunik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "spear",
+  "tr": "mızrak",
+  "kind": "ad"
+ },
+ {
+  "en": "spetum",
+  "tr": "spetum",
+  "kind": "ad"
+ },
+ {
+  "en": "spiked mace",
+  "tr": "dikenli gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "splint cuirass.",
+  "tr": "Şeritli göğüslük.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "steel breastplate.",
+  "tr": "Çelik göğüs zırhı.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "suede leather tunic.",
+  "tr": "Süet deri tunik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "sword",
+  "tr": "kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "two-handed battle axe",
+  "tr": "çift el savaş baltası",
+  "kind": "ad"
+ },
+ {
+  "en": "two-handed falchion.",
+  "tr": "Çift el pala.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "two-handed mace",
+  "tr": "çift el gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "two-handed spiked mace",
+  "tr": "çift el dikenli gürz",
+  "kind": "ad"
+ },
+ {
+  "en": "two-handed sword",
+  "tr": "çift el kılıç",
+  "kind": "ad"
+ },
+ {
+  "en": "two-handed war hammer",
+  "tr": "çift el savaş çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "velvet shirt.",
+  "tr": "Kadife gömlek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "velvet tunic.",
+  "tr": "Kadife tunik.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "voulge",
+  "tr": "voluj",
+  "kind": "ad"
+ },
+ {
+  "en": "waistcoat.",
+  "tr": "Yelek.",
+  "kind": "aciklama"
+ },
+ {
+  "en": "war hammer",
+  "tr": "savaş çekici",
+  "kind": "ad"
+ },
+ {
+  "en": "wide bracelet that clamps tightly about the wrist. You feel a strange tingling sensation when you wear it.",
+  "tr": "Bileğe sımsıkı oturan geniş bir bilezik. Taktığında tuhaf bir karıncalanma hissediyorsun.",
+  "kind": "aciklama"
+ }
+]
