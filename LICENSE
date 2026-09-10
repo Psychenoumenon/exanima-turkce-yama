@@ -1,21 +1,33 @@
-MIT License
+Copyright (c) 2026 Boborris. All rights reserved.
 
-Copyright (c) 2026 Boborris
+SOURCE-AVAILABLE, NOT OPEN SOURCE
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This source code is published for transparency and verification only, so that
+anyone can confirm what the released installer does and reproduce it from
+source. It is not placed in the public domain and no licence to reuse it is
+granted.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You MAY:
+  - read, download and inspect this code;
+  - build it yourself and run the result on your own machine;
+  - quote short excerpts when discussing or reporting a problem.
+
+You MAY NOT, without the prior written permission of the copyright holder:
+  - redistribute this code or any binary built from it;
+  - publish it, or any derivative of it, on Nexus Mods, Steam, or any other
+    platform;
+  - modify it and release the result;
+  - use the Turkish translation text contained in this repository in any other
+    project.
+
+The Turkish translation itself is a separate creative work and is covered by
+the same restrictions.
+
+Permission requests are welcome. Ask, and the answer will usually be yes.
+
+Exanima is the property of Bare Mettle Entertainment. This project is an
+unofficial fan translation and is not affiliated with or endorsed by them.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+IMPLIED. THE COPYRIGHT HOLDER IS NOT LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THIS SOFTWARE.

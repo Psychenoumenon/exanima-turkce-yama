@@ -55,6 +55,14 @@ original files to `.orijinal` backups, and rewrites them. Everything it does is
 in this repository, and the released executable can be reproduced from it with
 the command above.
 
+## Licence
+
+Source-available, not open source. The code is published so that anyone can
+verify what the installer does and reproduce the binary from source. It may not
+be redistributed, republished or modified for release without permission. See
+[LICENSE](LICENSE).
+
+
 ## File map
 
 | File | Purpose |
